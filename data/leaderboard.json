@@ -6,9 +6,9 @@
       "username": "luffy",
       "display_name": "Monkey D. Luffy",
       "avatar_url": "https://github.com/AXHP-Labs/suisight/blob/main/img/PP/Luffy.jpg?raw=true",
-      "total_volume": 260316700000,
-      "total_winnings": 727237879936,
-      "total_score": 987554579936,
+      "total_volume": 429806700000,
+      "total_winnings": 1000917980989,
+      "total_score": 1430724680989,
       "profile_exists": true
     },
     {
@@ -57,6 +57,17 @@
     },
     {
       "rank": 6,
+      "address": "0xe777856a926579e998b0c9642e76d754fca15a4c6f83643547c21c1ae6da9c46",
+      "username": "kasi84",
+      "display_name": null,
+      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Felix",
+      "total_volume": 362210100000,
+      "total_winnings": 34410439523,
+      "total_score": 396620539523,
+      "profile_exists": true
+    },
+    {
+      "rank": 7,
       "address": "0xc35fe9d954f68a3340bb952aa8ac4f799696d14f025aa1230062de7be3a6e0ca",
       "username": "nakamura",
       "display_name": "ren",
@@ -64,17 +75,6 @@
       "total_volume": 167496000000,
       "total_winnings": 226695240552,
       "total_score": 394191240552,
-      "profile_exists": true
-    },
-    {
-      "rank": 7,
-      "address": "0xe777856a926579e998b0c9642e76d754fca15a4c6f83643547c21c1ae6da9c46",
-      "username": "kasi84",
-      "display_name": null,
-      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Felix",
-      "total_volume": 357225100000,
-      "total_winnings": 34410439523,
-      "total_score": 391635539523,
       "profile_exists": true
     },
     {
@@ -90,6 +90,17 @@
     },
     {
       "rank": 9,
+      "address": "0x17b91262eb977602d7f7959a645bf4e52827b94b40888ae326602804d8f03f5f",
+      "username": "allundercontrol",
+      "display_name": "AllUnderControl",
+      "avatar_url": null,
+      "total_volume": 107327050000,
+      "total_winnings": 30819918553,
+      "total_score": 138146968553,
+      "profile_exists": true
+    },
+    {
+      "rank": 10,
       "address": "0xce0cc52fc1aa6bb7043f0cedc82fea25c1be0546f4ae9a6856dafe975866634c",
       "username": "marcus",
       "display_name": "reed",
@@ -100,7 +111,7 @@
       "profile_exists": true
     },
     {
-      "rank": 10,
+      "rank": 11,
       "address": "0x9cc0d8812919e0172b176087207b9debfb93adb39d2354f9a28962c5188331b0",
       "username": "hayes",
       "display_name": "Hayes",
@@ -111,7 +122,7 @@
       "profile_exists": true
     },
     {
-      "rank": 11,
+      "rank": 12,
       "address": "0x2b97d4ebfdaf33665f8f5f6edab1df759f198ee1093e33f144e11fbac8c7ccfa",
       "username": "myria",
       "display_name": "myria",
@@ -122,7 +133,7 @@
       "profile_exists": true
     },
     {
-      "rank": 12,
+      "rank": 13,
       "address": "0x1bc3c04967366b122943b8d30ba632358012766e858d808cd054a4578dd1019a",
       "username": null,
       "display_name": null,
@@ -133,29 +144,29 @@
       "profile_exists": false
     },
     {
-      "rank": 13,
+      "rank": 14,
       "address": "0xe9a8b7e9ba7bf018541080a9f3301bd75a804ea5df7d7556e6096427dadf8164",
       "username": "louis",
       "display_name": "Martin",
       "avatar_url": "https://github.com/AXHP-Labs/suisight/blob/main/img/photo_2025-02-14_02-52-38.jpg?raw=true",
       "total_volume": 26819300000,
-      "total_winnings": 46398863061,
-      "total_score": 73218163061,
+      "total_winnings": 46588437130,
+      "total_score": 73407737130,
       "profile_exists": true
     },
     {
-      "rank": 14,
+      "rank": 15,
       "address": "0x874e29b26ccce743bb8b322d29ecbf6c337642aaaf56aeed860e76cdf7dd3c10",
       "username": null,
       "display_name": null,
       "avatar_url": null,
-      "total_volume": 57925700000,
-      "total_winnings": 0,
-      "total_score": 57925700000,
+      "total_volume": 64007400000,
+      "total_winnings": 4492630765,
+      "total_score": 68500030765,
       "profile_exists": false
     },
     {
-      "rank": 15,
+      "rank": 16,
       "address": "0xed5eb9e14cd67026e98ab2feca51f3741e46920c6cfbb40ded5ef689e5c3d603",
       "username": "akira",
       "display_name": "akiraa",
@@ -166,18 +177,18 @@
       "profile_exists": true
     },
     {
-      "rank": 16,
+      "rank": 17,
       "address": "0x14d7acd9c27fa4922897242b985122d4cae26aac33e6dffd4761a1ee91fbbe78",
       "username": "liam",
       "display_name": "Liam Harris",
       "avatar_url": "https://raw.githubusercontent.com/AXHP-Labs/suisight/refs/heads/main/img/z.jpg",
       "total_volume": 42073400000,
-      "total_winnings": 6343696233,
-      "total_score": 48417096233,
+      "total_winnings": 6408965568,
+      "total_score": 48482365568,
       "profile_exists": true
     },
     {
-      "rank": 17,
+      "rank": 18,
       "address": "0x15643bfc460bcb9862d55001f005b59d3b71f63da1cc07dc197cc015dcad1aa4",
       "username": "chion",
       "display_name": "Chion",
@@ -188,18 +199,18 @@
       "profile_exists": true
     },
     {
-      "rank": 18,
+      "rank": 19,
       "address": "0x5edff09fc4b9b021f24524ab570912422474678128ffb07c5b172b2e782ec42f",
       "username": "scott",
       "display_name": "Brandon",
       "avatar_url": "https://github.com/AXHP-Labs/suisight/blob/main/img/PP/Scott.jpeg?raw=true",
       "total_volume": 19092550000,
-      "total_winnings": 26600203542,
-      "total_score": 45692753542,
+      "total_winnings": 27730442360,
+      "total_score": 46822992360,
       "profile_exists": true
     },
     {
-      "rank": 19,
+      "rank": 20,
       "address": "0x7f97dc4b3d82abf55067f7339f71e84f4f81055e2c9ac3482b6ca518f5e2594a",
       "username": "potm",
       "display_name": "potm hichkas",
@@ -210,18 +221,18 @@
       "profile_exists": true
     },
     {
-      "rank": 20,
-      "address": "0x17b91262eb977602d7f7959a645bf4e52827b94b40888ae326602804d8f03f5f",
-      "username": "allundercontrol",
-      "display_name": "AllUnderControl",
-      "avatar_url": null,
-      "total_volume": 24576050000,
+      "rank": 21,
+      "address": "0x7afd2906726498dd5395dc26ec563ce22aa502200c0fa3a69aa2d30f2b382027",
+      "username": "danielcrypto",
+      "display_name": "danielcrypto",
+      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Felix",
+      "total_volume": 18157972170,
       "total_winnings": 0,
-      "total_score": 24576050000,
+      "total_score": 18157972170,
       "profile_exists": true
     },
     {
-      "rank": 21,
+      "rank": 22,
       "address": "0x74eb7633d1f49b99cfb0d61a645af04ef91daa53dc0ea3f3695c6d1b45abd5cf",
       "username": "aemar00",
       "display_name": "aemar00",
@@ -232,7 +243,7 @@
       "profile_exists": true
     },
     {
-      "rank": 22,
+      "rank": 23,
       "address": "0xce57e1691147a95558c5d93012c8b05acd184dfd34fc3c1c000c9be3155bc6aa",
       "username": "cole",
       "display_name": "Jack",
@@ -243,7 +254,7 @@
       "profile_exists": true
     },
     {
-      "rank": 23,
+      "rank": 24,
       "address": "0x353965f1f5084ceafdb1f3c015b745a31f9b83fd3a4f721ecbc7371c47494ca0",
       "username": "halinhventures",
       "display_name": "hahoan",
@@ -254,7 +265,7 @@
       "profile_exists": true
     },
     {
-      "rank": 24,
+      "rank": 25,
       "address": "0x82a57172718f7364b4af38cfb8863c39cdf256940181f85caea4118c520dbf12",
       "username": "vendetta",
       "display_name": null,
@@ -262,17 +273,6 @@
       "total_volume": 15553200000,
       "total_winnings": 0,
       "total_score": 15553200000,
-      "profile_exists": true
-    },
-    {
-      "rank": 25,
-      "address": "0x7afd2906726498dd5395dc26ec563ce22aa502200c0fa3a69aa2d30f2b382027",
-      "username": "danielcrypto",
-      "display_name": "danielcrypto",
-      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Felix",
-      "total_volume": 14169972170,
-      "total_winnings": 0,
-      "total_score": 14169972170,
       "profile_exists": true
     },
     {
@@ -530,7 +530,7 @@
     },
     {
       "rank": 49,
-      "address": "0x62efca9276734bc7278acac9e045f46317ae3300f6d71828d8fed1c778a6b153",
+      "address": "0xdfa8af539efce58c07eb95595ce03f9dcab1f01257ac68e827aaaf112a20f963",
       "username": null,
       "display_name": null,
       "avatar_url": null,
@@ -541,6 +541,17 @@
     },
     {
       "rank": 50,
+      "address": "0x62efca9276734bc7278acac9e045f46317ae3300f6d71828d8fed1c778a6b153",
+      "username": null,
+      "display_name": null,
+      "avatar_url": null,
+      "total_volume": 997000000,
+      "total_winnings": 0,
+      "total_score": 997000000,
+      "profile_exists": false
+    },
+    {
+      "rank": 51,
       "address": "0x4bd4e10d323dc4105aaf1d6b72408f20637b100f47d91ed17732dc53d45350f3",
       "username": "zuki",
       "display_name": "Zukinex",
@@ -551,7 +562,7 @@
       "profile_exists": true
     },
     {
-      "rank": 51,
+      "rank": 52,
       "address": "0x0a38e869e3be1e3ba92441f55ea8a0614a7e4321dae389a62b85d995b382cb23",
       "username": "blue",
       "display_name": "berry",
@@ -562,7 +573,7 @@
       "profile_exists": true
     },
     {
-      "rank": 52,
+      "rank": 53,
       "address": "0xfc1e4642a2c7e592809447765808f9bb6d2275b04f942b8939ac8d4799821738",
       "username": null,
       "display_name": null,
@@ -573,7 +584,7 @@
       "profile_exists": false
     },
     {
-      "rank": 53,
+      "rank": 54,
       "address": "0x05933846006526fbe2c6a6aeb64562bd0930786ff738c597a10662bfdc61b640",
       "username": "vinilima08",
       "display_name": "Vinilima08",
@@ -584,7 +595,7 @@
       "profile_exists": true
     },
     {
-      "rank": 54,
+      "rank": 55,
       "address": "0x602ad030bddf00c0b0883ea2676e19b407387113bf2c9ee5b0b3f00cd6a8171b",
       "username": "shivraj29",
       "display_name": "Shivraj",
@@ -595,7 +606,29 @@
       "profile_exists": true
     },
     {
-      "rank": 55,
+      "rank": 56,
+      "address": "0x2388f9ab197a5423a8da397c8020992d56a0212e7cdb5c8b3ae715b637fca85c",
+      "username": "vgoldmv",
+      "display_name": "vgoldmv",
+      "avatar_url": null,
+      "total_volume": 263144192,
+      "total_winnings": 0,
+      "total_score": 263144192,
+      "profile_exists": true
+    },
+    {
+      "rank": 57,
+      "address": "0x140fb4b5350523f7d81793e73e7d8edc458685c72eb14aefd078dde3318791cf",
+      "username": null,
+      "display_name": null,
+      "avatar_url": null,
+      "total_volume": 199400000,
+      "total_winnings": 0,
+      "total_score": 199400000,
+      "profile_exists": false
+    },
+    {
+      "rank": 58,
       "address": "0x0ddefa260e5a4a03ffa24716bbc629afd1af6e38e557053d4f7c94ebc18a1809",
       "username": null,
       "display_name": null,
@@ -606,7 +639,7 @@
       "profile_exists": false
     },
     {
-      "rank": 56,
+      "rank": 59,
       "address": "0xf323260231e2182e6ce424a03092bb3680b3eaf86b6e0b421fe083dd38481aa6",
       "username": null,
       "display_name": null,
@@ -617,7 +650,7 @@
       "profile_exists": false
     },
     {
-      "rank": 57,
+      "rank": 60,
       "address": "0x7f7a7d51d6c0c2b88e1f05ba0d456b7b60791f5bdf7e875c3b5ce90f137f1de0",
       "username": "j0hn50n",
       "display_name": "Axel Johnson",
@@ -628,7 +661,7 @@
       "profile_exists": true
     },
     {
-      "rank": 58,
+      "rank": 61,
       "address": "0xe4035853fd1d33321e72d7a3292f6c8d262f6a341762c0184c4488a11983fd62",
       "username": null,
       "display_name": null,
@@ -639,5 +672,5 @@
       "profile_exists": false
     }
   ],
-  "timestamp": 1759636061235
+  "timestamp": 1759986299262
 }
