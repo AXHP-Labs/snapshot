@@ -6205,10 +6205,10 @@
       "total_shares_yes": 365631570,
       "total_shares_no": 0,
       "transaction_count": 2,
-      "username": null,
-      "display_name": null,
-      "avatar_url": null,
-      "profile_exists": false
+      "username": "genjoker",
+      "display_name": "Joker",
+      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Aneka",
+      "profile_exists": true
     },
     {
       "user": "0x360a8579eb0ea1f0ed080c9960922cd0d77dd3f8931495ef985a796796bd5059",
@@ -7690,10 +7690,10 @@
       "total_shares_yes": 0,
       "total_shares_no": 174552880,
       "transaction_count": 1,
-      "username": null,
-      "display_name": null,
-      "avatar_url": null,
-      "profile_exists": false
+      "username": "heverton",
+      "display_name": "vetin",
+      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Felix",
+      "profile_exists": true
     },
     {
       "user": "0x9ebacf1b73f3a51401f4fd6e04ea6b3ab1aa50266c7c2e4f5c596143cf358ed0",
@@ -7705,10 +7705,10 @@
       "total_shares_yes": 0,
       "total_shares_no": 126408684,
       "transaction_count": 1,
-      "username": null,
-      "display_name": null,
-      "avatar_url": null,
-      "profile_exists": false
+      "username": "heverton",
+      "display_name": "vetin",
+      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Felix",
+      "profile_exists": true
     },
     {
       "user": "0x9ebacf1b73f3a51401f4fd6e04ea6b3ab1aa50266c7c2e4f5c596143cf358ed0",
@@ -7735,10 +7735,10 @@
       "total_shares_yes": 0,
       "total_shares_no": 508557607,
       "transaction_count": 1,
-      "username": null,
-      "display_name": null,
-      "avatar_url": null,
-      "profile_exists": false
+      "username": "heverton",
+      "display_name": "vetin",
+      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Felix",
+      "profile_exists": true
     },
     {
       "user": "0x9ebacf1b73f3a51401f4fd6e04ea6b3ab1aa50266c7c2e4f5c596143cf358ed0",
@@ -8461,5 +8461,5 @@
       "profile_exists": true
     }
   ],
-  "timestamp": 1759986299265
+  "timestamp": 1760080856410
 }
