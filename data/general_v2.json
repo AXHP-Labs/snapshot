@@ -11,8 +11,8 @@
   "proposals_currently_active": 0,
   "proposals_approved": 8,
   "oracle_requests_total": 38,
-  "oracle_requests_resolved": 34,
-  "oracle_rewards_total": 47439898529,
+  "oracle_requests_resolved": 38,
+  "oracle_rewards_total": 50011877829,
   "active_oracles": 5,
-  "timestamp": 1760086788642
+  "timestamp": 1760088101794
 }
