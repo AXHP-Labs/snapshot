@@ -499,10 +499,10 @@
       "winningAmount": 36864410282,
       "timestamp": 1759008138434,
       "rarity": "rare",
-      "username": "jonas",
-      "display_name": "Jonas Klein",
-      "avatar_url": "https://raw.githubusercontent.com/AXHP-Labs/suisight/refs/heads/main/img/CloneX%20%2315565.png",
-      "profile_exists": true
+      "username": null,
+      "display_name": null,
+      "avatar_url": null,
+      "profile_exists": false
     },
     {
       "badgeId": "0x9bb03caa3ab5ce6c7363ece86528ca666bc794a3e38aec49f8c107ce0228ac55",
@@ -511,10 +511,10 @@
       "winningAmount": 191307953044,
       "timestamp": 1759008138434,
       "rarity": "legendary",
-      "username": "cokro",
-      "display_name": "Cokro",
-      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Garfield",
-      "profile_exists": true
+      "username": null,
+      "display_name": null,
+      "avatar_url": null,
+      "profile_exists": false
     },
     {
       "badgeId": "0xbf42bedd6525ce0ba21e470670654ce61e6bc225cfc9ec1373d4d86dc9273e3e",
@@ -523,10 +523,10 @@
       "winningAmount": 4882001240,
       "timestamp": 1758662535225,
       "rarity": "common",
-      "username": "0xford",
-      "display_name": "0xford",
-      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rocky",
-      "profile_exists": true
+      "username": null,
+      "display_name": null,
+      "avatar_url": null,
+      "profile_exists": false
     },
     {
       "badgeId": "0x8c4cc17ccbc9230beda1f2039b2071779c3f46cde3817bc879821349de8e24c7",
@@ -571,10 +571,10 @@
       "winningAmount": 3271443538,
       "timestamp": 1758662535225,
       "rarity": "common",
-      "username": "myria",
-      "display_name": "myria",
-      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Garfield",
-      "profile_exists": true
+      "username": null,
+      "display_name": null,
+      "avatar_url": null,
+      "profile_exists": false
     },
     {
       "badgeId": "0x0826c285c8f9db7596ab85dacf76e81a8b49e898c465e147045c7abcaa3ab8f6",
@@ -607,10 +607,10 @@
       "winningAmount": 605244757,
       "timestamp": 1758662535225,
       "rarity": "common",
-      "username": "0xhantos",
-      "display_name": "0xhantos",
-      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Max",
-      "profile_exists": true
+      "username": null,
+      "display_name": null,
+      "avatar_url": null,
+      "profile_exists": false
     },
     {
       "badgeId": "0x9d9fff158a15abbdec4a33be57fee906b9925405919fcef0a462cd336966215b",
@@ -619,10 +619,10 @@
       "winningAmount": 3290775951,
       "timestamp": 1758576134522,
       "rarity": "common",
-      "username": "cole",
-      "display_name": "Jack",
-      "avatar_url": "https://github.com/AXHP-Labs/suisight/blob/main/img/PP/Coleman.jpeg?raw=true",
-      "profile_exists": true
+      "username": null,
+      "display_name": null,
+      "avatar_url": null,
+      "profile_exists": false
     },
     {
       "badgeId": "0xa980b3033c5b745dc50f18fd52760d0a1df111031c60271bea82539fa404528b",
@@ -631,10 +631,10 @@
       "winningAmount": 4966225434,
       "timestamp": 1758576134522,
       "rarity": "common",
-      "username": "marcus",
-      "display_name": "reed",
-      "avatar_url": "https://github.com/AXHP-Labs/suisight/blob/main/img/PP/Reed.jpg?raw=true",
-      "profile_exists": true
+      "username": null,
+      "display_name": null,
+      "avatar_url": null,
+      "profile_exists": false
     },
     {
       "badgeId": "0xeec4c34fcce495e15aa636affb4e30168c4f09943f80346585530e69fb212134",
@@ -643,10 +643,10 @@
       "winningAmount": 7017258823,
       "timestamp": 1758576134522,
       "rarity": "common",
-      "username": "akira",
-      "display_name": "akiraa",
-      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Charlie",
-      "profile_exists": true
+      "username": null,
+      "display_name": null,
+      "avatar_url": null,
+      "profile_exists": false
     },
     {
       "badgeId": "0xb83fca8e7e92901e85747788d63a447e5d2a88d5db840d927f28d3548515d4ac",
@@ -655,10 +655,10 @@
       "winningAmount": 46183083433,
       "timestamp": 1758576134522,
       "rarity": "rare",
-      "username": "louis",
-      "display_name": "Martin",
-      "avatar_url": "https://github.com/AXHP-Labs/suisight/blob/main/img/photo_2025-02-14_02-52-38.jpg?raw=true",
-      "profile_exists": true
+      "username": null,
+      "display_name": null,
+      "avatar_url": null,
+      "profile_exists": false
     },
     {
       "badgeId": "0xec789dec5afcd083e85c57a31e87a58dc24a4e749cee83754f8e8f3c7927b661",
@@ -667,10 +667,10 @@
       "winningAmount": 182510913,
       "timestamp": 1758576134522,
       "rarity": "common",
-      "username": "liam",
-      "display_name": "Liam Harris",
-      "avatar_url": "https://raw.githubusercontent.com/AXHP-Labs/suisight/refs/heads/main/img/z.jpg",
-      "profile_exists": true
+      "username": null,
+      "display_name": null,
+      "avatar_url": null,
+      "profile_exists": false
     },
     {
       "badgeId": "0x63abe86cf4b22157dabf04b4eaa82c42e37629b307931ae74a36effd7e7052b5",
@@ -679,10 +679,10 @@
       "winningAmount": 1795757358,
       "timestamp": 1758576134522,
       "rarity": "common",
-      "username": "akira",
-      "display_name": "akiraa",
-      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Charlie",
-      "profile_exists": true
+      "username": null,
+      "display_name": null,
+      "avatar_url": null,
+      "profile_exists": false
     },
     {
       "badgeId": "0xaab7458821a4711080191c8fc97359827e62974862385d69282f94fdcc10d31c",
@@ -691,10 +691,10 @@
       "winningAmount": 21772226378,
       "timestamp": 1758576134522,
       "rarity": "rare",
-      "username": "nakamura",
-      "display_name": "ren",
-      "avatar_url": "https://github.com/AXHP-Labs/suisight/blob/main/img/PP/Nakamura.jpg?raw=true",
-      "profile_exists": true
+      "username": null,
+      "display_name": null,
+      "avatar_url": null,
+      "profile_exists": false
     },
     {
       "badgeId": "0x373443a0bbbd75718c3b6dc5aa81b4beb72d6f960a26cab287e9473a54fb3c14",
@@ -1801,5 +1801,5 @@
       "profile_exists": true
     }
   ],
-  "timestamp": 1760088105908
+  "timestamp": 1760088406415
 }
