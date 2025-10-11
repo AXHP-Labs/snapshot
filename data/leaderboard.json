@@ -79,6 +79,17 @@
     },
     {
       "rank": 8,
+      "address": "0x17b91262eb977602d7f7959a645bf4e52827b94b40888ae326602804d8f03f5f",
+      "username": "allundercontrol",
+      "display_name": "AllUnderControl",
+      "avatar_url": null,
+      "total_volume": 107327050000,
+      "total_winnings": 114948982302,
+      "total_score": 222276032302,
+      "profile_exists": true
+    },
+    {
+      "rank": 9,
       "address": "0x543b17dd33e241f47274db85fa7a8b9a52f8766b0b382825c27f3218cf95ca02",
       "username": "0xford",
       "display_name": "0xford",
@@ -86,17 +97,6 @@
       "total_volume": 103987100000,
       "total_winnings": 71111660149,
       "total_score": 175098760149,
-      "profile_exists": true
-    },
-    {
-      "rank": 9,
-      "address": "0x17b91262eb977602d7f7959a645bf4e52827b94b40888ae326602804d8f03f5f",
-      "username": "allundercontrol",
-      "display_name": "AllUnderControl",
-      "avatar_url": null,
-      "total_volume": 107327050000,
-      "total_winnings": 30819918553,
-      "total_score": 138146968553,
       "profile_exists": true
     },
     {
@@ -672,5 +672,5 @@
       "profile_exists": false
     }
   ],
-  "timestamp": 1760090254792
+  "timestamp": 1760173721286
 }

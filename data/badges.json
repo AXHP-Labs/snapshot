@@ -1,6 +1,30 @@
 {
   "data": [
     {
+      "badgeId": "0x4e398a6a6fc6770305000c874675fd52995953e307581107c5475aaaccb51442",
+      "marketId": "0x5d39806d787f42fe908add850975587bc0c63897c75838fd9529d27c7a17e3ca",
+      "winner": "0x17b91262eb977602d7f7959a645bf4e52827b94b40888ae326602804d8f03f5f",
+      "winningAmount": 38480477488,
+      "timestamp": 1760131347173,
+      "rarity": "rare",
+      "username": "allundercontrol",
+      "display_name": "AllUnderControl",
+      "avatar_url": null,
+      "profile_exists": true
+    },
+    {
+      "badgeId": "0x86d695cc014ebbb0e76da11124bbcb45321d88eb90813ce91cf1ad1016727c25",
+      "marketId": "0x62cdb2b2d4ebb7027c01365303e8f5fc25d969ffb43e1f477891a592820b47c7",
+      "winner": "0x17b91262eb977602d7f7959a645bf4e52827b94b40888ae326602804d8f03f5f",
+      "winningAmount": 45648586261,
+      "timestamp": 1760131347173,
+      "rarity": "rare",
+      "username": "allundercontrol",
+      "display_name": "AllUnderControl",
+      "avatar_url": null,
+      "profile_exists": true
+    },
+    {
       "badgeId": "0x86354c97954fa9377b50b8f783aa6f853a677d1dfcb18d354af656632e3c00f9",
       "marketId": "0x2b37abcfc672e7b5892a71d98bf0c7a68593eef18a82a88ef8ad7b2fc9570b57",
       "winner": "0xf662b0fa6746d08c6236f2c13033762630d6c09269a1c64ab2a0979063fd51de",
@@ -1801,5 +1825,5 @@
       "profile_exists": true
     }
   ],
-  "timestamp": 1760090254793
+  "timestamp": 1760173721287
 }

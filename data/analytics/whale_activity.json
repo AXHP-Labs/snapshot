@@ -1,0 +1,417 @@
+{
+  "metadata": {
+    "generated_at": "2025-10-11T09:14:17.393Z",
+    "whale_threshold_sui": 10,
+    "description": "Daily whale vs retail trading activity"
+  },
+  "data": [
+    {
+      "date": "2025-08-20",
+      "whale_volume_sui": 0,
+      "whale_trades": 0,
+      "retail_volume_sui": 0.997,
+      "retail_trades": 1,
+      "whale_percentage": 0
+    },
+    {
+      "date": "2025-08-21",
+      "whale_volume_sui": 0,
+      "whale_trades": 0,
+      "retail_volume_sui": 1.4955,
+      "retail_trades": 11,
+      "whale_percentage": 0
+    },
+    {
+      "date": "2025-08-22",
+      "whale_volume_sui": 0,
+      "whale_trades": 0,
+      "retail_volume_sui": 9.072700000000001,
+      "retail_trades": 12,
+      "whale_percentage": 0
+    },
+    {
+      "date": "2025-08-23",
+      "whale_volume_sui": 0,
+      "whale_trades": 0,
+      "retail_volume_sui": 23.628899999999998,
+      "retail_trades": 21,
+      "whale_percentage": 0
+    },
+    {
+      "date": "2025-08-24",
+      "whale_volume_sui": 0,
+      "whale_trades": 0,
+      "retail_volume_sui": 5.981999999999999,
+      "retail_trades": 21,
+      "whale_percentage": 0
+    },
+    {
+      "date": "2025-08-25",
+      "whale_volume_sui": 0,
+      "whale_trades": 0,
+      "retail_volume_sui": 15.752600000000008,
+      "retail_trades": 65,
+      "whale_percentage": 0
+    },
+    {
+      "date": "2025-08-26",
+      "whale_volume_sui": 0,
+      "whale_trades": 0,
+      "retail_volume_sui": 90.42789999999992,
+      "retail_trades": 93,
+      "whale_percentage": 0
+    },
+    {
+      "date": "2025-08-27",
+      "whale_volume_sui": 0,
+      "whale_trades": 0,
+      "retail_volume_sui": 38.18509999999989,
+      "retail_trades": 110,
+      "whale_percentage": 0
+    },
+    {
+      "date": "2025-08-28",
+      "whale_volume_sui": 0,
+      "whale_trades": 0,
+      "retail_volume_sui": 123.02979999999992,
+      "retail_trades": 82,
+      "whale_percentage": 0
+    },
+    {
+      "date": "2025-08-29",
+      "whale_volume_sui": 53.838,
+      "whale_trades": 3,
+      "retail_volume_sui": 105.38289999999999,
+      "retail_trades": 110,
+      "whale_percentage": 33.813400125234814
+    },
+    {
+      "date": "2025-08-30",
+      "whale_volume_sui": 0,
+      "whale_trades": 0,
+      "retail_volume_sui": 59.62059999999999,
+      "retail_trades": 22,
+      "whale_percentage": 0
+    },
+    {
+      "date": "2025-08-31",
+      "whale_volume_sui": 0,
+      "whale_trades": 0,
+      "retail_volume_sui": 52.94069999999985,
+      "retail_trades": 120,
+      "whale_percentage": 0
+    },
+    {
+      "date": "2025-09-01",
+      "whale_volume_sui": 31.904000000000003,
+      "whale_trades": 2,
+      "retail_volume_sui": 32.003699999999995,
+      "retail_trades": 15,
+      "whale_percentage": 49.9219968798752
+    },
+    {
+      "date": "2025-09-02",
+      "whale_volume_sui": 145.562,
+      "whale_trades": 2,
+      "retail_volume_sui": 57.12809999999992,
+      "retail_trades": 87,
+      "whale_percentage": 71.81505164781116
+    },
+    {
+      "date": "2025-09-03",
+      "whale_volume_sui": 0,
+      "whale_trades": 0,
+      "retail_volume_sui": 14.755600000000012,
+      "retail_trades": 55,
+      "whale_percentage": 0
+    },
+    {
+      "date": "2025-09-04",
+      "whale_volume_sui": 63.907700000000006,
+      "whale_trades": 3,
+      "retail_volume_sui": 28.813299999999995,
+      "retail_trades": 48,
+      "whale_percentage": 68.92473118279571
+    },
+    {
+      "date": "2025-09-05",
+      "whale_volume_sui": 52.841,
+      "whale_trades": 4,
+      "retail_volume_sui": 59.12209999999999,
+      "retail_trades": 22,
+      "whale_percentage": 47.195013357079254
+    },
+    {
+      "date": "2025-09-06",
+      "whale_volume_sui": 48.85300000000001,
+      "whale_trades": 3,
+      "retail_volume_sui": 14.0577,
+      "retail_trades": 5,
+      "whale_percentage": 77.65451664025356
+    },
+    {
+      "date": "2025-09-07",
+      "whale_volume_sui": 69.79,
+      "whale_trades": 2,
+      "retail_volume_sui": 18.0457,
+      "retail_trades": 5,
+      "whale_percentage": 79.45516458569809
+    },
+    {
+      "date": "2025-09-08",
+      "whale_volume_sui": 0,
+      "whale_trades": 0,
+      "retail_volume_sui": 45.2638,
+      "retail_trades": 12,
+      "whale_percentage": 0
+    },
+    {
+      "date": "2025-09-10",
+      "whale_volume_sui": 0,
+      "whale_trades": 0,
+      "retail_volume_sui": 22.930999999999987,
+      "retail_trades": 27,
+      "whale_percentage": 0
+    },
+    {
+      "date": "2025-09-12",
+      "whale_volume_sui": 0,
+      "whale_trades": 0,
+      "retail_volume_sui": 49.89984999999998,
+      "retail_trades": 39,
+      "whale_percentage": 0
+    },
+    {
+      "date": "2025-09-13",
+      "whale_volume_sui": 0,
+      "whale_trades": 0,
+      "retail_volume_sui": 16.749600000000008,
+      "retail_trades": 20,
+      "whale_percentage": 0
+    },
+    {
+      "date": "2025-09-14",
+      "whale_volume_sui": 92.721,
+      "whale_trades": 5,
+      "retail_volume_sui": 28.1154,
+      "retail_trades": 10,
+      "whale_percentage": 76.73267326732673
+    },
+    {
+      "date": "2025-09-15",
+      "whale_volume_sui": 0,
+      "whale_trades": 0,
+      "retail_volume_sui": 16.114122170000005,
+      "retail_trades": 67,
+      "whale_percentage": 0
+    },
+    {
+      "date": "2025-09-16",
+      "whale_volume_sui": 0,
+      "whale_trades": 0,
+      "retail_volume_sui": 22.38264999999996,
+      "retail_trades": 118,
+      "whale_percentage": 0
+    },
+    {
+      "date": "2025-09-17",
+      "whale_volume_sui": 49.85,
+      "whale_trades": 2,
+      "retail_volume_sui": 25.77244999999996,
+      "retail_trades": 50,
+      "whale_percentage": 65.9195781147001
+    },
+    {
+      "date": "2025-09-18",
+      "whale_volume_sui": 0,
+      "whale_trades": 0,
+      "retail_volume_sui": 46.75929999999992,
+      "retail_trades": 86,
+      "whale_percentage": 0
+    },
+    {
+      "date": "2025-09-19",
+      "whale_volume_sui": 0,
+      "whale_trades": 0,
+      "retail_volume_sui": 27.417499999999993,
+      "retail_trades": 23,
+      "whale_percentage": 0
+    },
+    {
+      "date": "2025-09-20",
+      "whale_volume_sui": 0,
+      "whale_trades": 0,
+      "retail_volume_sui": 21.13639999999997,
+      "retail_trades": 80,
+      "whale_percentage": 0
+    },
+    {
+      "date": "2025-09-21",
+      "whale_volume_sui": 115.652,
+      "whale_trades": 4,
+      "retail_volume_sui": 31.1064,
+      "retail_trades": 10,
+      "whale_percentage": 78.80434782608697
+    },
+    {
+      "date": "2025-09-22",
+      "whale_volume_sui": 49.85,
+      "whale_trades": 1,
+      "retail_volume_sui": 25.822300000000013,
+      "retail_trades": 37,
+      "whale_percentage": 65.87615283267458
+    },
+    {
+      "date": "2025-09-23",
+      "whale_volume_sui": 19.94,
+      "whale_trades": 1,
+      "retail_volume_sui": 21.634900000000002,
+      "retail_trades": 17,
+      "whale_percentage": 47.961630695443645
+    },
+    {
+      "date": "2025-09-24",
+      "whale_volume_sui": 90.727,
+      "whale_trades": 2,
+      "retail_volume_sui": 40.87699999999992,
+      "retail_trades": 75,
+      "whale_percentage": 68.93939393939398
+    },
+    {
+      "date": "2025-09-25",
+      "whale_volume_sui": 220.337,
+      "whale_trades": 2,
+      "retail_volume_sui": 3.3898,
+      "retail_trades": 5,
+      "whale_percentage": 98.48484848484848
+    },
+    {
+      "date": "2025-09-26",
+      "whale_volume_sui": 179.46,
+      "whale_trades": 1,
+      "retail_volume_sui": 29.71059999999999,
+      "retail_trades": 71,
+      "whale_percentage": 85.79599618684462
+    },
+    {
+      "date": "2025-09-27",
+      "whale_volume_sui": 0,
+      "whale_trades": 0,
+      "retail_volume_sui": 11.664900000000001,
+      "retail_trades": 14,
+      "whale_percentage": 0
+    },
+    {
+      "date": "2025-09-28",
+      "whale_volume_sui": 96.709,
+      "whale_trades": 1,
+      "retail_volume_sui": 24.62590000000001,
+      "retail_trades": 48,
+      "whale_percentage": 79.70419063270336
+    },
+    {
+      "date": "2025-09-29",
+      "whale_volume_sui": 129.61,
+      "whale_trades": 4,
+      "retail_volume_sui": 9.172400000000001,
+      "retail_trades": 7,
+      "whale_percentage": 93.39080459770113
+    },
+    {
+      "date": "2025-09-30",
+      "whale_volume_sui": 0,
+      "whale_trades": 0,
+      "retail_volume_sui": 12.961,
+      "retail_trades": 4,
+      "whale_percentage": 0
+    },
+    {
+      "date": "2025-10-01",
+      "whale_volume_sui": 0,
+      "whale_trades": 0,
+      "retail_volume_sui": 12.063700000000003,
+      "retail_trades": 25,
+      "whale_percentage": 0
+    },
+    {
+      "date": "2025-10-02",
+      "whale_volume_sui": 0,
+      "whale_trades": 0,
+      "retail_volume_sui": 21.2361,
+      "retail_trades": 21,
+      "whale_percentage": 0
+    },
+    {
+      "date": "2025-10-03",
+      "whale_volume_sui": 0,
+      "whale_trades": 0,
+      "retail_volume_sui": 3.988,
+      "retail_trades": 4,
+      "whale_percentage": 0
+    },
+    {
+      "date": "2025-10-04",
+      "whale_volume_sui": 0,
+      "whale_trades": 0,
+      "retail_volume_sui": 0.997,
+      "retail_trades": 1,
+      "whale_percentage": 0
+    },
+    {
+      "date": "2025-10-05",
+      "whale_volume_sui": 0,
+      "whale_trades": 0,
+      "retail_volume_sui": 14.157399999999999,
+      "retail_trades": 16,
+      "whale_percentage": 0
+    },
+    {
+      "date": "2025-10-06",
+      "whale_volume_sui": 0,
+      "whale_trades": 0,
+      "retail_volume_sui": 41.077333192,
+      "retail_trades": 15,
+      "whale_percentage": 0
+    },
+    {
+      "date": "2025-10-07",
+      "whale_volume_sui": 119.64,
+      "whale_trades": 4,
+      "retail_volume_sui": 24.53617,
+      "retail_trades": 9,
+      "whale_percentage": 82.98181315261738
+    },
+    {
+      "date": "2025-10-08",
+      "whale_volume_sui": 19.94,
+      "whale_trades": 1,
+      "retail_volume_sui": 68.64644100000002,
+      "retail_trades": 26,
+      "whale_percentage": 22.509088044297883
+    },
+    {
+      "date": "2025-10-09",
+      "whale_volume_sui": 0,
+      "whale_trades": 0,
+      "retail_volume_sui": 5.982,
+      "retail_trades": 2,
+      "whale_percentage": 0
+    },
+    {
+      "date": "2025-10-10",
+      "whale_volume_sui": 0,
+      "whale_trades": 0,
+      "retail_volume_sui": 67.69629999999995,
+      "retail_trades": 44,
+      "whale_percentage": 0
+    },
+    {
+      "date": "2025-10-11",
+      "whale_volume_sui": 69.79,
+      "whale_trades": 2,
+      "retail_volume_sui": 80.757,
+      "retail_trades": 13,
+      "whale_percentage": 46.35761589403973
+    }
+  ]
+}

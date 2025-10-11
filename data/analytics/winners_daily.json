@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2025-10-10T20:26:06.845Z",
+    "generated_at": "2025-10-11T09:14:17.367Z",
     "date_range": {
       "from": "2025-08-20",
-      "to": "2025-10-10"
+      "to": "2025-10-11"
     },
-    "total_days": 50
+    "total_days": 51
   },
   "data": [
     {
@@ -244,6 +244,18 @@
       "rarity_distribution": {
         "common": 0,
         "rare": 3,
+        "epic": 0,
+        "legendary": 0
+      }
+    },
+    {
+      "date": "2025-10-11",
+      "total_winners": 2,
+      "total_winnings_sui": 84.129063749,
+      "badges_created": 2,
+      "rarity_distribution": {
+        "common": 0,
+        "rare": 2,
         "epic": 0,
         "legendary": 0
       }
