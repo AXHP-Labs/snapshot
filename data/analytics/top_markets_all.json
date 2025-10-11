@@ -1,0 +1,458 @@
+{
+  "metadata": {
+    "generated_at": "2025-10-10T20:26:06.863Z",
+    "total_markets": 55
+  },
+  "data": [
+    {
+      "market_id": "0xfe8b8f5d5b75490e5de686ec18809d91b34ac5a7c34ab1db566b842177b4d905",
+      "question": "SUI >$4 by 26 Sept 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 235.5911,
+      "bet_amount_no": 463.80440000000016,
+      "total_bet": 699.3955000000002,
+      "is_resolved": true
+    },
+    {
+      "market_id": "0xc720ab51d83bbcc56dd0e181b6ba4ef5c594da67e54d5278764168afaace2083",
+      "question": "SUI TVL flips $HYPE TVL in September 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 146.27247216999987,
+      "bet_amount_no": 131.70370000000003,
+      "total_bet": 277.97617216999987,
+      "is_resolved": true
+    },
+    {
+      "market_id": "0x33496e90d8690981d9df21b06e834b59662111fb8f71feb41a1a36b5d431bc2d",
+      "question": "WLFI market cap >$15B one day after launch?",
+      "category": "crypto",
+      "bet_amount_yes": 169.1909,
+      "bet_amount_no": 53.040400000000005,
+      "total_bet": 222.2313,
+      "is_resolved": true
+    },
+    {
+      "market_id": "0xdb5c072e6fc5c8a1e701be8f1700987a95983c19eb8d3fd3f3b871257f104efc",
+      "question": "Solana >$250 by 26 Sept 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 125.12349999999998,
+      "bet_amount_no": 51.2458,
+      "total_bet": 176.36930000000012,
+      "is_resolved": true
+    },
+    {
+      "market_id": "0xfda77d30a7139090465e3b52a651a98eecc3bc11d94d1a118f57205afe67b4dc",
+      "question": "Will Bitcoin break $120,000 next week?",
+      "category": "crypto",
+      "bet_amount_yes": 72.0831,
+      "bet_amount_no": 85.74199999999999,
+      "total_bet": 157.8251,
+      "is_resolved": true
+    },
+    {
+      "market_id": "0x5c0a9f054cd11b01d2c42e4e39188fffda4b8d2c11c5dfb16d89c8951d592cb4",
+      "question": "$NS reach $30M market cap this month?",
+      "category": "crypto",
+      "bet_amount_yes": 74.0771,
+      "bet_amount_no": 79.56059999999998,
+      "total_bet": 153.63770000000017,
+      "is_resolved": true
+    },
+    {
+      "market_id": "0x5bf88b233b2874e3e2a60ace30007f77583101cd63900bd377488f0be744e29f",
+      "question": "Will SUI token pump more than 20% next week?",
+      "category": "crypto",
+      "bet_amount_yes": 62.910700000000006,
+      "bet_amount_no": 62.4122,
+      "total_bet": 125.3229,
+      "is_resolved": true
+    },
+    {
+      "market_id": "0xb2446175d3b27f685ecfa71a431a8bf64f2aa070aa40bcc0e786b4d0151c3f2d",
+      "question": "Trump impeached in 2025?",
+      "category": "politics",
+      "bet_amount_yes": 45.762922128,
+      "bet_amount_no": 62.71129999999994,
+      "total_bet": 108.47422212799994,
+      "is_resolved": true
+    },
+    {
+      "market_id": "0xf2fde74d3e81eb838c73a1ec698301c12dff4d9f19612c551c89bb61021eaa03",
+      "question": "The Fed cut interest rate in September?",
+      "category": "economics",
+      "bet_amount_yes": 68.4939,
+      "bet_amount_no": 30.408500000000004,
+      "total_bet": 98.90239999999999,
+      "is_resolved": true
+    },
+    {
+      "market_id": "0x769f047a5f38643db8d01c66a13d5b77ebcc0867aafd2bd154a6c603c29487aa",
+      "question": "Metaplanet holds >25K BTC in September 2025?",
+      "category": "sports",
+      "bet_amount_yes": 30.30879999999998,
+      "bet_amount_no": 58.922700000000006,
+      "total_bet": 89.23149999999998,
+      "is_resolved": true
+    },
+    {
+      "market_id": "0xb4040c2957d2376499a5e3447f8aba9edeb86a9414fa574b1b0a7fc376f8aebd",
+      "question": "Fed cuts rates 50bps in September 2025?",
+      "category": "economics",
+      "bet_amount_yes": 41.57490000000001,
+      "bet_amount_no": 35.54304999999999,
+      "total_bet": 77.11794999999998,
+      "is_resolved": true
+    },
+    {
+      "market_id": "0x0fef869bf216de3067d8e7a54155a9157e7810b8aaa9c9643e491f58c7916933",
+      "question": "SUI outperforms SOL % gains before september?",
+      "category": "crypto",
+      "bet_amount_yes": 29.2121,
+      "bet_amount_no": 47.855999999999995,
+      "total_bet": 77.06809999999999,
+      "is_resolved": true
+    },
+    {
+      "market_id": "0x83199067baaa5f953d5d7639a053d015767f4c3feac651fb6835f0de5c9428cf",
+      "question": "Michael Saylor’s 'Strategy' buys >5K BTC in September 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 41.076399999999985,
+      "bet_amount_no": 31.7046,
+      "total_bet": 72.78099999999999,
+      "is_resolved": true
+    },
+    {
+      "market_id": "0x94da58b31f8c70b80adedcf397f2d6bc61ead3da4493df07f5c84c662218eba8",
+      "question": "SUI outperforms BTC % gains in Q4 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 47.86896099999993,
+      "bet_amount_no": 24.6259,
+      "total_bet": 72.49486099999993,
+      "is_resolved": true
+    },
+    {
+      "market_id": "0xa32e907d64734c716538c35212e4b748761c8115ff8507da13694b7e755acbbb",
+      "question": "Second release of U.S. Q2 GDP at 3.0%?",
+      "category": "economics",
+      "bet_amount_yes": 37.985699999999994,
+      "bet_amount_no": 29.012699999999995,
+      "total_bet": 66.99839999999999,
+      "is_resolved": true
+    },
+    {
+      "market_id": "0xd5df433df7aaaa6f63fdd0e0d3952497b2c4eeb842c505e63e3c87694d4f88c6",
+      "question": "Trump and RFK Jr. move to ban COVID-19 vaccine in U.S. 2025?",
+      "category": "science",
+      "bet_amount_yes": 35.3935,
+      "bet_amount_no": 26.869150000000005,
+      "total_bet": 62.262649999999994,
+      "is_resolved": true
+    },
+    {
+      "market_id": "0x62cdb2b2d4ebb7027c01365303e8f5fc25d969ffb43e1f477891a592820b47c7",
+      "question": "Russia x Ukraine ceasefire in 2025?",
+      "category": "politics",
+      "bet_amount_yes": 22.4325,
+      "bet_amount_no": 39.182100000000005,
+      "total_bet": 61.614599999999996,
+      "is_resolved": true
+    },
+    {
+      "market_id": "0xea3e07a663a45afcf0deb8b1d2a2dc5d14217890104e09126cddb41a79f1eb45",
+      "question": "SUI TVL > $3B by EOY?",
+      "category": "crypto",
+      "bet_amount_yes": 28.71359999999999,
+      "bet_amount_no": 31.2061,
+      "total_bet": 59.91969999999999,
+      "is_resolved": true
+    },
+    {
+      "market_id": "0x930bf43601b1c4f23fdfcfad88a14139b1194e9b3451b67efaaa0e46d36d2da6",
+      "question": "US debt > $38T in 2025?",
+      "category": "economics",
+      "bet_amount_yes": 35.4932,
+      "bet_amount_no": 13.459500000000013,
+      "total_bet": 48.95269999999999,
+      "is_resolved": true
+    },
+    {
+      "market_id": "0x4bdde04f110cdb04e917bed3efee6bec67bca21992bd7ca510844d2a3dcff53a",
+      "question": "Will SEC approve a Solana ETF in September?",
+      "category": "crypto",
+      "bet_amount_yes": 29.710599999999957,
+      "bet_amount_no": 14.506350000000001,
+      "total_bet": 44.216949999999954,
+      "is_resolved": true
+    },
+    {
+      "market_id": "0x9203ea99e860feb58b26264aea4ef93c18b5a202f59dad9d53f3e141d871985f",
+      "question": "Jerome Powell out in 2025?",
+      "category": "politics",
+      "bet_amount_yes": 21.38564999999997,
+      "bet_amount_no": 16.400650000000006,
+      "total_bet": 37.786299999999926,
+      "is_resolved": true
+    },
+    {
+      "market_id": "0x5d39806d787f42fe908add850975587bc0c63897c75838fd9529d27c7a17e3ca",
+      "question": "U.S. national Ethereum reserve in 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 9.172400000000007,
+      "bet_amount_no": 27.0187,
+      "total_bet": 36.191100000000006,
+      "is_resolved": true
+    },
+    {
+      "market_id": "0x8b235bad9fe96d1a2cd83b578265836ffdd3acebe866c170213a24cbfd62fcfa",
+      "question": "Marathon Digital holds >60,000 BTC by 31 Oct 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 26.12171106400001,
+      "bet_amount_no": 9.97,
+      "total_bet": 36.09171106400001,
+      "is_resolved": true
+    },
+    {
+      "market_id": "0x27e11613f4cb542d7e56e0698a8d0b861192bf0c6ae7048f1f8c9cae67043e9b",
+      "question": "Coinbase buys >3,000 BTC in Sept 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 12.96100000000001,
+      "bet_amount_no": 22.7316,
+      "total_bet": 35.69260000000001,
+      "is_resolved": true
+    },
+    {
+      "market_id": "0xeddb3a84d74338a34fb9b74a6c04eee88d0dc4a83fb3ccdbcf22c6f03d532cb5",
+      "question": "Ethereum $5,200 between 7–19 Oct 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 12.961,
+      "bet_amount_no": 21.236100000000004,
+      "total_bet": 34.1971,
+      "is_resolved": false
+    },
+    {
+      "market_id": "0x561853bd7b45b80a1d7d6852e17afd0e44a38a964cdf316e318116a01458a629",
+      "question": "BlackRock IBIT ETF holdings exceed 777,777 BTC by 19 September?",
+      "category": "other",
+      "bet_amount_yes": 29.610899999999987,
+      "bet_amount_no": 0.2991,
+      "total_bet": 29.90999999999999,
+      "is_resolved": true
+    },
+    {
+      "market_id": "0xb84e1371415fac3ebfbfbbebdaff5beae4eefab2a3afff0a8a2a8d92ae4a44b2",
+      "question": "Ethereum $5,000 between 5–19 Sept 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 1.5952,
+      "bet_amount_no": 23.429499999999997,
+      "total_bet": 25.0247,
+      "is_resolved": true
+    },
+    {
+      "market_id": "0x416080563efea5a02ba2595de19ab5add7ecbc6d4fdb8e71493b3ee24596b39c",
+      "question": "U.S. shutdown ends by 16 Oct 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 7.976,
+      "bet_amount_no": 16.649900000000002,
+      "total_bet": 24.6259,
+      "is_resolved": false
+    },
+    {
+      "market_id": "0xd33ed9f396bfdd2c45cb39c277be0813c9ddaac76d9ee32cc988bd8b2f497748",
+      "question": "SUI TVL flips $ARB TVL before October 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 21.13640000000001,
+      "bet_amount_no": 3.2402499999999996,
+      "total_bet": 24.376649999999984,
+      "is_resolved": true
+    },
+    {
+      "market_id": "0xdf1a92de15c6bba926117f469c6188382576281a5586b0166533a756cffa6b24",
+      "question": "USDT market cap >$200B by 31 Dec 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 10.96700000000001,
+      "bet_amount_no": 10.967,
+      "total_bet": 21.93400000000001,
+      "is_resolved": true
+    },
+    {
+      "market_id": "0x6b07dc1d28a81f9737b0bd678f9fa66e194abf5abb6becf5c572da28bff24896",
+      "question": "$AMZN Q3 FY25 revenue > $177.46B?",
+      "category": "technology",
+      "bet_amount_yes": 11.0667,
+      "bet_amount_no": 10.667900000000008,
+      "total_bet": 21.734600000000007,
+      "is_resolved": true
+    },
+    {
+      "market_id": "0xd3ea7c2c31916fa52f4d7cec0e8a4e5e730c3bea317c4b6fa4da0a07a4bd47e8",
+      "question": "U.S. government sells Bitcoin by 31 Dec 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 11.664900000000001,
+      "bet_amount_no": 7.0786999999999995,
+      "total_bet": 18.7436,
+      "is_resolved": true
+    },
+    {
+      "market_id": "0x91f3adee72d1fca50c6c6b460c999bab3784b769f0e0ce31b6b06ecc822ccd27",
+      "question": "$AAA reach $1M market cap by end of September?",
+      "category": "crypto",
+      "bet_amount_yes": 17.347800000000007,
+      "bet_amount_no": 0.8973,
+      "total_bet": 18.2451,
+      "is_resolved": true
+    },
+    {
+      "market_id": "0x2b37abcfc672e7b5892a71d98bf0c7a68593eef18a82a88ef8ad7b2fc9570b57",
+      "question": "U.S. national Bitcoin reserve in 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 3.8882999999999983,
+      "bet_amount_no": 12.163400000000001,
+      "total_bet": 16.0517,
+      "is_resolved": true
+    },
+    {
+      "market_id": "0x3e8650d708ccb1911caf59e75314e335a747a8096262d1e496a7c848093e887d",
+      "question": "Metaplanet >40K BTC in October 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 0.997,
+      "bet_amount_no": 10.269100000000002,
+      "total_bet": 11.266100000000002,
+      "is_resolved": false
+    },
+    {
+      "market_id": "0x2a120c507fe6ada7787ba49ca4e658c7bf4e64243e9c70c48f8743ea6783002c",
+      "question": "Bitcoin >$130,000 by 17 October?",
+      "category": "crypto",
+      "bet_amount_yes": 7.278099999999999,
+      "bet_amount_no": 0.4985,
+      "total_bet": 7.776599999999999,
+      "is_resolved": false
+    },
+    {
+      "market_id": "0x74527d878f36620f89cd1332a064ebed0eeb62f279f8cb128ff08835d7284aec",
+      "question": "@elonmusk tweets about crypto this month?",
+      "category": "crypto",
+      "bet_amount_yes": 1.3958,
+      "bet_amount_no": 5.084700000000002,
+      "total_bet": 6.480500000000004,
+      "is_resolved": true
+    },
+    {
+      "market_id": "0x65707bade9e2e8ac9797c566605e5375bd6e3ace7e82f579ae44c11f7bcb1720",
+      "question": "Fed cuts rates 50bps in October 2025?",
+      "category": "economics",
+      "bet_amount_yes": 5.7826,
+      "bet_amount_no": 0,
+      "total_bet": 5.7826,
+      "is_resolved": false
+    },
+    {
+      "market_id": "0xacb0df0428e9fb3b9a3a51d198e76378d053df7cbff7e2d76482a0ab30f029b4",
+      "question": "Will Powell be dovish today?",
+      "category": "economics",
+      "bet_amount_yes": 3.1904,
+      "bet_amount_no": 2.2931,
+      "total_bet": 5.4835,
+      "is_resolved": true
+    },
+    {
+      "market_id": "0x5b46dfa21397a94ec407196e4abdf7611c883c7cda54b0c8d1b015f8358c438e",
+      "question": "SEC releases new crypto framework in September?",
+      "category": "crypto",
+      "bet_amount_yes": 3.2900999999999985,
+      "bet_amount_no": 1.994,
+      "total_bet": 5.284099999999999,
+      "is_resolved": true
+    },
+    {
+      "market_id": "0x0840d06c62a361128d9370b3db94e9a6dcd6b2acd4faef70f5d23fbcbd58fd8d",
+      "question": "Will SUI under $3 this week?",
+      "category": "crypto",
+      "bet_amount_yes": 0.0997,
+      "bet_amount_no": 5.0847,
+      "total_bet": 5.1844,
+      "is_resolved": true
+    },
+    {
+      "market_id": "0x55ea10fd1426d75c54e4db867018646328e89f400ceaf7e434f22c76a213574a",
+      "question": "@elonmusk tweets about crypto this week?",
+      "category": "crypto",
+      "bet_amount_yes": 1.5952,
+      "bet_amount_no": 1.1964,
+      "total_bet": 2.7916,
+      "is_resolved": true
+    },
+    {
+      "market_id": "0x105034a0d1e6117917bee63f8d9b77c3005acc4fdb31c8a7a73ec66ca9f29cbe",
+      "question": "Will Powell mention crypto today?",
+      "category": "crypto",
+      "bet_amount_yes": 0.4985,
+      "bet_amount_no": 1.5952,
+      "total_bet": 2.0937,
+      "is_resolved": true
+    },
+    {
+      "market_id": "0x368deaf5b225cb32ba65b8b811d688d638e313f5cc3b44957ec834ceb909c640",
+      "question": "U.S. national Ethereum reserve in 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 1.2961,
+      "bet_amount_no": 0,
+      "total_bet": 1.2961,
+      "is_resolved": false
+    },
+    {
+      "market_id": "0xb7290a7f54ef7e35c0abd7a24348e1c724c86f235089c03561eaadf6635ac272",
+      "question": "$AMZN Q3 FY25 revenue > $177.46B?",
+      "category": "technology",
+      "bet_amount_yes": 0,
+      "bet_amount_no": 1.2961,
+      "total_bet": 1.2961,
+      "is_resolved": false
+    },
+    {
+      "market_id": "0x40771473f2d49401421a49a0176d7c500a04ac1b943fd6c3a7475b70832daec3",
+      "question": "SEC approves a Solana ETF in October 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 0,
+      "bet_amount_no": 1.2961,
+      "total_bet": 1.2961,
+      "is_resolved": false
+    },
+    {
+      "market_id": "0x6371741f72ce22943d3711b46230f604997a215bbd9162ae77749a5b1bd37bbd",
+      "question": "SUI TVL > $3B by EOY 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 1.1964,
+      "bet_amount_no": 0,
+      "total_bet": 1.1964,
+      "is_resolved": false
+    },
+    {
+      "market_id": "0x06c51935c247e6c5eaba3e051efac56abdf53695aec7e3becf8254b9d23bb518",
+      "question": "U.S. government sells Bitcoin by 31 Dec 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 0,
+      "bet_amount_no": 1.0967,
+      "total_bet": 1.0967,
+      "is_resolved": false
+    },
+    {
+      "market_id": "0x20e97f369aa58318611b219b8c66c2250695d1452f0cef95a559bb13f833b768",
+      "question": "Marathon Digital >60,000 BTC by 31 Oct 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 0.6979,
+      "bet_amount_no": 0,
+      "total_bet": 0.6979,
+      "is_resolved": false
+    },
+    {
+      "market_id": "0x34aa3bcceba9bade93e3bc5d07ff29a46c3d5f803c656f4e1c87c93ede161c16",
+      "question": "Michael Saylor’s 'Strategy' buys more Bitcoin in September?",
+      "category": "crypto",
+      "bet_amount_yes": 0.1994,
+      "bet_amount_no": 0.44865,
+      "total_bet": 0.64805,
+      "is_resolved": false
+    }
+  ]
+}

@@ -1,0 +1,608 @@
+{
+  "metadata": {
+    "generated_at": "2025-10-10T20:26:06.845Z",
+    "date_range": {
+      "from": "2025-08-20",
+      "to": "2025-10-10"
+    },
+    "total_days": 50
+  },
+  "data": [
+    {
+      "date": "2025-08-20",
+      "new_markets": 10,
+      "total_cumulative_markets": 10,
+      "resolved_markets": 0,
+      "active_markets": 10,
+      "categories": {
+        "crypto": {
+          "new": 7,
+          "resolved": 0
+        },
+        "economics": {
+          "new": 1,
+          "resolved": 0
+        },
+        "politics": {
+          "new": 2,
+          "resolved": 0
+        }
+      }
+    },
+    {
+      "date": "2025-08-21",
+      "new_markets": 1,
+      "total_cumulative_markets": 11,
+      "resolved_markets": 0,
+      "active_markets": 11,
+      "categories": {
+        "politics": {
+          "new": 1,
+          "resolved": 0
+        }
+      }
+    },
+    {
+      "date": "2025-08-22",
+      "new_markets": 2,
+      "total_cumulative_markets": 13,
+      "resolved_markets": 0,
+      "active_markets": 13,
+      "categories": {
+        "economics": {
+          "new": 1,
+          "resolved": 0
+        },
+        "crypto": {
+          "new": 1,
+          "resolved": 0
+        }
+      }
+    },
+    {
+      "date": "2025-08-23",
+      "new_markets": 0,
+      "total_cumulative_markets": 13,
+      "resolved_markets": 0,
+      "active_markets": 13,
+      "categories": {}
+    },
+    {
+      "date": "2025-08-24",
+      "new_markets": 1,
+      "total_cumulative_markets": 14,
+      "resolved_markets": 0,
+      "active_markets": 14,
+      "categories": {
+        "economics": {
+          "new": 1,
+          "resolved": 0
+        }
+      }
+    },
+    {
+      "date": "2025-08-25",
+      "new_markets": 2,
+      "total_cumulative_markets": 16,
+      "resolved_markets": 0,
+      "active_markets": 16,
+      "categories": {
+        "crypto": {
+          "new": 2,
+          "resolved": 0
+        }
+      }
+    },
+    {
+      "date": "2025-08-26",
+      "new_markets": 2,
+      "total_cumulative_markets": 18,
+      "resolved_markets": 3,
+      "active_markets": 15,
+      "categories": {
+        "science": {
+          "new": 1,
+          "resolved": 0
+        },
+        "crypto": {
+          "new": 1,
+          "resolved": 2
+        },
+        "economics": {
+          "new": 0,
+          "resolved": 1
+        }
+      }
+    },
+    {
+      "date": "2025-08-27",
+      "new_markets": 2,
+      "total_cumulative_markets": 20,
+      "resolved_markets": 1,
+      "active_markets": 16,
+      "categories": {
+        "crypto": {
+          "new": 1,
+          "resolved": 1
+        },
+        "sports": {
+          "new": 1,
+          "resolved": 0
+        }
+      }
+    },
+    {
+      "date": "2025-08-28",
+      "new_markets": 0,
+      "total_cumulative_markets": 20,
+      "resolved_markets": 0,
+      "active_markets": 16,
+      "categories": {}
+    },
+    {
+      "date": "2025-08-29",
+      "new_markets": 4,
+      "total_cumulative_markets": 24,
+      "resolved_markets": 1,
+      "active_markets": 19,
+      "categories": {
+        "crypto": {
+          "new": 4,
+          "resolved": 0
+        },
+        "economics": {
+          "new": 0,
+          "resolved": 1
+        }
+      }
+    },
+    {
+      "date": "2025-08-30",
+      "new_markets": 0,
+      "total_cumulative_markets": 24,
+      "resolved_markets": 0,
+      "active_markets": 19,
+      "categories": {}
+    },
+    {
+      "date": "2025-08-31",
+      "new_markets": 1,
+      "total_cumulative_markets": 25,
+      "resolved_markets": 0,
+      "active_markets": 20,
+      "categories": {
+        "economics": {
+          "new": 1,
+          "resolved": 0
+        }
+      }
+    },
+    {
+      "date": "2025-09-01",
+      "new_markets": 2,
+      "total_cumulative_markets": 27,
+      "resolved_markets": 0,
+      "active_markets": 22,
+      "categories": {
+        "crypto": {
+          "new": 1,
+          "resolved": 0
+        },
+        "technology": {
+          "new": 1,
+          "resolved": 0
+        }
+      }
+    },
+    {
+      "date": "2025-09-02",
+      "new_markets": 1,
+      "total_cumulative_markets": 28,
+      "resolved_markets": 2,
+      "active_markets": 21,
+      "categories": {
+        "economics": {
+          "new": 1,
+          "resolved": 0
+        },
+        "crypto": {
+          "new": 0,
+          "resolved": 2
+        }
+      }
+    },
+    {
+      "date": "2025-09-03",
+      "new_markets": 0,
+      "total_cumulative_markets": 28,
+      "resolved_markets": 1,
+      "active_markets": 20,
+      "categories": {
+        "crypto": {
+          "new": 0,
+          "resolved": 1
+        }
+      }
+    },
+    {
+      "date": "2025-09-04",
+      "new_markets": 1,
+      "total_cumulative_markets": 29,
+      "resolved_markets": 0,
+      "active_markets": 21,
+      "categories": {
+        "crypto": {
+          "new": 1,
+          "resolved": 0
+        }
+      }
+    },
+    {
+      "date": "2025-09-05",
+      "new_markets": 10,
+      "total_cumulative_markets": 39,
+      "resolved_markets": 0,
+      "active_markets": 31,
+      "categories": {
+        "other": {
+          "new": 1,
+          "resolved": 0
+        },
+        "crypto": {
+          "new": 9,
+          "resolved": 0
+        }
+      }
+    },
+    {
+      "date": "2025-09-06",
+      "new_markets": 0,
+      "total_cumulative_markets": 39,
+      "resolved_markets": 0,
+      "active_markets": 31,
+      "categories": {}
+    },
+    {
+      "date": "2025-09-07",
+      "new_markets": 0,
+      "total_cumulative_markets": 39,
+      "resolved_markets": 0,
+      "active_markets": 31,
+      "categories": {}
+    },
+    {
+      "date": "2025-09-08",
+      "new_markets": 0,
+      "total_cumulative_markets": 39,
+      "resolved_markets": 0,
+      "active_markets": 31,
+      "categories": {}
+    },
+    {
+      "date": "2025-09-10",
+      "new_markets": 0,
+      "total_cumulative_markets": 39,
+      "resolved_markets": 3,
+      "active_markets": 28,
+      "categories": {
+        "crypto": {
+          "new": 0,
+          "resolved": 3
+        }
+      }
+    },
+    {
+      "date": "2025-09-12",
+      "new_markets": 0,
+      "total_cumulative_markets": 39,
+      "resolved_markets": 0,
+      "active_markets": 28,
+      "categories": {}
+    },
+    {
+      "date": "2025-09-13",
+      "new_markets": 0,
+      "total_cumulative_markets": 39,
+      "resolved_markets": 0,
+      "active_markets": 28,
+      "categories": {}
+    },
+    {
+      "date": "2025-09-14",
+      "new_markets": 0,
+      "total_cumulative_markets": 39,
+      "resolved_markets": 0,
+      "active_markets": 28,
+      "categories": {}
+    },
+    {
+      "date": "2025-09-15",
+      "new_markets": 0,
+      "total_cumulative_markets": 39,
+      "resolved_markets": 0,
+      "active_markets": 28,
+      "categories": {}
+    },
+    {
+      "date": "2025-09-16",
+      "new_markets": 0,
+      "total_cumulative_markets": 39,
+      "resolved_markets": 0,
+      "active_markets": 28,
+      "categories": {}
+    },
+    {
+      "date": "2025-09-17",
+      "new_markets": 0,
+      "total_cumulative_markets": 39,
+      "resolved_markets": 0,
+      "active_markets": 28,
+      "categories": {}
+    },
+    {
+      "date": "2025-09-18",
+      "new_markets": 0,
+      "total_cumulative_markets": 39,
+      "resolved_markets": 2,
+      "active_markets": 26,
+      "categories": {
+        "economics": {
+          "new": 0,
+          "resolved": 2
+        }
+      }
+    },
+    {
+      "date": "2025-09-19",
+      "new_markets": 0,
+      "total_cumulative_markets": 39,
+      "resolved_markets": 0,
+      "active_markets": 26,
+      "categories": {}
+    },
+    {
+      "date": "2025-09-20",
+      "new_markets": 0,
+      "total_cumulative_markets": 39,
+      "resolved_markets": 0,
+      "active_markets": 26,
+      "categories": {}
+    },
+    {
+      "date": "2025-09-21",
+      "new_markets": 0,
+      "total_cumulative_markets": 39,
+      "resolved_markets": 2,
+      "active_markets": 24,
+      "categories": {
+        "other": {
+          "new": 0,
+          "resolved": 1
+        },
+        "crypto": {
+          "new": 0,
+          "resolved": 1
+        }
+      }
+    },
+    {
+      "date": "2025-09-22",
+      "new_markets": 0,
+      "total_cumulative_markets": 39,
+      "resolved_markets": 0,
+      "active_markets": 24,
+      "categories": {}
+    },
+    {
+      "date": "2025-09-23",
+      "new_markets": 0,
+      "total_cumulative_markets": 39,
+      "resolved_markets": 2,
+      "active_markets": 22,
+      "categories": {
+        "sports": {
+          "new": 0,
+          "resolved": 1
+        },
+        "crypto": {
+          "new": 0,
+          "resolved": 1
+        }
+      }
+    },
+    {
+      "date": "2025-09-24",
+      "new_markets": 0,
+      "total_cumulative_markets": 39,
+      "resolved_markets": 0,
+      "active_markets": 22,
+      "categories": {}
+    },
+    {
+      "date": "2025-09-25",
+      "new_markets": 0,
+      "total_cumulative_markets": 39,
+      "resolved_markets": 0,
+      "active_markets": 22,
+      "categories": {}
+    },
+    {
+      "date": "2025-09-26",
+      "new_markets": 0,
+      "total_cumulative_markets": 39,
+      "resolved_markets": 0,
+      "active_markets": 22,
+      "categories": {}
+    },
+    {
+      "date": "2025-09-27",
+      "new_markets": 0,
+      "total_cumulative_markets": 39,
+      "resolved_markets": 0,
+      "active_markets": 22,
+      "categories": {}
+    },
+    {
+      "date": "2025-09-28",
+      "new_markets": 0,
+      "total_cumulative_markets": 39,
+      "resolved_markets": 1,
+      "active_markets": 21,
+      "categories": {
+        "crypto": {
+          "new": 0,
+          "resolved": 1
+        }
+      }
+    },
+    {
+      "date": "2025-09-29",
+      "new_markets": 0,
+      "total_cumulative_markets": 39,
+      "resolved_markets": 0,
+      "active_markets": 21,
+      "categories": {}
+    },
+    {
+      "date": "2025-09-30",
+      "new_markets": 0,
+      "total_cumulative_markets": 39,
+      "resolved_markets": 0,
+      "active_markets": 21,
+      "categories": {}
+    },
+    {
+      "date": "2025-10-01",
+      "new_markets": 0,
+      "total_cumulative_markets": 39,
+      "resolved_markets": 0,
+      "active_markets": 21,
+      "categories": {}
+    },
+    {
+      "date": "2025-10-02",
+      "new_markets": 0,
+      "total_cumulative_markets": 39,
+      "resolved_markets": 7,
+      "active_markets": 14,
+      "categories": {
+        "crypto": {
+          "new": 0,
+          "resolved": 7
+        }
+      }
+    },
+    {
+      "date": "2025-10-03",
+      "new_markets": 0,
+      "total_cumulative_markets": 39,
+      "resolved_markets": 0,
+      "active_markets": 14,
+      "categories": {}
+    },
+    {
+      "date": "2025-10-04",
+      "new_markets": 0,
+      "total_cumulative_markets": 39,
+      "resolved_markets": 0,
+      "active_markets": 14,
+      "categories": {}
+    },
+    {
+      "date": "2025-10-05",
+      "new_markets": 0,
+      "total_cumulative_markets": 39,
+      "resolved_markets": 0,
+      "active_markets": 14,
+      "categories": {}
+    },
+    {
+      "date": "2025-10-06",
+      "new_markets": 15,
+      "total_cumulative_markets": 54,
+      "resolved_markets": 0,
+      "active_markets": 29,
+      "categories": {
+        "crypto": {
+          "new": 12,
+          "resolved": 0
+        },
+        "economics": {
+          "new": 2,
+          "resolved": 0
+        },
+        "technology": {
+          "new": 1,
+          "resolved": 0
+        }
+      }
+    },
+    {
+      "date": "2025-10-07",
+      "new_markets": 1,
+      "total_cumulative_markets": 55,
+      "resolved_markets": 0,
+      "active_markets": 30,
+      "categories": {
+        "politics": {
+          "new": 1,
+          "resolved": 0
+        }
+      }
+    },
+    {
+      "date": "2025-10-08",
+      "new_markets": 0,
+      "total_cumulative_markets": 55,
+      "resolved_markets": 6,
+      "active_markets": 24,
+      "categories": {
+        "economics": {
+          "new": 0,
+          "resolved": 1
+        },
+        "crypto": {
+          "new": 0,
+          "resolved": 3
+        },
+        "politics": {
+          "new": 0,
+          "resolved": 1
+        },
+        "science": {
+          "new": 0,
+          "resolved": 1
+        }
+      }
+    },
+    {
+      "date": "2025-10-09",
+      "new_markets": 0,
+      "total_cumulative_markets": 55,
+      "resolved_markets": 0,
+      "active_markets": 24,
+      "categories": {}
+    },
+    {
+      "date": "2025-10-10",
+      "new_markets": 0,
+      "total_cumulative_markets": 55,
+      "resolved_markets": 7,
+      "active_markets": 17,
+      "categories": {
+        "technology": {
+          "new": 0,
+          "resolved": 1
+        },
+        "crypto": {
+          "new": 0,
+          "resolved": 4
+        },
+        "politics": {
+          "new": 0,
+          "resolved": 2
+        }
+      }
+    }
+  ]
+}

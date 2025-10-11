@@ -1,0 +1,264 @@
+{
+  "metadata": {
+    "generated_at": "2025-10-10T20:26:06.859Z",
+    "date_range": {
+      "from": "2025-08-20",
+      "to": "2025-10-10"
+    },
+    "total_weeks": 8
+  },
+  "data": [
+    {
+      "week_start": "2025-08-18",
+      "week_end": "2025-08-24",
+      "total_volume_sui": 41.1761,
+      "total_trades": 66,
+      "unique_traders": 14,
+      "categories": {
+        "politics": {
+          "volume_sui": 7.278099999999999,
+          "trades": 14
+        },
+        "crypto": {
+          "volume_sui": 25.922,
+          "trades": 39
+        },
+        "economics": {
+          "volume_sui": 7.976000000000001,
+          "trades": 13
+        }
+      }
+    },
+    {
+      "week_start": "2025-08-25",
+      "week_end": "2025-08-31",
+      "total_volume_sui": 539.1775999999996,
+      "total_trades": 605,
+      "unique_traders": 32,
+      "categories": {
+        "economics": {
+          "volume_sui": 76.27049999999998,
+          "trades": 67
+        },
+        "politics": {
+          "volume_sui": 52.242799999999995,
+          "trades": 101
+        },
+        "crypto": {
+          "volume_sui": 389.4281999999999,
+          "trades": 382
+        },
+        "science": {
+          "volume_sui": 5.8823,
+          "trades": 34
+        },
+        "sports": {
+          "volume_sui": 15.353800000000001,
+          "trades": 21
+        }
+      }
+    },
+    {
+      "week_start": "2025-09-01",
+      "week_end": "2025-09-07",
+      "total_volume_sui": 636.783900000001,
+      "total_trades": 253,
+      "unique_traders": 23,
+      "categories": {
+        "crypto": {
+          "volume_sui": 521.1319000000005,
+          "trades": 153
+        },
+        "economics": {
+          "volume_sui": 94.61529999999999,
+          "trades": 47
+        },
+        "politics": {
+          "volume_sui": 10.966999999999999,
+          "trades": 26
+        },
+        "sports": {
+          "volume_sui": 0.6979,
+          "trades": 7
+        },
+        "technology": {
+          "volume_sui": 7.7766,
+          "trades": 13
+        },
+        "science": {
+          "volume_sui": 1.4954999999999998,
+          "trades": 6
+        },
+        "other": {
+          "volume_sui": 0.0997,
+          "trades": 1
+        }
+      }
+    },
+    {
+      "week_start": "2025-09-08",
+      "week_end": "2025-09-14",
+      "total_volume_sui": 255.68064999999999,
+      "total_trades": 113,
+      "unique_traders": 26,
+      "categories": {
+        "sports": {
+          "volume_sui": 13.958,
+          "trades": 5
+        },
+        "crypto": {
+          "volume_sui": 176.31945,
+          "trades": 70
+        },
+        "economics": {
+          "volume_sui": 27.118400000000005,
+          "trades": 22
+        },
+        "politics": {
+          "volume_sui": 4.7856000000000005,
+          "trades": 5
+        },
+        "other": {
+          "volume_sui": 26.320800000000002,
+          "trades": 7
+        },
+        "technology": {
+          "volume_sui": 0.1994,
+          "trades": 2
+        },
+        "science": {
+          "volume_sui": 6.979,
+          "trades": 2
+        }
+      }
+    },
+    {
+      "week_start": "2025-09-15",
+      "week_end": "2025-09-21",
+      "total_volume_sui": 356.1908221699998,
+      "total_trades": 440,
+      "unique_traders": 27,
+      "categories": {
+        "crypto": {
+          "volume_sui": 265.16472216999995,
+          "trades": 317
+        },
+        "economics": {
+          "volume_sui": 58.47404999999999,
+          "trades": 30
+        },
+        "other": {
+          "volume_sui": 3.4894999999999996,
+          "trades": 13
+        },
+        "politics": {
+          "volume_sui": 16.450499999999998,
+          "trades": 41
+        },
+        "science": {
+          "volume_sui": 1.84445,
+          "trades": 13
+        },
+        "sports": {
+          "volume_sui": 9.272100000000002,
+          "trades": 15
+        },
+        "technology": {
+          "volume_sui": 1.4954999999999998,
+          "trades": 11
+        }
+      }
+    },
+    {
+      "week_start": "2025-09-22",
+      "week_end": "2025-09-28",
+      "total_volume_sui": 814.7484000000001,
+      "total_trades": 275,
+      "unique_traders": 13,
+      "categories": {
+        "crypto": {
+          "volume_sui": 733.0941,
+          "trades": 198
+        },
+        "politics": {
+          "volume_sui": 27.916,
+          "trades": 46
+        },
+        "sports": {
+          "volume_sui": 49.9497,
+          "trades": 2
+        },
+        "science": {
+          "volume_sui": 0.9969999999999999,
+          "trades": 10
+        },
+        "economics": {
+          "volume_sui": 1.7946,
+          "trades": 9
+        },
+        "technology": {
+          "volume_sui": 0.997,
+          "trades": 10
+        }
+      }
+    },
+    {
+      "week_start": "2025-09-29",
+      "week_end": "2025-10-05",
+      "total_volume_sui": 204.18560000000014,
+      "total_trades": 82,
+      "unique_traders": 14,
+      "categories": {
+        "crypto": {
+          "volume_sui": 183.04920000000007,
+          "trades": 49
+        },
+        "politics": {
+          "volume_sui": 17.347800000000003,
+          "trades": 22
+        },
+        "economics": {
+          "volume_sui": 1.2960999999999998,
+          "trades": 4
+        },
+        "science": {
+          "volume_sui": 2.1934,
+          "trades": 4
+        },
+        "technology": {
+          "volume_sui": 0.2991,
+          "trades": 3
+        }
+      }
+    },
+    {
+      "week_start": "2025-10-06",
+      "week_end": "2025-10-12",
+      "total_volume_sui": 347.41854419200007,
+      "total_trades": 100,
+      "unique_traders": 19,
+      "categories": {
+        "crypto": {
+          "volume_sui": 184.80722206399997,
+          "trades": 69
+        },
+        "politics": {
+          "volume_sui": 71.385822128,
+          "trades": 14
+        },
+        "science": {
+          "volume_sui": 42.871,
+          "trades": 4
+        },
+        "technology": {
+          "volume_sui": 12.2631,
+          "trades": 5
+        },
+        "economics": {
+          "volume_sui": 36.0914,
+          "trades": 8
+        }
+      }
+    }
+  ]
+}

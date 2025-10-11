@@ -1,0 +1,412 @@
+{
+  "metadata": {
+    "generated_at": "2025-10-10T20:26:06.845Z",
+    "date_range": {
+      "from": "2025-08-20",
+      "to": "2025-10-10"
+    },
+    "total_days": 50
+  },
+  "data": [
+    {
+      "date": "2025-08-20",
+      "requests_made": 0,
+      "requests_resolved": 0,
+      "total_rewards_sui": 0,
+      "active_oracles": 0,
+      "avg_resolution_time_hours": 0
+    },
+    {
+      "date": "2025-08-21",
+      "requests_made": 0,
+      "requests_resolved": 0,
+      "total_rewards_sui": 0,
+      "active_oracles": 0,
+      "avg_resolution_time_hours": 0
+    },
+    {
+      "date": "2025-08-22",
+      "requests_made": 0,
+      "requests_resolved": 0,
+      "total_rewards_sui": 0,
+      "active_oracles": 0,
+      "avg_resolution_time_hours": 0
+    },
+    {
+      "date": "2025-08-23",
+      "requests_made": 0,
+      "requests_resolved": 0,
+      "total_rewards_sui": 0,
+      "active_oracles": 0,
+      "avg_resolution_time_hours": 0
+    },
+    {
+      "date": "2025-08-24",
+      "requests_made": 2,
+      "requests_resolved": 0,
+      "total_rewards_sui": 0,
+      "active_oracles": 1,
+      "avg_resolution_time_hours": 0
+    },
+    {
+      "date": "2025-08-25",
+      "requests_made": 1,
+      "requests_resolved": 0,
+      "total_rewards_sui": 0,
+      "active_oracles": 1,
+      "avg_resolution_time_hours": 0
+    },
+    {
+      "date": "2025-08-26",
+      "requests_made": 1,
+      "requests_resolved": 3,
+      "total_rewards_sui": 0.09881419999999999,
+      "active_oracles": 1,
+      "avg_resolution_time_hours": 29.765239722222223
+    },
+    {
+      "date": "2025-08-27",
+      "requests_made": 0,
+      "requests_resolved": 1,
+      "total_rewards_sui": 0.0544068,
+      "active_oracles": 0,
+      "avg_resolution_time_hours": 27.621290833333333
+    },
+    {
+      "date": "2025-08-28",
+      "requests_made": 1,
+      "requests_resolved": 0,
+      "total_rewards_sui": 0,
+      "active_oracles": 1,
+      "avg_resolution_time_hours": 0
+    },
+    {
+      "date": "2025-08-29",
+      "requests_made": 0,
+      "requests_resolved": 1,
+      "total_rewards_sui": 1.2916838,
+      "active_oracles": 0,
+      "avg_resolution_time_hours": 24.007505277777778
+    },
+    {
+      "date": "2025-08-30",
+      "requests_made": 0,
+      "requests_resolved": 0,
+      "total_rewards_sui": 0,
+      "active_oracles": 0,
+      "avg_resolution_time_hours": 0
+    },
+    {
+      "date": "2025-08-31",
+      "requests_made": 0,
+      "requests_resolved": 0,
+      "total_rewards_sui": 0,
+      "active_oracles": 0,
+      "avg_resolution_time_hours": 0
+    },
+    {
+      "date": "2025-09-01",
+      "requests_made": 2,
+      "requests_resolved": 0,
+      "total_rewards_sui": 0,
+      "active_oracles": 1,
+      "avg_resolution_time_hours": 0
+    },
+    {
+      "date": "2025-09-02",
+      "requests_made": 1,
+      "requests_resolved": 2,
+      "total_rewards_sui": 3.5121728,
+      "active_oracles": 1,
+      "avg_resolution_time_hours": 24.601507916666666
+    },
+    {
+      "date": "2025-09-03",
+      "requests_made": 0,
+      "requests_resolved": 1,
+      "total_rewards_sui": 5.7526606,
+      "active_oracles": 0,
+      "avg_resolution_time_hours": 27.217159722222224
+    },
+    {
+      "date": "2025-09-04",
+      "requests_made": 0,
+      "requests_resolved": 0,
+      "total_rewards_sui": 0,
+      "active_oracles": 0,
+      "avg_resolution_time_hours": 0
+    },
+    {
+      "date": "2025-09-05",
+      "requests_made": 0,
+      "requests_resolved": 0,
+      "total_rewards_sui": 0,
+      "active_oracles": 0,
+      "avg_resolution_time_hours": 0
+    },
+    {
+      "date": "2025-09-06",
+      "requests_made": 0,
+      "requests_resolved": 0,
+      "total_rewards_sui": 0,
+      "active_oracles": 0,
+      "avg_resolution_time_hours": 0
+    },
+    {
+      "date": "2025-09-07",
+      "requests_made": 0,
+      "requests_resolved": 0,
+      "total_rewards_sui": 0,
+      "active_oracles": 0,
+      "avg_resolution_time_hours": 0
+    },
+    {
+      "date": "2025-09-08",
+      "requests_made": 3,
+      "requests_resolved": 0,
+      "total_rewards_sui": 0,
+      "active_oracles": 2,
+      "avg_resolution_time_hours": 0
+    },
+    {
+      "date": "2025-09-10",
+      "requests_made": 0,
+      "requests_resolved": 3,
+      "total_rewards_sui": 5.6682556,
+      "active_oracles": 0,
+      "avg_resolution_time_hours": 66.11011037037036
+    },
+    {
+      "date": "2025-09-12",
+      "requests_made": 0,
+      "requests_resolved": 0,
+      "total_rewards_sui": 0,
+      "active_oracles": 0,
+      "avg_resolution_time_hours": 0
+    },
+    {
+      "date": "2025-09-13",
+      "requests_made": 0,
+      "requests_resolved": 0,
+      "total_rewards_sui": 0,
+      "active_oracles": 0,
+      "avg_resolution_time_hours": 0
+    },
+    {
+      "date": "2025-09-14",
+      "requests_made": 0,
+      "requests_resolved": 0,
+      "total_rewards_sui": 0,
+      "active_oracles": 0,
+      "avg_resolution_time_hours": 0
+    },
+    {
+      "date": "2025-09-15",
+      "requests_made": 0,
+      "requests_resolved": 0,
+      "total_rewards_sui": 0,
+      "active_oracles": 0,
+      "avg_resolution_time_hours": 0
+    },
+    {
+      "date": "2025-09-16",
+      "requests_made": 0,
+      "requests_resolved": 0,
+      "total_rewards_sui": 0,
+      "active_oracles": 0,
+      "avg_resolution_time_hours": 0
+    },
+    {
+      "date": "2025-09-17",
+      "requests_made": 2,
+      "requests_resolved": 0,
+      "total_rewards_sui": 0,
+      "active_oracles": 1,
+      "avg_resolution_time_hours": 0
+    },
+    {
+      "date": "2025-09-18",
+      "requests_made": 0,
+      "requests_resolved": 2,
+      "total_rewards_sui": 2.6514356,
+      "active_oracles": 0,
+      "avg_resolution_time_hours": 24.02789486111111
+    },
+    {
+      "date": "2025-09-19",
+      "requests_made": 0,
+      "requests_resolved": 0,
+      "total_rewards_sui": 0,
+      "active_oracles": 0,
+      "avg_resolution_time_hours": 0
+    },
+    {
+      "date": "2025-09-20",
+      "requests_made": 2,
+      "requests_resolved": 0,
+      "total_rewards_sui": 0,
+      "active_oracles": 1,
+      "avg_resolution_time_hours": 0
+    },
+    {
+      "date": "2025-09-21",
+      "requests_made": 1,
+      "requests_resolved": 2,
+      "total_rewards_sui": 1.2650074,
+      "active_oracles": 1,
+      "avg_resolution_time_hours": 35.33268208333334
+    },
+    {
+      "date": "2025-09-22",
+      "requests_made": 1,
+      "requests_resolved": 0,
+      "total_rewards_sui": 0,
+      "active_oracles": 1,
+      "avg_resolution_time_hours": 0
+    },
+    {
+      "date": "2025-09-23",
+      "requests_made": 0,
+      "requests_resolved": 2,
+      "total_rewards_sui": 3.847899,
+      "active_oracles": 0,
+      "avg_resolution_time_hours": 28.555285555555557
+    },
+    {
+      "date": "2025-09-24",
+      "requests_made": 0,
+      "requests_resolved": 0,
+      "total_rewards_sui": 0,
+      "active_oracles": 0,
+      "avg_resolution_time_hours": 0
+    },
+    {
+      "date": "2025-09-25",
+      "requests_made": 0,
+      "requests_resolved": 0,
+      "total_rewards_sui": 0,
+      "active_oracles": 0,
+      "avg_resolution_time_hours": 0
+    },
+    {
+      "date": "2025-09-26",
+      "requests_made": 0,
+      "requests_resolved": 0,
+      "total_rewards_sui": 0,
+      "active_oracles": 0,
+      "avg_resolution_time_hours": 0
+    },
+    {
+      "date": "2025-09-27",
+      "requests_made": 1,
+      "requests_resolved": 0,
+      "total_rewards_sui": 0,
+      "active_oracles": 1,
+      "avg_resolution_time_hours": 0
+    },
+    {
+      "date": "2025-09-28",
+      "requests_made": 0,
+      "requests_resolved": 1,
+      "total_rewards_sui": 8.1120974,
+      "active_oracles": 0,
+      "avg_resolution_time_hours": 27.12671472222222
+    },
+    {
+      "date": "2025-09-29",
+      "requests_made": 0,
+      "requests_resolved": 0,
+      "total_rewards_sui": 0,
+      "active_oracles": 0,
+      "avg_resolution_time_hours": 0
+    },
+    {
+      "date": "2025-09-30",
+      "requests_made": 0,
+      "requests_resolved": 0,
+      "total_rewards_sui": 0,
+      "active_oracles": 0,
+      "avg_resolution_time_hours": 0
+    },
+    {
+      "date": "2025-10-01",
+      "requests_made": 7,
+      "requests_resolved": 0,
+      "total_rewards_sui": 0,
+      "active_oracles": 1,
+      "avg_resolution_time_hours": 0
+    },
+    {
+      "date": "2025-10-02",
+      "requests_made": 0,
+      "requests_resolved": 7,
+      "total_rewards_sui": 8.198561853,
+      "active_oracles": 0,
+      "avg_resolution_time_hours": 24.308845793650796
+    },
+    {
+      "date": "2025-10-03",
+      "requests_made": 0,
+      "requests_resolved": 0,
+      "total_rewards_sui": 0,
+      "active_oracles": 0,
+      "avg_resolution_time_hours": 0
+    },
+    {
+      "date": "2025-10-04",
+      "requests_made": 0,
+      "requests_resolved": 0,
+      "total_rewards_sui": 0,
+      "active_oracles": 0,
+      "avg_resolution_time_hours": 0
+    },
+    {
+      "date": "2025-10-05",
+      "requests_made": 0,
+      "requests_resolved": 0,
+      "total_rewards_sui": 0,
+      "active_oracles": 0,
+      "avg_resolution_time_hours": 0
+    },
+    {
+      "date": "2025-10-06",
+      "requests_made": 0,
+      "requests_resolved": 0,
+      "total_rewards_sui": 0,
+      "active_oracles": 0,
+      "avg_resolution_time_hours": 0
+    },
+    {
+      "date": "2025-10-07",
+      "requests_made": 6,
+      "requests_resolved": 0,
+      "total_rewards_sui": 0,
+      "active_oracles": 1,
+      "avg_resolution_time_hours": 0
+    },
+    {
+      "date": "2025-10-08",
+      "requests_made": 3,
+      "requests_resolved": 6,
+      "total_rewards_sui": 5.945316876,
+      "active_oracles": 1,
+      "avg_resolution_time_hours": 27.20689902777778
+    },
+    {
+      "date": "2025-10-09",
+      "requests_made": 4,
+      "requests_resolved": 0,
+      "total_rewards_sui": 0,
+      "active_oracles": 1,
+      "avg_resolution_time_hours": 0
+    },
+    {
+      "date": "2025-10-10",
+      "requests_made": 0,
+      "requests_resolved": 7,
+      "total_rewards_sui": 3.6135658999999998,
+      "active_oracles": 0,
+      "avg_resolution_time_hours": 28.1340678968254
+    }
+  ]
+}

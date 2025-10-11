@@ -1,0 +1,512 @@
+{
+  "metadata": {
+    "generated_at": "2025-10-10T20:26:06.845Z",
+    "date_range": {
+      "from": "2025-08-20",
+      "to": "2025-10-10"
+    },
+    "total_days": 50
+  },
+  "data": [
+    {
+      "date": "2025-08-20",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-08-21",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-08-22",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-08-23",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-08-24",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-08-25",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-08-26",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-08-27",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-08-28",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-08-29",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-08-30",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-08-31",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-09-01",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-09-02",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-09-03",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-09-04",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-09-05",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-09-06",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-09-07",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-09-08",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-09-10",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-09-12",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-09-13",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-09-14",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-09-15",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-09-16",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-09-17",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-09-18",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-09-19",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-09-20",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-09-21",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-09-22",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-09-23",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-09-24",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-09-25",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-09-26",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-09-27",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-09-28",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-09-29",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-09-30",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-10-01",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-10-02",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-10-03",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-10-04",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-10-05",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-10-06",
+      "orders_placed": 1,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 1,
+      "pending_buy_orders": 1,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-10-07",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 1,
+      "pending_buy_orders": 1,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-10-08",
+      "orders_placed": 0,
+      "orders_executed": 0,
+      "orders_cancelled": 0,
+      "open_interest_sui": 1,
+      "pending_buy_orders": 1,
+      "pending_sell_orders": 0,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-10-09",
+      "orders_placed": 2,
+      "orders_executed": 0,
+      "orders_cancelled": 1,
+      "open_interest_sui": 0,
+      "pending_buy_orders": 0,
+      "pending_sell_orders": 2,
+      "avg_execution_time_hours": 0
+    },
+    {
+      "date": "2025-10-10",
+      "orders_placed": 5,
+      "orders_executed": 2,
+      "orders_cancelled": 0,
+      "open_interest_sui": 2.5,
+      "pending_buy_orders": 3,
+      "pending_sell_orders": 2,
+      "avg_execution_time_hours": 57.42153347222222
+    }
+  ]
+}

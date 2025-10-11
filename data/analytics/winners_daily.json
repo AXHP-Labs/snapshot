@@ -1,0 +1,252 @@
+{
+  "metadata": {
+    "generated_at": "2025-10-10T20:26:06.845Z",
+    "date_range": {
+      "from": "2025-08-20",
+      "to": "2025-10-10"
+    },
+    "total_days": 50
+  },
+  "data": [
+    {
+      "date": "2025-08-27",
+      "total_winners": 4,
+      "total_winnings_sui": 7.493540798000001,
+      "badges_created": 4,
+      "rarity_distribution": {
+        "common": 4,
+        "rare": 0,
+        "epic": 0,
+        "legendary": 0
+      }
+    },
+    {
+      "date": "2025-08-29",
+      "total_winners": 9,
+      "total_winnings_sui": 65.716716196,
+      "badges_created": 9,
+      "rarity_distribution": {
+        "common": 7,
+        "rare": 2,
+        "epic": 0,
+        "legendary": 0
+      }
+    },
+    {
+      "date": "2025-09-02",
+      "total_winners": 16,
+      "total_winnings_sui": 190.56872868500002,
+      "badges_created": 16,
+      "rarity_distribution": {
+        "common": 10,
+        "rare": 5,
+        "epic": 1,
+        "legendary": 0
+      }
+    },
+    {
+      "date": "2025-09-03",
+      "total_winners": 5,
+      "total_winnings_sui": 196.395145928,
+      "badges_created": 5,
+      "rarity_distribution": {
+        "common": 2,
+        "rare": 1,
+        "epic": 1,
+        "legendary": 1
+      }
+    },
+    {
+      "date": "2025-09-04",
+      "total_winners": 1,
+      "total_winnings_sui": 20.093493469,
+      "badges_created": 1,
+      "rarity_distribution": {
+        "common": 0,
+        "rare": 1,
+        "epic": 0,
+        "legendary": 0
+      }
+    },
+    {
+      "date": "2025-09-10",
+      "total_winners": 23,
+      "total_winnings_sui": 294.822771697,
+      "badges_created": 23,
+      "rarity_distribution": {
+        "common": 11,
+        "rare": 11,
+        "epic": 1,
+        "legendary": 0
+      }
+    },
+    {
+      "date": "2025-09-12",
+      "total_winners": 8,
+      "total_winnings_sui": 36.541641218,
+      "badges_created": 8,
+      "rarity_distribution": {
+        "common": 7,
+        "rare": 1,
+        "epic": 0,
+        "legendary": 0
+      }
+    },
+    {
+      "date": "2025-09-17",
+      "total_winners": 2,
+      "total_winnings_sui": 24.798429216000002,
+      "badges_created": 2,
+      "rarity_distribution": {
+        "common": 1,
+        "rare": 1,
+        "epic": 0,
+        "legendary": 0
+      }
+    },
+    {
+      "date": "2025-09-18",
+      "total_winners": 8,
+      "total_winnings_sui": 60.18189182799999,
+      "badges_created": 8,
+      "rarity_distribution": {
+        "common": 6,
+        "rare": 2,
+        "epic": 0,
+        "legendary": 0
+      }
+    },
+    {
+      "date": "2025-09-19",
+      "total_winners": 7,
+      "total_winnings_sui": 88.036987188,
+      "badges_created": 7,
+      "rarity_distribution": {
+        "common": 4,
+        "rare": 2,
+        "epic": 1,
+        "legendary": 0
+      }
+    },
+    {
+      "date": "2025-09-20",
+      "total_winners": 1,
+      "total_winnings_sui": 1.369773271,
+      "badges_created": 1,
+      "rarity_distribution": {
+        "common": 1,
+        "rare": 0,
+        "epic": 0,
+        "legendary": 0
+      }
+    },
+    {
+      "date": "2025-09-22",
+      "total_winners": 4,
+      "total_winnings_sui": 20.836596514,
+      "badges_created": 4,
+      "rarity_distribution": {
+        "common": 3,
+        "rare": 1,
+        "epic": 0,
+        "legendary": 0
+      }
+    },
+    {
+      "date": "2025-09-23",
+      "total_winners": 11,
+      "total_winnings_sui": 193.684128865,
+      "badges_created": 11,
+      "rarity_distribution": {
+        "common": 7,
+        "rare": 3,
+        "epic": 1,
+        "legendary": 0
+      }
+    },
+    {
+      "date": "2025-09-24",
+      "total_winners": 8,
+      "total_winnings_sui": 23.734649619,
+      "badges_created": 8,
+      "rarity_distribution": {
+        "common": 8,
+        "rare": 0,
+        "epic": 0,
+        "legendary": 0
+      }
+    },
+    {
+      "date": "2025-09-28",
+      "total_winners": 7,
+      "total_winnings_sui": 539.217708257,
+      "badges_created": 7,
+      "rarity_distribution": {
+        "common": 1,
+        "rare": 3,
+        "epic": 1,
+        "legendary": 2
+      }
+    },
+    {
+      "date": "2025-10-02",
+      "total_winners": 20,
+      "total_winnings_sui": 229.920508736,
+      "badges_created": 20,
+      "rarity_distribution": {
+        "common": 13,
+        "rare": 6,
+        "epic": 1,
+        "legendary": 0
+      }
+    },
+    {
+      "date": "2025-10-06",
+      "total_winners": 3,
+      "total_winnings_sui": 30.819918552999997,
+      "badges_created": 3,
+      "rarity_distribution": {
+        "common": 2,
+        "rare": 1,
+        "epic": 0,
+        "legendary": 0
+      }
+    },
+    {
+      "date": "2025-10-07",
+      "total_winners": 1,
+      "total_winnings_sui": 4.492630765,
+      "badges_created": 1,
+      "rarity_distribution": {
+        "common": 1,
+        "rare": 0,
+        "epic": 0,
+        "legendary": 0
+      }
+    },
+    {
+      "date": "2025-10-08",
+      "total_winners": 9,
+      "total_winnings_sui": 275.065183275,
+      "badges_created": 9,
+      "rarity_distribution": {
+        "common": 3,
+        "rare": 4,
+        "epic": 2,
+        "legendary": 0
+      }
+    },
+    {
+      "date": "2025-10-10",
+      "total_winners": 3,
+      "total_winnings_sui": 64.215929716,
+      "badges_created": 3,
+      "rarity_distribution": {
+        "common": 0,
+        "rare": 3,
+        "epic": 0,
+        "legendary": 0
+      }
+    }
+  ]
+}
