@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-10-11T09:14:17.367Z",
+    "generated_at": "2025-10-11T13:32:22.071Z",
     "date_range": {
       "from": "2025-08-20",
       "to": "2025-10-11"
@@ -606,11 +606,20 @@
     },
     {
       "date": "2025-10-11",
-      "new_markets": 0,
-      "total_cumulative_markets": 55,
+      "new_markets": 2,
+      "total_cumulative_markets": 57,
       "resolved_markets": 0,
-      "active_markets": 17,
-      "categories": {}
+      "active_markets": 19,
+      "categories": {
+        "politics": {
+          "new": 1,
+          "resolved": 0
+        },
+        "economics": {
+          "new": 1,
+          "resolved": 0
+        }
+      }
     }
   ]
 }

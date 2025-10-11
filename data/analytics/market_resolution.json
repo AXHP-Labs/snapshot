@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-10-11T09:14:17.395Z",
+    "generated_at": "2025-10-11T13:32:22.103Z",
     "description": "Market creation and resolution time tracking"
   },
   "data": [
@@ -170,6 +170,13 @@
       "markets_created": 0,
       "markets_resolved": 7,
       "avg_resolution_time_hours": 1010.1930335714286,
+      "success_rate_percentage": 0
+    },
+    {
+      "date": "2025-10-11",
+      "markets_created": 2,
+      "markets_resolved": 0,
+      "avg_resolution_time_hours": 0,
       "success_rate_percentage": 0
     }
   ]

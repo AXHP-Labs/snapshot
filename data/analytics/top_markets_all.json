@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2025-10-11T09:14:17.390Z",
-    "total_markets": 55
+    "generated_at": "2025-10-11T13:32:22.095Z",
+    "total_markets": 57
   },
   "data": [
     {
@@ -68,6 +68,15 @@
       "is_resolved": true
     },
     {
+      "market_id": "0xeddb3a84d74338a34fb9b74a6c04eee88d0dc4a83fb3ccdbcf22c6f03d532cb5",
+      "question": "Ethereum $5,200 between 7–19 Oct 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 13.0607,
+      "bet_amount_no": 99.0021,
+      "total_bet": 112.0628,
+      "is_resolved": false
+    },
+    {
       "market_id": "0xb2446175d3b27f685ecfa71a431a8bf64f2aa070aa40bcc0e786b4d0151c3f2d",
       "question": "Trump impeached in 2025?",
       "category": "politics",
@@ -84,15 +93,6 @@
       "bet_amount_no": 30.408500000000004,
       "total_bet": 98.90239999999999,
       "is_resolved": true
-    },
-    {
-      "market_id": "0xeddb3a84d74338a34fb9b74a6c04eee88d0dc4a83fb3ccdbcf22c6f03d532cb5",
-      "question": "Ethereum $5,200 between 7–19 Oct 2025?",
-      "category": "crypto",
-      "bet_amount_yes": 13.0607,
-      "bet_amount_no": 81.0561,
-      "total_bet": 94.1168,
-      "is_resolved": false
     },
     {
       "market_id": "0x769f047a5f38643db8d01c66a13d5b77ebcc0867aafd2bd154a6c603c29487aa",
@@ -437,21 +437,21 @@
       "is_resolved": true
     },
     {
+      "market_id": "0x4bce5e5581cbd9c8749ec7e15b9226f43d1706e91b1fd126fdb0f0d208a9cfb2",
+      "question": "Trump–Xi meeting happens in 2025?",
+      "category": "politics",
+      "bet_amount_yes": 2.991,
+      "bet_amount_no": 0,
+      "total_bet": 2.991,
+      "is_resolved": false
+    },
+    {
       "market_id": "0x55ea10fd1426d75c54e4db867018646328e89f400ceaf7e434f22c76a213574a",
       "question": "@elonmusk tweets about crypto this week?",
       "category": "crypto",
       "bet_amount_yes": 1.5952,
       "bet_amount_no": 1.1964,
       "total_bet": 2.7916,
-      "is_resolved": true
-    },
-    {
-      "market_id": "0x105034a0d1e6117917bee63f8d9b77c3005acc4fdb31c8a7a73ec66ca9f29cbe",
-      "question": "Will Powell mention crypto today?",
-      "category": "crypto",
-      "bet_amount_yes": 0.4985,
-      "bet_amount_no": 1.5952,
-      "total_bet": 2.0937,
       "is_resolved": true
     }
   ]

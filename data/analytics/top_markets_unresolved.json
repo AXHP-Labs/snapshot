@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2025-10-11T09:14:17.391Z",
-    "total_unresolved_markets": 17
+    "generated_at": "2025-10-11T13:32:22.096Z",
+    "total_unresolved_markets": 19
   },
   "data": [
     {
@@ -9,8 +9,8 @@
       "question": "Ethereum $5,200 between 7–19 Oct 2025?",
       "category": "crypto",
       "bet_amount_yes": 13.0607,
-      "bet_amount_no": 81.0561,
-      "total_bet": 94.1168
+      "bet_amount_no": 99.0021,
+      "total_bet": 112.0628
     },
     {
       "market_id": "0x416080563efea5a02ba2595de19ab5add7ecbc6d4fdb8e71493b3ee24596b39c",
@@ -101,6 +101,14 @@
       "total_bet": 5.2841000000000005
     },
     {
+      "market_id": "0x4bce5e5581cbd9c8749ec7e15b9226f43d1706e91b1fd126fdb0f0d208a9cfb2",
+      "question": "Trump–Xi meeting happens in 2025?",
+      "category": "politics",
+      "bet_amount_yes": 2.991,
+      "bet_amount_no": 0,
+      "total_bet": 2.991
+    },
+    {
       "market_id": "0x6371741f72ce22943d3711b46230f604997a215bbd9162ae77749a5b1bd37bbd",
       "question": "SUI TVL > $3B by EOY 2025?",
       "category": "crypto",
@@ -115,6 +123,14 @@
       "bet_amount_yes": 0,
       "bet_amount_no": 1.0967,
       "total_bet": 1.0967
+    },
+    {
+      "market_id": "0x641f655cf8f749a7895c95199036efbf4c8945b1f444f2fb5f289246369d80ab",
+      "question": "100% tariff on China in effect by 1 Nov 2025?",
+      "category": "economics",
+      "bet_amount_yes": 0,
+      "bet_amount_no": 0.997,
+      "total_bet": 0.997
     },
     {
       "market_id": "0x34aa3bcceba9bade93e3bc5d07ff29a46c3d5f803c656f4e1c87c93ede161c16",
