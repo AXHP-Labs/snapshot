@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-10-11T13:32:22.096Z",
+    "generated_at": "2025-10-11T14:13:01.235Z",
     "total_unresolved_markets": 19
   },
   "data": [
@@ -9,8 +9,8 @@
       "question": "Ethereum $5,200 between 7–19 Oct 2025?",
       "category": "crypto",
       "bet_amount_yes": 13.0607,
-      "bet_amount_no": 99.0021,
-      "total_bet": 112.0628
+      "bet_amount_no": 78.685970846,
+      "total_bet": 91.746670846
     },
     {
       "market_id": "0x416080563efea5a02ba2595de19ab5add7ecbc6d4fdb8e71493b3ee24596b39c",
