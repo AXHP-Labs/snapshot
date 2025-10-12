@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-10-11T14:13:01.235Z",
+    "generated_at": "2025-10-12T03:44:18.778Z",
     "total_unresolved_markets": 19
   },
   "data": [
@@ -9,32 +9,32 @@
       "question": "Ethereum $5,200 between 7–19 Oct 2025?",
       "category": "crypto",
       "bet_amount_yes": 13.0607,
-      "bet_amount_no": 78.685970846,
-      "total_bet": 91.746670846
+      "bet_amount_no": 179.38297084599998,
+      "total_bet": 192.44367084599997
     },
     {
       "market_id": "0x416080563efea5a02ba2595de19ab5add7ecbc6d4fdb8e71493b3ee24596b39c",
       "question": "U.S. shutdown ends by 16 Oct 2025?",
       "category": "crypto",
-      "bet_amount_yes": 7.976,
-      "bet_amount_no": 32.6019,
-      "total_bet": 40.5779
+      "bet_amount_yes": 6.0102137760000005,
+      "bet_amount_no": 37.5869,
+      "total_bet": 43.597113776
+    },
+    {
+      "market_id": "0x2a120c507fe6ada7787ba49ca4e658c7bf4e64243e9c70c48f8743ea6783002c",
+      "question": "Bitcoin >$130,000 by 17 October?",
+      "category": "crypto",
+      "bet_amount_yes": 6.396621408,
+      "bet_amount_no": 20.4385,
+      "total_bet": 26.835121408
     },
     {
       "market_id": "0x368deaf5b225cb32ba65b8b811d688d638e313f5cc3b44957ec834ceb909c640",
       "question": "U.S. national Ethereum reserve in 2025?",
       "category": "crypto",
       "bet_amount_yes": 1.2961,
-      "bet_amount_no": 19.94,
-      "total_bet": 21.2361
-    },
-    {
-      "market_id": "0x2a120c507fe6ada7787ba49ca4e658c7bf4e64243e9c70c48f8743ea6783002c",
-      "question": "Bitcoin >$130,000 by 17 October?",
-      "category": "crypto",
-      "bet_amount_yes": 7.278099999999999,
-      "bet_amount_no": 10.4685,
-      "total_bet": 17.7466
+      "bet_amount_no": 20.937,
+      "total_bet": 22.2331
     },
     {
       "market_id": "0x40771473f2d49401421a49a0176d7c500a04ac1b943fd6c3a7475b70832daec3",
@@ -69,6 +69,14 @@
       "total_bet": 10.4685
     },
     {
+      "market_id": "0x4bce5e5581cbd9c8749ec7e15b9226f43d1706e91b1fd126fdb0f0d208a9cfb2",
+      "question": "Trump–Xi meeting happens in 2025?",
+      "category": "politics",
+      "bet_amount_yes": 2.991,
+      "bet_amount_no": 4.985,
+      "total_bet": 7.976000000000001
+    },
+    {
       "market_id": "0xb7290a7f54ef7e35c0abd7a24348e1c724c86f235089c03561eaadf6635ac272",
       "question": "$AMZN Q3 FY25 revenue > $177.46B?",
       "category": "technology",
@@ -99,14 +107,6 @@
       "bet_amount_yes": 0.2991,
       "bet_amount_no": 4.985,
       "total_bet": 5.2841000000000005
-    },
-    {
-      "market_id": "0x4bce5e5581cbd9c8749ec7e15b9226f43d1706e91b1fd126fdb0f0d208a9cfb2",
-      "question": "Trump–Xi meeting happens in 2025?",
-      "category": "politics",
-      "bet_amount_yes": 2.991,
-      "bet_amount_no": 0,
-      "total_bet": 2.991
     },
     {
       "market_id": "0x6371741f72ce22943d3711b46230f604997a215bbd9162ae77749a5b1bd37bbd",
