@@ -1,11 +1,11 @@
 {
-  "total_trading_volume": 3556475016362,
-  "active_traders": 81,
+  "total_trading_volume": 3607322016362,
+  "active_traders": 83,
   "markets_created": 59,
-  "predictions_made": 1988,
-  "volume_24h": 188532700000,
-  "volume_weekly": 717504944192,
-  "volume_monthly": 2229966516362,
+  "predictions_made": 1998,
+  "volume_24h": 112661000000,
+  "volume_weekly": 759378944192,
+  "volume_monthly": 2272089766362,
   "total_winning_badges": 152,
   "proposals_created": 10,
   "proposals_currently_active": 1,
@@ -14,5 +14,5 @@
   "oracle_requests_resolved": 38,
   "oracle_rewards_total": 50011877829,
   "active_oracles": 5,
-  "timestamp": 1760280528169
+  "timestamp": 1760336119568
 }

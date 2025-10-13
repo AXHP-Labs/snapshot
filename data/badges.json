@@ -175,10 +175,10 @@
       "winningAmount": 4492630765,
       "timestamp": 1759785744482,
       "rarity": "common",
-      "username": null,
+      "username": "2wola84",
       "display_name": null,
       "avatar_url": null,
-      "profile_exists": false
+      "profile_exists": true
     },
     {
       "badgeId": "0x5fe313ddb66eab99277aae10bf0c0db50f221e008cfb53a63738a669824b4be6",
@@ -1825,5 +1825,5 @@
       "profile_exists": true
     }
   ],
-  "timestamp": 1760280528159
+  "timestamp": 1760336119558
 }

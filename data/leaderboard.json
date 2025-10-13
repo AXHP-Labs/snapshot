@@ -157,13 +157,13 @@
     {
       "rank": 15,
       "address": "0x874e29b26ccce743bb8b322d29ecbf6c337642aaaf56aeed860e76cdf7dd3c10",
-      "username": null,
+      "username": "2wola84",
       "display_name": null,
       "avatar_url": null,
       "total_volume": 64007400000,
       "total_winnings": 4492630765,
       "total_score": 68500030765,
-      "profile_exists": false
+      "profile_exists": true
     },
     {
       "rank": 16,
@@ -672,5 +672,5 @@
       "profile_exists": false
     }
   ],
-  "timestamp": 1760280528154
+  "timestamp": 1760336119554
 }

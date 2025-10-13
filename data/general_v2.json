@@ -4,8 +4,8 @@
   "markets_created": 39,
   "predictions_made": 1873,
   "volume_24h": 0,
-  "volume_weekly": 263570844192,
-  "volume_monthly": 1776032416362,
+  "volume_weekly": 254597844192,
+  "volume_monthly": 1767308666362,
   "total_winning_badges": 152,
   "proposals_created": 8,
   "proposals_currently_active": 0,
@@ -14,5 +14,5 @@
   "oracle_requests_resolved": 38,
   "oracle_rewards_total": 50011877829,
   "active_oracles": 5,
-  "timestamp": 1760280481746
+  "timestamp": 1760336103665
 }

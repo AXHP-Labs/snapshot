@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-10-12T14:50:05.875Z",
+    "generated_at": "2025-10-13T06:15:53.267Z",
     "total_markets": 59
   },
   "data": [
@@ -36,8 +36,8 @@
       "question": "Ethereum $5,200 between 7–19 Oct 2025?",
       "category": "crypto",
       "bet_amount_yes": 13.160400000000001,
-      "bet_amount_no": 180.379970846,
-      "total_bet": 193.540370846,
+      "bet_amount_no": 197.32897084600003,
+      "total_bet": 210.48937084600004,
       "is_resolved": false
     },
     {
@@ -185,12 +185,21 @@
       "is_resolved": true
     },
     {
+      "market_id": "0x475c2baecc3b6f636867f56ffc77b973d57cce8b21278c43957b82ada1cb37da",
+      "question": "BTC >$125K before 15 Oct 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 0.997,
+      "bet_amount_no": 47.856,
+      "total_bet": 48.853,
+      "is_resolved": false
+    },
+    {
       "market_id": "0x416080563efea5a02ba2595de19ab5add7ecbc6d4fdb8e71493b3ee24596b39c",
       "question": "U.S. shutdown ends by 16 Oct 2025?",
       "category": "crypto",
       "bet_amount_yes": 7.007213776,
-      "bet_amount_no": 37.5869,
-      "total_bet": 44.594113776,
+      "bet_amount_no": 39.5809,
+      "total_bet": 46.588113776,
       "is_resolved": false
     },
     {
@@ -237,15 +246,6 @@
       "bet_amount_no": 22.7316,
       "total_bet": 35.69260000000001,
       "is_resolved": true
-    },
-    {
-      "market_id": "0x475c2baecc3b6f636867f56ffc77b973d57cce8b21278c43957b82ada1cb37da",
-      "question": "BTC >$125K before 15 Oct 2025?",
-      "category": "crypto",
-      "bet_amount_yes": 0.997,
-      "bet_amount_no": 32.901,
-      "total_bet": 33.898,
-      "is_resolved": false
     },
     {
       "market_id": "0x561853bd7b45b80a1d7d6852e17afd0e44a38a964cdf316e318116a01458a629",
@@ -338,6 +338,24 @@
       "is_resolved": true
     },
     {
+      "market_id": "0x4bce5e5581cbd9c8749ec7e15b9226f43d1706e91b1fd126fdb0f0d208a9cfb2",
+      "question": "Trump–Xi meeting happens in 2025?",
+      "category": "politics",
+      "bet_amount_yes": 8.973,
+      "bet_amount_no": 4.985,
+      "total_bet": 13.958000000000002,
+      "is_resolved": false
+    },
+    {
+      "market_id": "0x641f655cf8f749a7895c95199036efbf4c8945b1f444f2fb5f289246369d80ab",
+      "question": "100% tariff on China in effect by 1 Nov 2025?",
+      "category": "economics",
+      "bet_amount_yes": 0,
+      "bet_amount_no": 13.958,
+      "total_bet": 13.958,
+      "is_resolved": false
+    },
+    {
       "market_id": "0x40771473f2d49401421a49a0176d7c500a04ac1b943fd6c3a7475b70832daec3",
       "question": "SEC approves a Solana ETF in October 2025?",
       "category": "crypto",
@@ -371,15 +389,6 @@
       "bet_amount_yes": 6.7796,
       "bet_amount_no": 3.1823257120000004,
       "total_bet": 9.961925712000001,
-      "is_resolved": false
-    },
-    {
-      "market_id": "0x4bce5e5581cbd9c8749ec7e15b9226f43d1706e91b1fd126fdb0f0d208a9cfb2",
-      "question": "Trump–Xi meeting happens in 2025?",
-      "category": "politics",
-      "bet_amount_yes": 3.988,
-      "bet_amount_no": 4.985,
-      "total_bet": 8.973,
       "is_resolved": false
     },
     {
@@ -443,15 +452,6 @@
       "bet_amount_yes": 3.1904,
       "bet_amount_no": 2.2931,
       "total_bet": 5.4835,
-      "is_resolved": true
-    },
-    {
-      "market_id": "0x5b46dfa21397a94ec407196e4abdf7611c883c7cda54b0c8d1b015f8358c438e",
-      "question": "SEC releases new crypto framework in September?",
-      "category": "crypto",
-      "bet_amount_yes": 3.2900999999999985,
-      "bet_amount_no": 1.994,
-      "total_bet": 5.284099999999999,
       "is_resolved": true
     }
   ]
