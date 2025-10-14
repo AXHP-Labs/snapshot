@@ -1291,10 +1291,10 @@
       "winningAmount": 191630693,
       "timestamp": 1757366526185,
       "rarity": "common",
-      "username": "trunk",
-      "display_name": "Trunk",
-      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Daisy",
-      "profile_exists": true
+      "username": null,
+      "display_name": null,
+      "avatar_url": null,
+      "profile_exists": false
     },
     {
       "badgeId": "0xad12a1560bd528503d970baeb27b8383b6adc9c29a761b61a350317ee7994fa8",
@@ -1303,10 +1303,10 @@
       "winningAmount": 13304790203,
       "timestamp": 1757366526185,
       "rarity": "rare",
-      "username": "jonas",
-      "display_name": "Jonas Klein",
-      "avatar_url": "https://raw.githubusercontent.com/AXHP-Labs/suisight/refs/heads/main/img/CloneX%20%2315565.png",
-      "profile_exists": true
+      "username": null,
+      "display_name": null,
+      "avatar_url": null,
+      "profile_exists": false
     },
     {
       "badgeId": "0xf690ef52cd9c91e5099e7055908e2c2bce00db65667243fbf2f98b316802cd8d",
@@ -1315,10 +1315,10 @@
       "winningAmount": 13759481788,
       "timestamp": 1757366526185,
       "rarity": "rare",
-      "username": "scott",
-      "display_name": "Brandon",
-      "avatar_url": "https://github.com/AXHP-Labs/suisight/blob/main/img/PP/Scott.jpeg?raw=true",
-      "profile_exists": true
+      "username": null,
+      "display_name": null,
+      "avatar_url": null,
+      "profile_exists": false
     },
     {
       "badgeId": "0xead5b02276239a9b853f962acafdd095eeec220018fe879b3c610132186b5e3f",
@@ -1327,10 +1327,10 @@
       "winningAmount": 15551804582,
       "timestamp": 1757366526185,
       "rarity": "rare",
-      "username": "nakamura",
-      "display_name": "ren",
-      "avatar_url": "https://github.com/AXHP-Labs/suisight/blob/main/img/PP/Nakamura.jpg?raw=true",
-      "profile_exists": true
+      "username": null,
+      "display_name": null,
+      "avatar_url": null,
+      "profile_exists": false
     },
     {
       "badgeId": "0x497762da0c568d7bb2baf43aba6ecdb371565e7f4df21f6403e461a8470aaf5d",
@@ -1339,10 +1339,10 @@
       "winningAmount": 19586317459,
       "timestamp": 1757366526185,
       "rarity": "rare",
-      "username": "luffy",
-      "display_name": "Monkey D. Luffy",
-      "avatar_url": "https://github.com/AXHP-Labs/suisight/blob/main/img/PP/Luffy.jpg?raw=true",
-      "profile_exists": true
+      "username": null,
+      "display_name": null,
+      "avatar_url": null,
+      "profile_exists": false
     },
     {
       "badgeId": "0x720919bf7bfbf8e918d876cbfdce0abf1080e8c2d6f39dea3954f9a93be38b04",
@@ -1825,5 +1825,5 @@
       "profile_exists": true
     }
   ],
-  "timestamp": 1760336119558
+  "timestamp": 1760419348283
 }
