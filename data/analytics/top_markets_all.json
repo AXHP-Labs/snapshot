@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-10-14T13:55:42.043Z",
+    "generated_at": "2025-10-14T23:40:54.142Z",
     "total_markets": 60
   },
   "data": [
@@ -18,8 +18,8 @@
       "question": "BTC >$125K before 15 Oct 2025?",
       "category": "crypto",
       "bet_amount_yes": 2.091492809,
-      "bet_amount_no": 308.971765571,
-      "total_bet": 311.0632583799999,
+      "bet_amount_no": 409.17026557099996,
+      "total_bet": 411.2617583799999,
       "is_resolved": false
     },
     {
@@ -257,6 +257,15 @@
       "is_resolved": true
     },
     {
+      "market_id": "0x4bce5e5581cbd9c8749ec7e15b9226f43d1706e91b1fd126fdb0f0d208a9cfb2",
+      "question": "Trump–Xi meeting happens in 2025?",
+      "category": "politics",
+      "bet_amount_yes": 24.0277,
+      "bet_amount_no": 5.982,
+      "total_bet": 30.009700000000002,
+      "is_resolved": false
+    },
+    {
       "market_id": "0x561853bd7b45b80a1d7d6852e17afd0e44a38a964cdf316e318116a01458a629",
       "question": "BlackRock IBIT ETF holdings exceed 777,777 BTC by 19 September?",
       "category": "other",
@@ -266,12 +275,12 @@
       "is_resolved": true
     },
     {
-      "market_id": "0x4bce5e5581cbd9c8749ec7e15b9226f43d1706e91b1fd126fdb0f0d208a9cfb2",
-      "question": "Trump–Xi meeting happens in 2025?",
-      "category": "politics",
-      "bet_amount_yes": 19.0427,
-      "bet_amount_no": 5.982,
-      "total_bet": 25.024700000000003,
+      "market_id": "0x368deaf5b225cb32ba65b8b811d688d638e313f5cc3b44957ec834ceb909c640",
+      "question": "U.S. national Ethereum reserve in 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 1.2961,
+      "bet_amount_no": 26.919,
+      "total_bet": 28.2151,
       "is_resolved": false
     },
     {
@@ -293,15 +302,6 @@
       "is_resolved": true
     },
     {
-      "market_id": "0x368deaf5b225cb32ba65b8b811d688d638e313f5cc3b44957ec834ceb909c640",
-      "question": "U.S. national Ethereum reserve in 2025?",
-      "category": "crypto",
-      "bet_amount_yes": 1.2961,
-      "bet_amount_no": 20.937,
-      "total_bet": 22.2331,
-      "is_resolved": false
-    },
-    {
       "market_id": "0xdf1a92de15c6bba926117f469c6188382576281a5586b0166533a756cffa6b24",
       "question": "USDT market cap >$200B by 31 Dec 2025?",
       "category": "crypto",
@@ -318,6 +318,15 @@
       "bet_amount_no": 10.667900000000008,
       "total_bet": 21.734600000000007,
       "is_resolved": true
+    },
+    {
+      "market_id": "0x641f655cf8f749a7895c95199036efbf4c8945b1f444f2fb5f289246369d80ab",
+      "question": "100% tariff on China in effect by 1 Nov 2025?",
+      "category": "economics",
+      "bet_amount_yes": 0.997,
+      "bet_amount_no": 19.0427,
+      "total_bet": 20.0397,
+      "is_resolved": false
     },
     {
       "market_id": "0xd3ea7c2c31916fa52f4d7cec0e8a4e5e730c3bea317c4b6fa4da0a07a4bd47e8",
@@ -342,8 +351,8 @@
       "question": "Palestine will become a state in 2025?",
       "category": "politics",
       "bet_amount_yes": 1.4954999999999998,
-      "bet_amount_no": 15.254100000000001,
-      "total_bet": 16.7496,
+      "bet_amount_no": 16.2511,
+      "total_bet": 17.7466,
       "is_resolved": false
     },
     {
@@ -354,15 +363,6 @@
       "bet_amount_no": 12.163400000000001,
       "total_bet": 16.0517,
       "is_resolved": true
-    },
-    {
-      "market_id": "0x641f655cf8f749a7895c95199036efbf4c8945b1f444f2fb5f289246369d80ab",
-      "question": "100% tariff on China in effect by 1 Nov 2025?",
-      "category": "economics",
-      "bet_amount_yes": 0.997,
-      "bet_amount_no": 14.0577,
-      "total_bet": 15.0547,
-      "is_resolved": false
     },
     {
       "market_id": "0x3e8650d708ccb1911caf59e75314e335a747a8096262d1e496a7c848093e887d",
@@ -389,7 +389,7 @@
       "bet_amount_yes": 5.982,
       "bet_amount_no": 4.985,
       "total_bet": 10.967,
-      "is_resolved": false
+      "is_resolved": true
     },
     {
       "market_id": "0x65707bade9e2e8ac9797c566605e5375bd6e3ace7e82f579ae44c11f7bcb1720",

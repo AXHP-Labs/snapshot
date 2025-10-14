@@ -685,6 +685,15 @@
       "owner": "0xa689f6f872aee002361d08e0227ddb80bc08c235407304143efe1aed858cf05c"
     },
     {
+      "id": "0xa979ec5fc03d1c348ab41388f2b86ba3afc5abe492a13ddbf310f7915b0bc756",
+      "name": "The NoaSight OG",
+      "description": "Exclusive OG member of NoaSight community",
+      "image_url": "https://uyjgeei5ka42yjgmxhee5ljxt473tt5quawen6vur2gojq3o5iaa.arweave.net/phJiER1QOawkzLnITq03nz-5z7CgLEb6tI6M5MNu6gA",
+      "category": 1,
+      "metadata": "OG Sighter - Foundation Builder",
+      "owner": "0x4bf17e3eeddecd17c415ed8fcd3b0f0e8798607b666f3c949859d2761e67158b"
+    },
+    {
       "id": "0x3c6285f135b039d488be3bd6652142e9dc7ca1c310167c08f4c29094f4b89832",
       "name": "The NoaSight OG",
       "description": "Exclusive OG member of NoaSight community",
@@ -694,5 +703,5 @@
       "owner": "0xbc9af842a51a91edc56fa494877eeeb9d067622441d97b09a851bd0eeda95d3d"
     }
   ],
-  "timestamp": 1760450093412
+  "timestamp": 1760485221182
 }

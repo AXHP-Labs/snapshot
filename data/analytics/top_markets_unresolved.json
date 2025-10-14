@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2025-10-14T13:55:42.045Z",
-    "total_unresolved_markets": 22
+    "generated_at": "2025-10-14T23:40:54.147Z",
+    "total_unresolved_markets": 21
   },
   "data": [
     {
@@ -9,8 +9,8 @@
       "question": "BTC >$125K before 15 Oct 2025?",
       "category": "crypto",
       "bet_amount_yes": 2.091492809,
-      "bet_amount_no": 308.971765571,
-      "total_bet": 311.0632583799999
+      "bet_amount_no": 409.17026557099996,
+      "total_bet": 411.2617583799999
     },
     {
       "market_id": "0xeddb3a84d74338a34fb9b74a6c04eee88d0dc4a83fb3ccdbcf22c6f03d532cb5",
@@ -40,33 +40,33 @@
       "market_id": "0x4bce5e5581cbd9c8749ec7e15b9226f43d1706e91b1fd126fdb0f0d208a9cfb2",
       "question": "Trump–Xi meeting happens in 2025?",
       "category": "politics",
-      "bet_amount_yes": 19.0427,
+      "bet_amount_yes": 24.0277,
       "bet_amount_no": 5.982,
-      "total_bet": 25.024700000000003
+      "total_bet": 30.009700000000002
     },
     {
       "market_id": "0x368deaf5b225cb32ba65b8b811d688d638e313f5cc3b44957ec834ceb909c640",
       "question": "U.S. national Ethereum reserve in 2025?",
       "category": "crypto",
       "bet_amount_yes": 1.2961,
-      "bet_amount_no": 20.937,
-      "total_bet": 22.2331
-    },
-    {
-      "market_id": "0x44051a50d7b2d36874391065da6eb05c8997f96aeb01c287cfb0387729cdf877",
-      "question": "Palestine will become a state in 2025?",
-      "category": "politics",
-      "bet_amount_yes": 1.4954999999999998,
-      "bet_amount_no": 15.254100000000001,
-      "total_bet": 16.7496
+      "bet_amount_no": 26.919,
+      "total_bet": 28.2151
     },
     {
       "market_id": "0x641f655cf8f749a7895c95199036efbf4c8945b1f444f2fb5f289246369d80ab",
       "question": "100% tariff on China in effect by 1 Nov 2025?",
       "category": "economics",
       "bet_amount_yes": 0.997,
-      "bet_amount_no": 14.0577,
-      "total_bet": 15.0547
+      "bet_amount_no": 19.0427,
+      "total_bet": 20.0397
+    },
+    {
+      "market_id": "0x44051a50d7b2d36874391065da6eb05c8997f96aeb01c287cfb0387729cdf877",
+      "question": "Palestine will become a state in 2025?",
+      "category": "politics",
+      "bet_amount_yes": 1.4954999999999998,
+      "bet_amount_no": 16.2511,
+      "total_bet": 17.7466
     },
     {
       "market_id": "0x3e8650d708ccb1911caf59e75314e335a747a8096262d1e496a7c848093e887d",
@@ -83,14 +83,6 @@
       "bet_amount_yes": 0,
       "bet_amount_no": 12.362800000000002,
       "total_bet": 12.362800000000002
-    },
-    {
-      "market_id": "0x14b66f8e8301cefa0ee990a044d497eaf27abdc8c5a88e9c228c452604fe0644",
-      "question": "Saylor buys >900 BTC on next purchase?",
-      "category": "crypto",
-      "bet_amount_yes": 5.982,
-      "bet_amount_no": 4.985,
-      "total_bet": 10.967
     },
     {
       "market_id": "0x65707bade9e2e8ac9797c566605e5375bd6e3ace7e82f579ae44c11f7bcb1720",

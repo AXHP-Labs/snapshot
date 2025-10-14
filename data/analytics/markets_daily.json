@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-10-14T13:55:42.012Z",
+    "generated_at": "2025-10-14T23:40:54.099Z",
     "date_range": {
       "from": "2025-08-20",
       "to": "2025-10-14"
@@ -651,9 +651,14 @@
       "date": "2025-10-14",
       "new_markets": 0,
       "total_cumulative_markets": 60,
-      "resolved_markets": 0,
-      "active_markets": 22,
-      "categories": {}
+      "resolved_markets": 1,
+      "active_markets": 21,
+      "categories": {
+        "crypto": {
+          "new": 0,
+          "resolved": 1
+        }
+      }
     }
   ]
 }
