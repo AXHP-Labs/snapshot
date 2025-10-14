@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-10-14T05:22:57.726Z",
+    "generated_at": "2025-10-14T13:55:42.012Z",
     "date_range": {
       "from": "2025-08-20",
       "to": "2025-10-14"
@@ -195,7 +195,7 @@
       "total_rewards_sui": 5.6682556,
       "active_oracles": 0,
       "cumulative_oracles": 4,
-      "avg_resolution_time_hours": 64.0905787962963
+      "avg_resolution_time_hours": 66.11011037037036
     },
     {
       "date": "2025-09-12",
@@ -258,7 +258,7 @@
       "total_rewards_sui": 2.6514356,
       "active_oracles": 0,
       "cumulative_oracles": 4,
-      "avg_resolution_time_hours": 24.02789222222222
+      "avg_resolution_time_hours": 24.02789333333333
     },
     {
       "date": "2025-09-19",
@@ -285,7 +285,7 @@
       "total_rewards_sui": 1.2650074,
       "active_oracles": 1,
       "cumulative_oracles": 4,
-      "avg_resolution_time_hours": 35.332682500000004
+      "avg_resolution_time_hours": 35.33268124999999
     },
     {
       "date": "2025-09-22",
@@ -303,7 +303,7 @@
       "total_rewards_sui": 3.847899,
       "active_oracles": 0,
       "cumulative_oracles": 4,
-      "avg_resolution_time_hours": 28.555284305555553
+      "avg_resolution_time_hours": 28.555284583333332
     },
     {
       "date": "2025-09-24",
@@ -384,7 +384,7 @@
       "total_rewards_sui": 8.198561853,
       "active_oracles": 0,
       "cumulative_oracles": 5,
-      "avg_resolution_time_hours": 24.30884638888889
+      "avg_resolution_time_hours": 24.30884714285714
     },
     {
       "date": "2025-10-03",
@@ -438,7 +438,7 @@
       "total_rewards_sui": 5.945316876,
       "active_oracles": 1,
       "cumulative_oracles": 5,
-      "avg_resolution_time_hours": 27.206900833333336
+      "avg_resolution_time_hours": 27.2069
     },
     {
       "date": "2025-10-09",
@@ -456,7 +456,7 @@
       "total_rewards_sui": 3.6135658999999998,
       "active_oracles": 0,
       "cumulative_oracles": 5,
-      "avg_resolution_time_hours": 28.134075119047623
+      "avg_resolution_time_hours": 28.13406892857143
     },
     {
       "date": "2025-10-11",

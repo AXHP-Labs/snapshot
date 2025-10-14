@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-10-14T05:22:57.759Z",
+    "generated_at": "2025-10-14T13:55:42.047Z",
     "total_users": 71
   },
   "data": [
@@ -132,10 +132,10 @@
     },
     {
       "user": "0xe9a8b7e9ba7bf018541080a9f3301bd75a804ea5df7d7556e6096427dadf8164",
-      "total_buy": 34.7953,
+      "total_buy": 35.7923,
       "total_sell": 0,
       "total_redeem": 46.58843713,
-      "balance": -11.793137130000005
+      "balance": -10.796137130000005
     },
     {
       "user": "0x7afd2906726498dd5395dc26ec563ce22aa502200c0fa3a69aa2d30f2b382027",
@@ -146,17 +146,17 @@
     },
     {
       "user": "0x5edff09fc4b9b021f24524ab570912422474678128ffb07c5b172b2e782ec42f",
-      "total_buy": 22.08355,
+      "total_buy": 24.07755,
       "total_sell": 3.288634429,
       "total_redeem": 27.73044236,
-      "balance": -8.935526789000004
+      "balance": -6.9415267890000045
     },
     {
       "user": "0x26c25d11ac38064e727272797e5955c3e5f08dcc928f5d6bbb2491658eca3896",
-      "total_buy": 21.0367,
+      "total_buy": 23.130399999999998,
       "total_sell": 0,
       "total_redeem": 0,
-      "balance": 21.0367
+      "balance": 23.130399999999998
     },
     {
       "user": "0xce57e1691147a95558c5d93012c8b05acd184dfd34fc3c1c000c9be3155bc6aa",
@@ -278,18 +278,18 @@
       "balance": 4.1874
     },
     {
+      "user": "0x7f7a7d51d6c0c2b88e1f05ba0d456b7b60791f5bdf7e875c3b5ce90f137f1de0",
+      "total_buy": 3.8882999999999983,
+      "total_sell": 0.002207191,
+      "total_redeem": 0,
+      "balance": 3.886092808999998
+    },
+    {
       "user": "0x47c22b531d4caeb55af581a2da7bb22539cceaa75a2dcfc0e62e0e7c0ec59990",
       "total_buy": 3.6888999999999994,
       "total_sell": 0,
       "total_redeem": 0,
       "balance": 3.6888999999999994
-    },
-    {
-      "user": "0x7f7a7d51d6c0c2b88e1f05ba0d456b7b60791f5bdf7e875c3b5ce90f137f1de0",
-      "total_buy": 3.6888999999999985,
-      "total_sell": 0,
-      "total_redeem": 0,
-      "balance": 3.6888999999999985
     },
     {
       "user": "0x97192fa6ed47adf53a7bebb2da370f2c6146b510f3f8544a65ccb9d8db66ade1",
