@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-10-15T14:29:53.196Z",
+    "generated_at": "2025-10-15T15:17:23.299Z",
     "total_unresolved_markets": 23
   },
   "data": [
@@ -165,28 +165,28 @@
       "total_bet": 1.3958
     },
     {
+      "market_id": "0xc79557b2d3789a07fd005a3cd5ecaf36236cc9303dbbf83e3c4356b88c9673c7",
+      "question": "Solana >$300 by 22 Nov?",
+      "category": "crypto",
+      "bet_amount_yes": 0,
+      "bet_amount_no": 0.997,
+      "total_bet": 0.997
+    },
+    {
+      "market_id": "0x5771b02bfe48cc7c7868b0ae437cf6da26b323734dc41c1603f355034681d64b",
+      "question": "SUI >$3.5 by 20 Nov?",
+      "category": "crypto",
+      "bet_amount_yes": 0.997,
+      "bet_amount_no": 0,
+      "total_bet": 0.997
+    },
+    {
       "market_id": "0x34aa3bcceba9bade93e3bc5d07ff29a46c3d5f803c656f4e1c87c93ede161c16",
       "question": "Michael Saylor’s 'Strategy' buys more Bitcoin in September?",
       "category": "crypto",
       "bet_amount_yes": 0.1994,
       "bet_amount_no": 0.44865,
       "total_bet": 0.64805
-    },
-    {
-      "market_id": "0xc79557b2d3789a07fd005a3cd5ecaf36236cc9303dbbf83e3c4356b88c9673c7",
-      "question": "Solana >$300 by 22 Nov?",
-      "category": "crypto",
-      "bet_amount_yes": 0,
-      "bet_amount_no": 0,
-      "total_bet": 0
-    },
-    {
-      "market_id": "0x5771b02bfe48cc7c7868b0ae437cf6da26b323734dc41c1603f355034681d64b",
-      "question": "SUI >$3.5 by 20 Nov?",
-      "category": "crypto",
-      "bet_amount_yes": 0,
-      "bet_amount_no": 0,
-      "total_bet": 0
     }
   ]
 }
