@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2025-10-14T23:40:54.099Z",
+    "generated_at": "2025-10-15T14:29:53.137Z",
     "date_range": {
       "from": "2025-08-20",
-      "to": "2025-10-14"
+      "to": "2025-10-15"
     },
-    "total_days": 54
+    "total_days": 55
   },
   "data": [
     {
@@ -547,6 +547,16 @@
       "no_volume_sui": 294.01530000000014,
       "largest_trade_sui": 124.625,
       "whale_trades": 3
+    },
+    {
+      "date": "2025-10-15",
+      "total_trades": 16,
+      "yes_trades": 4,
+      "no_trades": 12,
+      "yes_volume_sui": 7.7766,
+      "no_volume_sui": 62.166040699999996,
+      "largest_trade_sui": 10.967,
+      "whale_trades": 1
     }
   ]
 }
