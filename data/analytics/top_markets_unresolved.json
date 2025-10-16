@@ -1,48 +1,48 @@
 {
   "metadata": {
-    "generated_at": "2025-10-15T15:17:23.299Z",
-    "total_unresolved_markets": 23
+    "generated_at": "2025-10-16T03:51:24.616Z",
+    "total_unresolved_markets": 34
   },
   "data": [
-    {
-      "market_id": "0x475c2baecc3b6f636867f56ffc77b973d57cce8b21278c43957b82ada1cb37da",
-      "question": "BTC >$125K before 15 Oct 2025?",
-      "category": "crypto",
-      "bet_amount_yes": 2.091492809,
-      "bet_amount_no": 409.17026557099996,
-      "total_bet": 411.2617583799999
-    },
     {
       "market_id": "0xeddb3a84d74338a34fb9b74a6c04eee88d0dc4a83fb3ccdbcf22c6f03d532cb5",
       "question": "Ethereum $5,200 between 7–19 Oct 2025?",
       "category": "crypto",
       "bet_amount_yes": 13.160400000000001,
-      "bet_amount_no": 271.3769584460001,
-      "total_bet": 284.53735844600016
+      "bet_amount_no": 231.25717713600014,
+      "total_bet": 244.41757713600018
     },
     {
       "market_id": "0x416080563efea5a02ba2595de19ab5add7ecbc6d4fdb8e71493b3ee24596b39c",
       "question": "U.S. shutdown ends by 16 Oct 2025?",
       "category": "crypto",
       "bet_amount_yes": 7.007213776,
-      "bet_amount_no": 60.218799999999995,
-      "total_bet": 67.226013776
+      "bet_amount_no": 80.1588,
+      "total_bet": 87.166013776
     },
     {
       "market_id": "0x2a120c507fe6ada7787ba49ca4e658c7bf4e64243e9c70c48f8743ea6783002c",
       "question": "Bitcoin >$130,000 by 17 October?",
       "category": "crypto",
       "bet_amount_yes": 6.396621408,
-      "bet_amount_no": 43.1524531,
-      "total_bet": 49.549074508
+      "bet_amount_no": 63.39155310000001,
+      "total_bet": 69.78817450800001
     },
     {
       "market_id": "0x4bce5e5581cbd9c8749ec7e15b9226f43d1706e91b1fd126fdb0f0d208a9cfb2",
       "question": "Trump–Xi meeting happens in 2025?",
       "category": "politics",
       "bet_amount_yes": 24.0277,
-      "bet_amount_no": 5.982,
-      "total_bet": 30.009700000000002
+      "bet_amount_no": 19.94,
+      "total_bet": 43.9677
+    },
+    {
+      "market_id": "0x641f655cf8f749a7895c95199036efbf4c8945b1f444f2fb5f289246369d80ab",
+      "question": "100% tariff on China in effect by 1 Nov 2025?",
+      "category": "economics",
+      "bet_amount_yes": 3.9827159,
+      "bet_amount_no": 24.4977855,
+      "total_bet": 28.480501399999998
     },
     {
       "market_id": "0x368deaf5b225cb32ba65b8b811d688d638e313f5cc3b44957ec834ceb909c640",
@@ -61,14 +61,6 @@
       "total_bet": 20.255171802
     },
     {
-      "market_id": "0x641f655cf8f749a7895c95199036efbf4c8945b1f444f2fb5f289246369d80ab",
-      "question": "100% tariff on China in effect by 1 Nov 2025?",
-      "category": "economics",
-      "bet_amount_yes": 0.997,
-      "bet_amount_no": 19.0427,
-      "total_bet": 20.0397
-    },
-    {
       "market_id": "0x3e8650d708ccb1911caf59e75314e335a747a8096262d1e496a7c848093e887d",
       "question": "Metaplanet >40K BTC in October 2025?",
       "category": "crypto",
@@ -81,32 +73,40 @@
       "question": "SEC approves a Solana ETF in October 2025?",
       "category": "crypto",
       "bet_amount_yes": 0,
-      "bet_amount_no": 12.362800000000002,
-      "total_bet": 12.362800000000002
-    },
-    {
-      "market_id": "0x65707bade9e2e8ac9797c566605e5375bd6e3ace7e82f579ae44c11f7bcb1720",
-      "question": "Fed cuts rates 50bps in October 2025?",
-      "category": "economics",
-      "bet_amount_yes": 6.7796,
-      "bet_amount_no": 3.381725712000001,
-      "total_bet": 10.161325712000002
+      "bet_amount_no": 13.359800000000002,
+      "total_bet": 13.359800000000002
     },
     {
       "market_id": "0xb7290a7f54ef7e35c0abd7a24348e1c724c86f235089c03561eaadf6635ac272",
       "question": "$AMZN Q3 FY25 revenue > $177.46B?",
       "category": "technology",
-      "bet_amount_yes": 6.979,
-      "bet_amount_no": 1.2961,
-      "total_bet": 8.2751
+      "bet_amount_yes": 7.976,
+      "bet_amount_no": 4.287100000000001,
+      "total_bet": 12.2631
+    },
+    {
+      "market_id": "0x65707bade9e2e8ac9797c566605e5375bd6e3ace7e82f579ae44c11f7bcb1720",
+      "question": "Fed cuts rates 50bps in October 2025?",
+      "category": "economics",
+      "bet_amount_yes": 7.8763000000000005,
+      "bet_amount_no": 3.381725712000001,
+      "total_bet": 11.258025712000002
     },
     {
       "market_id": "0xfcf7c5f0245c16f45fa19f3dc7b003c1b8b22509bbe355e1a8ac66a618cd1084",
       "question": "SEC releases new crypto framework in October 2025?",
       "category": "crypto",
       "bet_amount_yes": 0,
-      "bet_amount_no": 7.4775,
-      "total_bet": 7.4775
+      "bet_amount_no": 8.4745,
+      "total_bet": 8.4745
+    },
+    {
+      "market_id": "0xc79557b2d3789a07fd005a3cd5ecaf36236cc9303dbbf83e3c4356b88c9673c7",
+      "question": "Solana >$300 by 22 Nov?",
+      "category": "crypto",
+      "bet_amount_yes": 0,
+      "bet_amount_no": 7.976000000000001,
+      "total_bet": 7.976000000000001
     },
     {
       "market_id": "0x7802527e47a9f21cd6ea1cec02777dfa30315d449a9dc848ba33cda66e901136",
@@ -157,6 +157,14 @@
       "total_bet": 4.6859
     },
     {
+      "market_id": "0x5771b02bfe48cc7c7868b0ae437cf6da26b323734dc41c1603f355034681d64b",
+      "question": "SUI >$3.5 by 20 Nov?",
+      "category": "crypto",
+      "bet_amount_yes": 2.991,
+      "bet_amount_no": 0,
+      "total_bet": 2.991
+    },
+    {
       "market_id": "0xfebcaded55ae6aa7a872147d279581293b3f5cc739e579d8b7b124e9fe7214e9",
       "question": "US debt > $39T in 2025?",
       "category": "economics",
@@ -165,19 +173,11 @@
       "total_bet": 1.3958
     },
     {
-      "market_id": "0xc79557b2d3789a07fd005a3cd5ecaf36236cc9303dbbf83e3c4356b88c9673c7",
-      "question": "Solana >$300 by 22 Nov?",
-      "category": "crypto",
+      "market_id": "0xfee537f3da692e03c1dc6eb067150847587ce28d62a118ea6c89e74c9b902a4c",
+      "question": "$TSLA beats quarterly revenue?",
+      "category": "technology",
       "bet_amount_yes": 0,
       "bet_amount_no": 0.997,
-      "total_bet": 0.997
-    },
-    {
-      "market_id": "0x5771b02bfe48cc7c7868b0ae437cf6da26b323734dc41c1603f355034681d64b",
-      "question": "SUI >$3.5 by 20 Nov?",
-      "category": "crypto",
-      "bet_amount_yes": 0.997,
-      "bet_amount_no": 0,
       "total_bet": 0.997
     },
     {
@@ -187,6 +187,94 @@
       "bet_amount_yes": 0.1994,
       "bet_amount_no": 0.44865,
       "total_bet": 0.64805
+    },
+    {
+      "market_id": "0x68ade1ac9d432630cd944214b9fa197f91b0ddd094c5f8d9d2d25699808935d9",
+      "question": "$TSLA beats quarterly EPS?",
+      "category": "crypto",
+      "bet_amount_yes": 0,
+      "bet_amount_no": 0,
+      "total_bet": 0
+    },
+    {
+      "market_id": "0xc3d97e4b5307d90e2e3cd15229df2f69ce1e1a37446103961936412f7fb08730",
+      "question": "$GOOG beats quarterly EPS?",
+      "category": "technology",
+      "bet_amount_yes": 0,
+      "bet_amount_no": 0,
+      "total_bet": 0
+    },
+    {
+      "market_id": "0xf7fe785b8f440a35c777dfe1e1ae8525fb51a4e739fbbf4eddcb5b4722aa55f5",
+      "question": "$GOOG beats quarterly revenue?",
+      "category": "technology",
+      "bet_amount_yes": 0,
+      "bet_amount_no": 0,
+      "total_bet": 0
+    },
+    {
+      "market_id": "0x56d44359c76c0495a6becf52a08544d0526d0cf354dbb18a196a858730d5bacd",
+      "question": "$META beats quarterly EPS?",
+      "category": "technology",
+      "bet_amount_yes": 0,
+      "bet_amount_no": 0,
+      "total_bet": 0
+    },
+    {
+      "market_id": "0xed2758d2f2d3a06b28c9b123129b9d282341c8b7a67f46fb720462b2e0975cc2",
+      "question": "$META beats quarterly revenue?",
+      "category": "technology",
+      "bet_amount_yes": 0,
+      "bet_amount_no": 0,
+      "total_bet": 0
+    },
+    {
+      "market_id": "0x1d6c1c71af2b636f2077456944bbcb0d9be01ba8a1a2ec1789b750d031d4b6b7",
+      "question": "$MSFT beats quarterly EPS?",
+      "category": "technology",
+      "bet_amount_yes": 0,
+      "bet_amount_no": 0,
+      "total_bet": 0
+    },
+    {
+      "market_id": "0x7da4605eb8d7971bf6339c01565a1c9df583c54cdb10e2158a02d670a25acbda",
+      "question": "$MSFT beats quarterly revenue?",
+      "category": "technology",
+      "bet_amount_yes": 0,
+      "bet_amount_no": 0,
+      "total_bet": 0
+    },
+    {
+      "market_id": "0xc95f1cef05ca02fa326bccc5abd1de40762a67edd9e9cbe3158022d051dbd7e2",
+      "question": "$AAPL beats quarterly EPS?",
+      "category": "technology",
+      "bet_amount_yes": 0,
+      "bet_amount_no": 0,
+      "total_bet": 0
+    },
+    {
+      "market_id": "0x6672e2b16cec2da0be10fd611908512eca1faac72f1b82bd8e06cebcc0457e98",
+      "question": "$AAPL beats quarterly revenue?",
+      "category": "technology",
+      "bet_amount_yes": 0,
+      "bet_amount_no": 0,
+      "total_bet": 0
+    },
+    {
+      "market_id": "0xd2810b675fe96e067f8d3551d1ad4e2af7fa6d9be6d3ff07cb6287b0942a40b0",
+      "question": "$NVDA beats quarterly EPS?",
+      "category": "other",
+      "bet_amount_yes": 0,
+      "bet_amount_no": 0,
+      "total_bet": 0
+    },
+    {
+      "market_id": "0xe9490e4ea3e29d8a169dd835e2f2d0c2f124181f315abc96472dad10ae3aa5f4",
+      "question": "$NVDA beats quarterly revenue?",
+      "category": "technology",
+      "bet_amount_yes": 0,
+      "bet_amount_no": 0,
+      "total_bet": 0
     }
   ]
 }
