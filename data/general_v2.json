@@ -5,8 +5,8 @@
   "predictions_made": 1873,
   "volume_24h": 0,
   "volume_weekly": 0,
-  "volume_monthly": 1613608544192,
-  "total_winning_badges": 152,
+  "volume_monthly": 1606479994192,
+  "total_winning_badges": 160,
   "proposals_created": 8,
   "proposals_currently_active": 0,
   "proposals_approved": 8,
@@ -14,5 +14,5 @@
   "oracle_requests_resolved": 38,
   "oracle_rewards_total": 50011877829,
   "active_oracles": 5,
-  "timestamp": 1760586644260
+  "timestamp": 1760628869235
 }

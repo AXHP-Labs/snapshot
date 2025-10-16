@@ -1,6 +1,102 @@
 {
   "data": [
     {
+      "badgeId": "0x4c77f27794975e29338c2e3a555a2692a07c383e39ea76848ec6a1bf9d3ba7e0",
+      "marketId": "0x9203ea99e860feb58b26264aea4ef93c18b5a202f59dad9d53f3e141d871985f",
+      "winner": "0xbc9af842a51a91edc56fa494877eeeb9d067622441d97b09a851bd0eeda95d3d",
+      "winningAmount": 6006411643,
+      "timestamp": 1760563350560,
+      "rarity": "common",
+      "username": "0xhantos",
+      "display_name": "0xhantos",
+      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Max",
+      "profile_exists": true
+    },
+    {
+      "badgeId": "0xafa3f69b1c39e91f164a871016c049221d84d3aad2008cf449bf3b9eecdc8dfe",
+      "marketId": "0xea3e07a663a45afcf0deb8b1d2a2dc5d14217890104e09126cddb41a79f1eb45",
+      "winner": "0xbc9af842a51a91edc56fa494877eeeb9d067622441d97b09a851bd0eeda95d3d",
+      "winningAmount": 435626552,
+      "timestamp": 1760563350560,
+      "rarity": "common",
+      "username": "0xhantos",
+      "display_name": "0xhantos",
+      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Max",
+      "profile_exists": true
+    },
+    {
+      "badgeId": "0x62378caab90535ec42f86f6616f1612b0e609a8b8d88a679fafb70ee7626a1a2",
+      "marketId": "0x930bf43601b1c4f23fdfcfad88a14139b1194e9b3451b67efaaa0e46d36d2da6",
+      "winner": "0xbc9af842a51a91edc56fa494877eeeb9d067622441d97b09a851bd0eeda95d3d",
+      "winningAmount": 219680944,
+      "timestamp": 1760563350560,
+      "rarity": "common",
+      "username": "0xhantos",
+      "display_name": "0xhantos",
+      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Max",
+      "profile_exists": true
+    },
+    {
+      "badgeId": "0xcc6dd1e71c09ac43189a8c948132c3415f14b75e0f076af83611af0892acc607",
+      "marketId": "0xd5df433df7aaaa6f63fdd0e0d3952497b2c4eeb842c505e63e3c87694d4f88c6",
+      "winner": "0xbc9af842a51a91edc56fa494877eeeb9d067622441d97b09a851bd0eeda95d3d",
+      "winningAmount": 584481414,
+      "timestamp": 1760563350560,
+      "rarity": "common",
+      "username": "0xhantos",
+      "display_name": "0xhantos",
+      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Max",
+      "profile_exists": true
+    },
+    {
+      "badgeId": "0x9f61e167268ba52606a698f5c86d74a5ff515baca3dc934c9431a7ea1f27d4fc",
+      "marketId": "0x6b07dc1d28a81f9737b0bd678f9fa66e194abf5abb6becf5c572da28bff24896",
+      "winner": "0xbc9af842a51a91edc56fa494877eeeb9d067622441d97b09a851bd0eeda95d3d",
+      "winningAmount": 337265850,
+      "timestamp": 1760563350560,
+      "rarity": "common",
+      "username": "0xhantos",
+      "display_name": "0xhantos",
+      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Max",
+      "profile_exists": true
+    },
+    {
+      "badgeId": "0xeddf5d969464a8dd6178001ae069937e725519becc79dcf928fab9c9d9b3dbe0",
+      "marketId": "0xd3ea7c2c31916fa52f4d7cec0e8a4e5e730c3bea317c4b6fa4da0a07a4bd47e8",
+      "winner": "0xbc9af842a51a91edc56fa494877eeeb9d067622441d97b09a851bd0eeda95d3d",
+      "winningAmount": 137976466,
+      "timestamp": 1760563350560,
+      "rarity": "common",
+      "username": "0xhantos",
+      "display_name": "0xhantos",
+      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Max",
+      "profile_exists": true
+    },
+    {
+      "badgeId": "0x684bfdb602d10cc9355edd5e04ba3f58dcb46356dc2ac2a6402c9e532ef5d4bf",
+      "marketId": "0xb2446175d3b27f685ecfa71a431a8bf64f2aa070aa40bcc0e786b4d0151c3f2d",
+      "winner": "0xbc9af842a51a91edc56fa494877eeeb9d067622441d97b09a851bd0eeda95d3d",
+      "winningAmount": 609031034,
+      "timestamp": 1760563350560,
+      "rarity": "common",
+      "username": "0xhantos",
+      "display_name": "0xhantos",
+      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Max",
+      "profile_exists": true
+    },
+    {
+      "badgeId": "0xc3ef36413a0998a9cb75301b9ad97f30e68967779083c8ae957eb5b2bd87f299",
+      "marketId": "0x94da58b31f8c70b80adedcf397f2d6bc61ead3da4493df07f5c84c662218eba8",
+      "winner": "0xbc9af842a51a91edc56fa494877eeeb9d067622441d97b09a851bd0eeda95d3d",
+      "winningAmount": 9698750070,
+      "timestamp": 1760563350560,
+      "rarity": "common",
+      "username": "0xhantos",
+      "display_name": "0xhantos",
+      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Max",
+      "profile_exists": true
+    },
+    {
       "badgeId": "0x4e398a6a6fc6770305000c874675fd52995953e307581107c5475aaaccb51442",
       "marketId": "0x5d39806d787f42fe908add850975587bc0c63897c75838fd9529d27c7a17e3ca",
       "winner": "0x17b91262eb977602d7f7959a645bf4e52827b94b40888ae326602804d8f03f5f",
@@ -1825,5 +1921,5 @@
       "profile_exists": true
     }
   ],
-  "timestamp": 1760586661375
+  "timestamp": 1760628885859
 }

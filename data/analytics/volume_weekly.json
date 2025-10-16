@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-10-16T03:51:24.605Z",
+    "generated_at": "2025-10-16T15:43:39.014Z",
     "date_range": {
       "from": "2025-08-20",
       "to": "2025-10-16"
@@ -263,24 +263,28 @@
     {
       "week_start": "2025-10-13",
       "week_end": "2025-10-19",
-      "total_volume_sui": 720.7505421000004,
-      "total_trades": 94,
-      "unique_traders": 18,
+      "total_volume_sui": 763.4520521000004,
+      "total_trades": 138,
+      "unique_traders": 22,
       "categories": {
         "crypto": {
-          "volume_sui": 642.4200407000001,
-          "trades": 63
+          "volume_sui": 657.9832107000001,
+          "trades": 75
         },
         "politics": {
-          "volume_sui": 51.2458,
-          "trades": 13
+          "volume_sui": 51.3455,
+          "trades": 14
         },
         "economics": {
-          "volume_sui": 22.0997014,
-          "trades": 15
+          "volume_sui": 22.1994014,
+          "trades": 16
         },
         "technology": {
-          "volume_sui": 4.985,
+          "volume_sui": 27.925969999999992,
+          "trades": 30
+        },
+        "other": {
+          "volume_sui": 3.9979699999999996,
           "trades": 3
         }
       }

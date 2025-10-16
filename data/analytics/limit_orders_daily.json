@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-10-16T03:51:24.590Z",
+    "generated_at": "2025-10-16T15:43:38.992Z",
     "date_range": {
       "from": "2025-08-20",
       "to": "2025-10-16"
@@ -506,7 +506,7 @@
       "open_interest_sui": 2.5,
       "pending_buy_orders": 3,
       "pending_sell_orders": 2,
-      "avg_execution_time_hours": 57.42153263888889
+      "avg_execution_time_hours": 57.42153347222222
     },
     {
       "date": "2025-10-11",
@@ -556,17 +556,17 @@
       "open_interest_sui": 2,
       "pending_buy_orders": 3,
       "pending_sell_orders": 1,
-      "avg_execution_time_hours": 140.66083083333334
+      "avg_execution_time_hours": 140.6608325
     },
     {
       "date": "2025-10-16",
-      "orders_placed": 0,
-      "orders_executed": 1,
+      "orders_placed": 1,
+      "orders_executed": 2,
       "orders_cancelled": 0,
       "open_interest_sui": 2,
       "pending_buy_orders": 3,
       "pending_sell_orders": 0,
-      "avg_execution_time_hours": 164.72100305555554
+      "avg_execution_time_hours": 87.80608166666666
     }
   ]
 }

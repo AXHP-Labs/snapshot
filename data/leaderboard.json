@@ -40,8 +40,8 @@
       "display_name": "0xhantos",
       "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Max",
       "total_volume": 280655500000,
-      "total_winnings": 133912573445,
-      "total_score": 414568073445,
+      "total_winnings": 151941797418,
+      "total_score": 432597297418,
       "profile_exists": true
     },
     {
@@ -672,5 +672,5 @@
       "profile_exists": false
     }
   ],
-  "timestamp": 1760586661371
+  "timestamp": 1760628885854
 }
