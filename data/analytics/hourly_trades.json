@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-10-16T15:43:39.043Z",
+    "generated_at": "2025-10-16T17:36:12.205Z",
     "description": "Trading activity aggregated by hour of day (UTC)"
   },
   "data": [
@@ -111,24 +111,24 @@
     },
     {
       "hour": 15,
-      "trades": 238,
-      "volume_sui": 286.35136099999977,
+      "trades": 243,
+      "volume_sui": 287.7471609999997,
       "whale_trades": 4,
-      "retail_trades": 234
+      "retail_trades": 239
     },
     {
       "hour": 16,
-      "trades": 125,
-      "volume_sui": 202.39100000000062,
-      "whale_trades": 6,
-      "retail_trades": 119
+      "trades": 134,
+      "volume_sui": 289.2297000000007,
+      "whale_trades": 7,
+      "retail_trades": 127
     },
     {
       "hour": 17,
-      "trades": 95,
-      "volume_sui": 108.42375,
-      "whale_trades": 2,
-      "retail_trades": 93
+      "trades": 147,
+      "volume_sui": 232.45055000000002,
+      "whale_trades": 3,
+      "retail_trades": 144
     },
     {
       "hour": 18,

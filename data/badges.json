@@ -1,6 +1,114 @@
 {
   "data": [
     {
+      "badgeId": "0x93abfd7639f91e77927b1cc90ba5f167cf0af5feb36d3a57cd6ca75be6a5a880",
+      "marketId": "0xea3e07a663a45afcf0deb8b1d2a2dc5d14217890104e09126cddb41a79f1eb45",
+      "winner": "0x2b97d4ebfdaf33665f8f5f6edab1df759f198ee1093e33f144e11fbac8c7ccfa",
+      "winningAmount": 7428059838,
+      "timestamp": 1760563350560,
+      "rarity": "common",
+      "username": "myria",
+      "display_name": "myria",
+      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Garfield",
+      "profile_exists": true
+    },
+    {
+      "badgeId": "0x7a60076090e883079bebaf7f3b1d1a3805430de4afc59da7defdba58de30198f",
+      "marketId": "0x9203ea99e860feb58b26264aea4ef93c18b5a202f59dad9d53f3e141d871985f",
+      "winner": "0x2b97d4ebfdaf33665f8f5f6edab1df759f198ee1093e33f144e11fbac8c7ccfa",
+      "winningAmount": 2921372019,
+      "timestamp": 1760563350560,
+      "rarity": "common",
+      "username": "myria",
+      "display_name": "myria",
+      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Garfield",
+      "profile_exists": true
+    },
+    {
+      "badgeId": "0x789987a494dcb9a469d4f4e73e0fd1592be9070937250e6eb08966d8d5ad3027",
+      "marketId": "0x62cdb2b2d4ebb7027c01365303e8f5fc25d969ffb43e1f477891a592820b47c7",
+      "winner": "0x2b97d4ebfdaf33665f8f5f6edab1df759f198ee1093e33f144e11fbac8c7ccfa",
+      "winningAmount": 574418317,
+      "timestamp": 1760563350560,
+      "rarity": "common",
+      "username": "myria",
+      "display_name": "myria",
+      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Garfield",
+      "profile_exists": true
+    },
+    {
+      "badgeId": "0x281882cea31beebaba347e95438d029399a595e14a1f2446a91ed8ec336fc778",
+      "marketId": "0x930bf43601b1c4f23fdfcfad88a14139b1194e9b3451b67efaaa0e46d36d2da6",
+      "winner": "0x2b97d4ebfdaf33665f8f5f6edab1df759f198ee1093e33f144e11fbac8c7ccfa",
+      "winningAmount": 273919196,
+      "timestamp": 1760563350560,
+      "rarity": "common",
+      "username": "myria",
+      "display_name": "myria",
+      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Garfield",
+      "profile_exists": true
+    },
+    {
+      "badgeId": "0xa7ec14e679b1e360a3698b1f7f75ddaab8cf5b91eeab3e5a4079eb8f37bbb85b",
+      "marketId": "0xd5df433df7aaaa6f63fdd0e0d3952497b2c4eeb842c505e63e3c87694d4f88c6",
+      "winner": "0x2b97d4ebfdaf33665f8f5f6edab1df759f198ee1093e33f144e11fbac8c7ccfa",
+      "winningAmount": 531822724,
+      "timestamp": 1760563350560,
+      "rarity": "common",
+      "username": "myria",
+      "display_name": "myria",
+      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Garfield",
+      "profile_exists": true
+    },
+    {
+      "badgeId": "0xbf2d6d6c16cc27f86e9f69bf41d1746abee6c52d6d20555427cb5d5c8dcde8a6",
+      "marketId": "0x6b07dc1d28a81f9737b0bd678f9fa66e194abf5abb6becf5c572da28bff24896",
+      "winner": "0x2b97d4ebfdaf33665f8f5f6edab1df759f198ee1093e33f144e11fbac8c7ccfa",
+      "winningAmount": 119496017,
+      "timestamp": 1760563350560,
+      "rarity": "common",
+      "username": "myria",
+      "display_name": "myria",
+      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Garfield",
+      "profile_exists": true
+    },
+    {
+      "badgeId": "0x22504897dc7fcf7a0c5f4e37f1a8c0a72a674c5a1f1a2b99989eba10aa419a15",
+      "marketId": "0xd3ea7c2c31916fa52f4d7cec0e8a4e5e730c3bea317c4b6fa4da0a07a4bd47e8",
+      "winner": "0x2b97d4ebfdaf33665f8f5f6edab1df759f198ee1093e33f144e11fbac8c7ccfa",
+      "winningAmount": 135759656,
+      "timestamp": 1760563350560,
+      "rarity": "common",
+      "username": "myria",
+      "display_name": "myria",
+      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Garfield",
+      "profile_exists": true
+    },
+    {
+      "badgeId": "0x60207a9d84ac9672f643df5ff69a9dab5d7570de2d3128b4687b61898eb2e9b7",
+      "marketId": "0x94da58b31f8c70b80adedcf397f2d6bc61ead3da4493df07f5c84c662218eba8",
+      "winner": "0x2b97d4ebfdaf33665f8f5f6edab1df759f198ee1093e33f144e11fbac8c7ccfa",
+      "winningAmount": 13198096714,
+      "timestamp": 1760563350560,
+      "rarity": "rare",
+      "username": "myria",
+      "display_name": "myria",
+      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Garfield",
+      "profile_exists": true
+    },
+    {
+      "badgeId": "0x10ff3be851ba8252f74be06515ced7a624508ec6c9826eedfc06abf486c22f63",
+      "marketId": "0xb2446175d3b27f685ecfa71a431a8bf64f2aa070aa40bcc0e786b4d0151c3f2d",
+      "winner": "0x2b97d4ebfdaf33665f8f5f6edab1df759f198ee1093e33f144e11fbac8c7ccfa",
+      "winningAmount": 263048903,
+      "timestamp": 1760563350560,
+      "rarity": "common",
+      "username": "myria",
+      "display_name": "myria",
+      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Garfield",
+      "profile_exists": true
+    },
+    {
       "badgeId": "0x4c77f27794975e29338c2e3a555a2692a07c383e39ea76848ec6a1bf9d3ba7e0",
       "marketId": "0x9203ea99e860feb58b26264aea4ef93c18b5a202f59dad9d53f3e141d871985f",
       "winner": "0xbc9af842a51a91edc56fa494877eeeb9d067622441d97b09a851bd0eeda95d3d",
@@ -1921,5 +2029,5 @@
       "profile_exists": true
     }
   ],
-  "timestamp": 1760628885859
+  "timestamp": 1760636149354
 }

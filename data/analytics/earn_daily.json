@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-10-16T15:43:38.992Z",
+    "generated_at": "2025-10-16T17:36:12.173Z",
     "date_range": {
       "from": "2025-08-20",
       "to": "2025-10-16"
@@ -395,8 +395,8 @@
     },
     {
       "date": "2025-10-16",
-      "platform_fees_sui": 0.3321551,
-      "lp_fees_sui": 0.11589311999999999,
+      "platform_fees_sui": 0.842466779999998,
+      "lp_fees_sui": 0.24457673999999946,
       "oracle_rewards_sui": 0.07111068,
       "dao_rewards_sui": 0
     }
