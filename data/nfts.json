@@ -460,15 +460,6 @@
       "owner": "0x5edff09fc4b9b021f24524ab570912422474678128ffb07c5b172b2e782ec42f"
     },
     {
-      "id": "0xf676024ea164ee4f0395fb0d2e94abddde6b116cab33bf6b4e4bcd8f9dbce6c9",
-      "name": "The NoaSight v2",
-      "description": "Early adopter of NoaSight platform",
-      "image_url": "https://ftk7g5fhnlzlccnxqznqza6excyowgrfwnvdkse6vcgjjai6qeqa.arweave.net/LNXzdKdq8rEJt4ZbDIPEuLDrGiWzajVInqiMlIEegSA",
-      "category": 2,
-      "metadata": "Sighter: v2 Tester & Contributor",
-      "owner": "0x15643bfc460bcb9862d55001f005b59d3b71f63da1cc07dc197cc015dcad1aa4"
-    },
-    {
       "id": "0x43e76a78dd015bf42468d0cc8b9ae5f43a37168a8dbec35b714cf28d44c2e818",
       "name": "The NoaSight v2",
       "description": "Early adopter of NoaSight platform",
@@ -703,5 +694,5 @@
       "owner": "0xbc9af842a51a91edc56fa494877eeeb9d067622441d97b09a851bd0eeda95d3d"
     }
   ],
-  "timestamp": 1760678445780
+  "timestamp": 1760706342978
 }

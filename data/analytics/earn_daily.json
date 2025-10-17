@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2025-10-17T05:21:36.394Z",
+    "generated_at": "2025-10-17T13:10:29.470Z",
     "date_range": {
       "from": "2025-08-20",
-      "to": "2025-10-16"
+      "to": "2025-10-17"
     },
-    "total_days": 56
+    "total_days": 57
   },
   "data": [
     {
@@ -398,6 +398,13 @@
       "platform_fees_sui": 0.8855371799999979,
       "lp_fees_sui": 0.25534433999999945,
       "oracle_rewards_sui": 0.07111068,
+      "dao_rewards_sui": 0
+    },
+    {
+      "date": "2025-10-17",
+      "platform_fees_sui": 0.2620355280000003,
+      "lp_fees_sui": 0.06550888200000007,
+      "oracle_rewards_sui": 0,
       "dao_rewards_sui": 0
     }
   ]
