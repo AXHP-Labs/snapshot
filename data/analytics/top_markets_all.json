@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2025-10-18T00:53:49.021Z",
-    "total_markets": 75
+    "generated_at": "2025-10-18T11:56:17.168Z",
+    "total_markets": 77
   },
   "data": [
     {
@@ -65,7 +65,7 @@
       "bet_amount_yes": 7.007213776,
       "bet_amount_no": 211.364,
       "total_bet": 218.37121377599996,
-      "is_resolved": false
+      "is_resolved": true
     },
     {
       "market_id": "0xdb5c072e6fc5c8a1e701be8f1700987a95983c19eb8d3fd3f3b871257f104efc",

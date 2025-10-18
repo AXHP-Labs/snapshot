@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-10-18T00:53:48.993Z",
+    "generated_at": "2025-10-18T11:56:17.137Z",
     "date_range": {
       "from": "2025-08-20",
       "to": "2025-10-17"
@@ -282,6 +282,18 @@
         "rare": 4,
         "epic": 0,
         "legendary": 2
+      }
+    },
+    {
+      "date": "2025-10-18",
+      "total_winners": 5,
+      "total_winnings_sui": 160.06856516,
+      "badges_created": 5,
+      "rarity_distribution": {
+        "common": 2,
+        "rare": 2,
+        "epic": 0,
+        "legendary": 1
       }
     }
   ]

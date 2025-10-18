@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2025-10-18T00:53:49.022Z",
-    "total_unresolved_markets": 35
+    "generated_at": "2025-10-18T11:56:17.170Z",
+    "total_unresolved_markets": 36
   },
   "data": [
     {
@@ -19,14 +19,6 @@
       "bet_amount_yes": 6.396621408,
       "bet_amount_no": 345.9413531,
       "total_bet": 352.337974508
-    },
-    {
-      "market_id": "0x416080563efea5a02ba2595de19ab5add7ecbc6d4fdb8e71493b3ee24596b39c",
-      "question": "U.S. shutdown ends by 16 Oct 2025?",
-      "category": "crypto",
-      "bet_amount_yes": 7.007213776,
-      "bet_amount_no": 211.364,
-      "total_bet": 218.37121377599996
     },
     {
       "market_id": "0x65707bade9e2e8ac9797c566605e5375bd6e3ace7e82f579ae44c11f7bcb1720",
@@ -189,14 +181,6 @@
       "total_bet": 4.79557
     },
     {
-      "market_id": "0x5771b02bfe48cc7c7868b0ae437cf6da26b323734dc41c1603f355034681d64b",
-      "question": "SUI >$3.5 by 20 Nov?",
-      "category": "crypto",
-      "bet_amount_yes": 3.1904,
-      "bet_amount_no": 1.5952,
-      "total_bet": 4.785600000000001
-    },
-    {
       "market_id": "0x68ade1ac9d432630cd944214b9fa197f91b0ddd094c5f8d9d2d25699808935d9",
       "question": "$TSLA beats quarterly EPS?",
       "category": "crypto",
@@ -211,6 +195,14 @@
       "bet_amount_yes": 1.994,
       "bet_amount_no": 2.2033699999999996,
       "total_bet": 4.19737
+    },
+    {
+      "market_id": "0x5771b02bfe48cc7c7868b0ae437cf6da26b323734dc41c1603f355034681d64b",
+      "question": "SUI >$3.5 by 20 Nov?",
+      "category": "crypto",
+      "bet_amount_yes": 3.1904,
+      "bet_amount_no": -0.17165639500000007,
+      "total_bet": 3.0187436050000014
     },
     {
       "market_id": "0xc3d97e4b5307d90e2e3cd15229df2f69ce1e1a37446103961936412f7fb08730",
@@ -283,6 +275,22 @@
       "bet_amount_yes": 0.1994,
       "bet_amount_no": 0.44865,
       "total_bet": 0.64805
+    },
+    {
+      "market_id": "0x9b28861a20256005707e3543d05e46cdc37aed04a670b8e3e9be48431f9b1344",
+      "question": "Bitcoin reach >$133K in 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 0,
+      "bet_amount_no": 0,
+      "total_bet": 0
+    },
+    {
+      "market_id": "0x32b40e39bc982ebb3ba53541cf7bb0d37208edc5545d74d32e1d38d6fe317ed3",
+      "question": "Bitcoin breakdown <$100K this month?",
+      "category": "crypto",
+      "bet_amount_yes": 0,
+      "bet_amount_no": 0,
+      "total_bet": 0
     }
   ]
 }
