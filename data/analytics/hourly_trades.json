@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-10-17T13:10:29.498Z",
+    "generated_at": "2025-10-18T00:53:49.024Z",
     "description": "Trading activity aggregated by hour of day (UTC)"
   },
   "data": [
@@ -104,10 +104,10 @@
     },
     {
       "hour": 14,
-      "trades": 93,
-      "volume_sui": 160.76625,
-      "whale_trades": 2,
-      "retail_trades": 91
+      "trades": 96,
+      "volume_sui": 191.67325000000002,
+      "whale_trades": 3,
+      "retail_trades": 93
     },
     {
       "hour": 15,
@@ -118,10 +118,10 @@
     },
     {
       "hour": 16,
-      "trades": 134,
-      "volume_sui": 289.2297000000007,
-      "whale_trades": 7,
-      "retail_trades": 127
+      "trades": 139,
+      "volume_sui": 389.9267000000008,
+      "whale_trades": 8,
+      "retail_trades": 131
     },
     {
       "hour": 17,
@@ -139,37 +139,37 @@
     },
     {
       "hour": 19,
-      "trades": 109,
-      "volume_sui": 54.149672169999896,
+      "trades": 97,
+      "volume_sui": 48.26737216999998,
       "whale_trades": 0,
-      "retail_trades": 109
+      "retail_trades": 97
     },
     {
       "hour": 20,
-      "trades": 71,
-      "volume_sui": 168.39330000000012,
+      "trades": 69,
+      "volume_sui": 163.30860000000013,
       "whale_trades": 4,
-      "retail_trades": 67
+      "retail_trades": 65
     },
     {
       "hour": 21,
-      "trades": 216,
-      "volume_sui": 76.96839999999986,
+      "trades": 228,
+      "volume_sui": 82.85069999999983,
       "whale_trades": 1,
-      "retail_trades": 215
+      "retail_trades": 227
     },
     {
       "hour": 22,
-      "trades": 20,
-      "volume_sui": 130.9061,
-      "whale_trades": 2,
-      "retail_trades": 18
+      "trades": 27,
+      "volume_sui": 345.4605,
+      "whale_trades": 4,
+      "retail_trades": 23
     },
     {
       "hour": 23,
-      "trades": 26,
-      "volume_sui": 389.32849999999985,
-      "whale_trades": 4,
+      "trades": 27,
+      "volume_sui": 439.1784999999999,
+      "whale_trades": 5,
       "retail_trades": 22
     }
   ]

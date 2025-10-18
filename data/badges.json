@@ -1399,10 +1399,10 @@
       "winningAmount": 18059409722,
       "timestamp": 1757366526185,
       "rarity": "rare",
-      "username": null,
-      "display_name": null,
-      "avatar_url": null,
-      "profile_exists": false
+      "username": "luffy",
+      "display_name": "Monkey D. Luffy",
+      "avatar_url": "https://github.com/AXHP-Labs/suisight/blob/main/img/PP/Luffy.jpg?raw=true",
+      "profile_exists": true
     },
     {
       "badgeId": "0xb8880a3f0726ba13d6d1fb69879cd77d4488846525d41702de678cbfd2e8cbe4",
@@ -1411,10 +1411,10 @@
       "winningAmount": 3023982174,
       "timestamp": 1757366526185,
       "rarity": "common",
-      "username": null,
-      "display_name": null,
-      "avatar_url": null,
-      "profile_exists": false
+      "username": "cokro",
+      "display_name": "Cokro",
+      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Garfield",
+      "profile_exists": true
     },
     {
       "badgeId": "0x2d58adc43bb788b06d994770f016ba3afedcf082f4fc2d293d82c63704a7cd78",
@@ -1423,10 +1423,10 @@
       "winningAmount": 19090915093,
       "timestamp": 1757366526185,
       "rarity": "rare",
-      "username": null,
-      "display_name": null,
-      "avatar_url": null,
-      "profile_exists": false
+      "username": "nakamura",
+      "display_name": "ren",
+      "avatar_url": "https://github.com/AXHP-Labs/suisight/blob/main/img/PP/Nakamura.jpg?raw=true",
+      "profile_exists": true
     },
     {
       "badgeId": "0x377a83dd5b1ee2dc20c0d1ca484e69e72dfe15683f6df37b3dfcdcdec48b552a",
@@ -1435,10 +1435,10 @@
       "winningAmount": 1114342032,
       "timestamp": 1757366526185,
       "rarity": "common",
-      "username": null,
-      "display_name": null,
-      "avatar_url": null,
-      "profile_exists": false
+      "username": "cokro",
+      "display_name": "Cokro",
+      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Garfield",
+      "profile_exists": true
     },
     {
       "badgeId": "0xadf667c9b1b08486db5414dfa03be54f3e089ab81d1f502b897f64e2d232e9e9",
@@ -1447,10 +1447,10 @@
       "winningAmount": 3381404599,
       "timestamp": 1757366526185,
       "rarity": "common",
-      "username": null,
-      "display_name": null,
-      "avatar_url": null,
-      "profile_exists": false
+      "username": "cokro",
+      "display_name": "Cokro",
+      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Garfield",
+      "profile_exists": true
     },
     {
       "badgeId": "0xe3b7f81c429589d6d90a658ccc9c437119755b24cb1846c76b408ca4110f037a",
@@ -1459,10 +1459,10 @@
       "winningAmount": 1311988596,
       "timestamp": 1757366526185,
       "rarity": "common",
-      "username": null,
-      "display_name": null,
-      "avatar_url": null,
-      "profile_exists": false
+      "username": "ducky",
+      "display_name": ".sui",
+      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mittens",
+      "profile_exists": true
     },
     {
       "badgeId": "0x56a8cc6ebc507c97c19879aad7f7c953a6f46501e5a046107eb8eb525c01286e",
@@ -1471,10 +1471,10 @@
       "winningAmount": 228897690,
       "timestamp": 1757366526185,
       "rarity": "common",
-      "username": null,
-      "display_name": null,
-      "avatar_url": null,
-      "profile_exists": false
+      "username": "zuki",
+      "display_name": "Zukinex",
+      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Bella",
+      "profile_exists": true
     },
     {
       "badgeId": "0x798a7c6719ab2dbbed4291adecfa07312933a37a36b3e96e1f6d7150cad2aac3",
@@ -1483,10 +1483,10 @@
       "winningAmount": 192529883,
       "timestamp": 1757366526185,
       "rarity": "common",
-      "username": null,
-      "display_name": null,
-      "avatar_url": null,
-      "profile_exists": false
+      "username": "trunk",
+      "display_name": "Trunk",
+      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Daisy",
+      "profile_exists": true
     },
     {
       "badgeId": "0x34bea5cbe0ccd6601047a48520e72e7c567e983b9837e50b14eee1fd193d24e1",
@@ -1495,10 +1495,10 @@
       "winningAmount": 191630693,
       "timestamp": 1757366526185,
       "rarity": "common",
-      "username": null,
-      "display_name": null,
-      "avatar_url": null,
-      "profile_exists": false
+      "username": "trunk",
+      "display_name": "Trunk",
+      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Daisy",
+      "profile_exists": true
     },
     {
       "badgeId": "0xad12a1560bd528503d970baeb27b8383b6adc9c29a761b61a350317ee7994fa8",
@@ -1507,10 +1507,10 @@
       "winningAmount": 13304790203,
       "timestamp": 1757366526185,
       "rarity": "rare",
-      "username": null,
-      "display_name": null,
-      "avatar_url": null,
-      "profile_exists": false
+      "username": "jonas",
+      "display_name": "Jonas Klein",
+      "avatar_url": "https://raw.githubusercontent.com/AXHP-Labs/suisight/refs/heads/main/img/CloneX%20%2315565.png",
+      "profile_exists": true
     },
     {
       "badgeId": "0xf690ef52cd9c91e5099e7055908e2c2bce00db65667243fbf2f98b316802cd8d",
@@ -1519,10 +1519,10 @@
       "winningAmount": 13759481788,
       "timestamp": 1757366526185,
       "rarity": "rare",
-      "username": null,
-      "display_name": null,
-      "avatar_url": null,
-      "profile_exists": false
+      "username": "scott",
+      "display_name": "Brandon",
+      "avatar_url": "https://github.com/AXHP-Labs/suisight/blob/main/img/PP/Scott.jpeg?raw=true",
+      "profile_exists": true
     },
     {
       "badgeId": "0xead5b02276239a9b853f962acafdd095eeec220018fe879b3c610132186b5e3f",
@@ -1531,10 +1531,10 @@
       "winningAmount": 15551804582,
       "timestamp": 1757366526185,
       "rarity": "rare",
-      "username": null,
-      "display_name": null,
-      "avatar_url": null,
-      "profile_exists": false
+      "username": "nakamura",
+      "display_name": "ren",
+      "avatar_url": "https://github.com/AXHP-Labs/suisight/blob/main/img/PP/Nakamura.jpg?raw=true",
+      "profile_exists": true
     },
     {
       "badgeId": "0x497762da0c568d7bb2baf43aba6ecdb371565e7f4df21f6403e461a8470aaf5d",
@@ -2029,5 +2029,5 @@
       "profile_exists": true
     }
   ],
-  "timestamp": 1760706342976
+  "timestamp": 1760748728268
 }
