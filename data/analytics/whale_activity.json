@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-10-18T11:56:17.178Z",
+    "generated_at": "2025-10-18T16:14:46.767Z",
     "whale_threshold_sui": 10,
     "description": "Daily whale vs retail trading activity"
   },
@@ -460,6 +460,14 @@
       "retail_volume_sui": 76.38016999999998,
       "retail_trades": 60,
       "whale_percentage": 84.7271784852774
+    },
+    {
+      "date": "2025-10-18",
+      "whale_volume_sui": 124.625,
+      "whale_trades": 3,
+      "retail_volume_sui": 16.949000000000012,
+      "retail_trades": 44,
+      "whale_percentage": 88.0281690140845
     }
   ]
 }
