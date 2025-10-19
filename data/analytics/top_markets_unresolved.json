@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-10-19T10:55:47.712Z",
+    "generated_at": "2025-10-19T11:12:51.915Z",
     "total_unresolved_markets": 35
   },
   "data": [
@@ -33,8 +33,8 @@
       "question": "Trump–Xi meeting happens in 2025?",
       "category": "politics",
       "bet_amount_yes": 38.7833,
-      "bet_amount_no": -0.23815139000000263,
-      "total_bet": 38.54514860999999
+      "bet_amount_no": 0.7588486099999974,
+      "total_bet": 39.54214860999999
     },
     {
       "market_id": "0x641f655cf8f749a7895c95199036efbf4c8945b1f444f2fb5f289246369d80ab",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-10-19T10:55:47.685Z",
+    "generated_at": "2025-10-19T11:12:51.891Z",
     "date_range": {
       "from": "2025-08-20",
       "to": "2025-10-19"
@@ -417,8 +417,8 @@
     {
       "date": "2025-10-19",
       "new_users": 0,
-      "active_users": 3,
-      "returning_users": 3,
+      "active_users": 4,
+      "returning_users": 4,
       "total_cumulative_users": 76
     }
   ]
