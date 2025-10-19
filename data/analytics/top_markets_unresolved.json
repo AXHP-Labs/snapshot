@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-10-19T04:14:22.721Z",
+    "generated_at": "2025-10-19T10:55:47.712Z",
     "total_unresolved_markets": 35
   },
   "data": [
@@ -61,12 +61,28 @@
       "total_bet": 24.426499999999997
     },
     {
+      "market_id": "0xfcf7c5f0245c16f45fa19f3dc7b003c1b8b22509bbe355e1a8ac66a618cd1084",
+      "question": "SEC releases new crypto framework in October 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 0.0997,
+      "bet_amount_no": 23.928,
+      "total_bet": 24.027700000000003
+    },
+    {
       "market_id": "0x44051a50d7b2d36874391065da6eb05c8997f96aeb01c287cfb0387729cdf877",
       "question": "Palestine will become a state in 2025?",
       "category": "politics",
       "bet_amount_yes": -0.980928198,
       "bet_amount_no": 21.834299999999992,
       "total_bet": 20.85337180199999
+    },
+    {
+      "market_id": "0x7802527e47a9f21cd6ea1cec02777dfa30315d449a9dc848ba33cda66e901136",
+      "question": "USDT market cap > $200B by 31 Dec 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 1.6948999999999999,
+      "bet_amount_no": 16.355721574999997,
+      "total_bet": 18.050621574999987
     },
     {
       "market_id": "0xc79557b2d3789a07fd005a3cd5ecaf36236cc9303dbbf83e3c4356b88c9673c7",
@@ -93,28 +109,12 @@
       "total_bet": 13.658900000000001
     },
     {
-      "market_id": "0xfcf7c5f0245c16f45fa19f3dc7b003c1b8b22509bbe355e1a8ac66a618cd1084",
-      "question": "SEC releases new crypto framework in October 2025?",
-      "category": "crypto",
-      "bet_amount_yes": 0.0997,
-      "bet_amount_no": 8.973000000000003,
-      "total_bet": 9.072700000000003
-    },
-    {
       "market_id": "0x6672e2b16cec2da0be10fd611908512eca1faac72f1b82bd8e06cebcc0457e98",
       "question": "$AAPL beats quarterly revenue?",
       "category": "technology",
       "bet_amount_yes": 8.384770000000001,
       "bet_amount_no": 0,
       "total_bet": 8.384770000000001
-    },
-    {
-      "market_id": "0x7802527e47a9f21cd6ea1cec02777dfa30315d449a9dc848ba33cda66e901136",
-      "question": "USDT market cap > $200B by 31 Dec 2025?",
-      "category": "crypto",
-      "bet_amount_yes": 1.6948999999999999,
-      "bet_amount_no": 6.385721574999991,
-      "total_bet": 8.080621574999988
     },
     {
       "market_id": "0xd0258eeea8e21988beb2ccad32b2570fd9cd7db8ccd9d1597eec3ec8583c2614",
@@ -131,6 +131,14 @@
       "bet_amount_yes": 0.6979,
       "bet_amount_no": 6.181400000000001,
       "total_bet": 6.879300000000001
+    },
+    {
+      "market_id": "0x4ffcd28e44de596de6cf5f2cfa15502812cc9070cc8f0100a1e42022e2b5d891",
+      "question": "U.S. shutdown ends this month?",
+      "category": "politics",
+      "bet_amount_yes": 1.6051699999999995,
+      "bet_amount_no": 4.985,
+      "total_bet": 6.59017
     },
     {
       "market_id": "0x06c51935c247e6c5eaba3e051efac56abdf53695aec7e3becf8254b9d23bb518",
@@ -227,14 +235,6 @@
       "bet_amount_yes": 2.4027699999999994,
       "bet_amount_no": 0,
       "total_bet": 2.4027699999999994
-    },
-    {
-      "market_id": "0x4ffcd28e44de596de6cf5f2cfa15502812cc9070cc8f0100a1e42022e2b5d891",
-      "question": "U.S. shutdown ends this month?",
-      "category": "politics",
-      "bet_amount_yes": 1.6051699999999995,
-      "bet_amount_no": 0,
-      "total_bet": 1.6051699999999995
     },
     {
       "market_id": "0x56d44359c76c0495a6becf52a08544d0526d0cf354dbb18a196a858730d5bacd",

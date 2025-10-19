@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-10-19T04:14:22.719Z",
+    "generated_at": "2025-10-19T10:55:47.711Z",
     "total_markets": 77
   },
   "data": [
@@ -338,6 +338,15 @@
       "is_resolved": true
     },
     {
+      "market_id": "0xfcf7c5f0245c16f45fa19f3dc7b003c1b8b22509bbe355e1a8ac66a618cd1084",
+      "question": "SEC releases new crypto framework in October 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 0.0997,
+      "bet_amount_no": 23.928,
+      "total_bet": 24.027700000000003,
+      "is_resolved": false
+    },
+    {
       "market_id": "0xdf1a92de15c6bba926117f469c6188382576281a5586b0166533a756cffa6b24",
       "question": "USDT market cap >$200B by 31 Dec 2025?",
       "category": "crypto",
@@ -381,6 +390,15 @@
       "bet_amount_no": 0.8973,
       "total_bet": 18.2451,
       "is_resolved": true
+    },
+    {
+      "market_id": "0x7802527e47a9f21cd6ea1cec02777dfa30315d449a9dc848ba33cda66e901136",
+      "question": "USDT market cap > $200B by 31 Dec 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 1.6948999999999999,
+      "bet_amount_no": 16.355721574999997,
+      "total_bet": 18.050621574999987,
+      "is_resolved": false
     },
     {
       "market_id": "0xc79557b2d3789a07fd005a3cd5ecaf36236cc9303dbbf83e3c4356b88c9673c7",
@@ -428,30 +446,12 @@
       "is_resolved": true
     },
     {
-      "market_id": "0xfcf7c5f0245c16f45fa19f3dc7b003c1b8b22509bbe355e1a8ac66a618cd1084",
-      "question": "SEC releases new crypto framework in October 2025?",
-      "category": "crypto",
-      "bet_amount_yes": 0.0997,
-      "bet_amount_no": 8.973000000000003,
-      "total_bet": 9.072700000000003,
-      "is_resolved": false
-    },
-    {
       "market_id": "0x6672e2b16cec2da0be10fd611908512eca1faac72f1b82bd8e06cebcc0457e98",
       "question": "$AAPL beats quarterly revenue?",
       "category": "technology",
       "bet_amount_yes": 8.384770000000001,
       "bet_amount_no": 0,
       "total_bet": 8.384770000000001,
-      "is_resolved": false
-    },
-    {
-      "market_id": "0x7802527e47a9f21cd6ea1cec02777dfa30315d449a9dc848ba33cda66e901136",
-      "question": "USDT market cap > $200B by 31 Dec 2025?",
-      "category": "crypto",
-      "bet_amount_yes": 1.6948999999999999,
-      "bet_amount_no": 6.385721574999991,
-      "total_bet": 8.080621574999988,
       "is_resolved": false
     }
   ]
