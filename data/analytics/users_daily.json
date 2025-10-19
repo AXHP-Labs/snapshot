@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2025-10-18T16:14:46.736Z",
+    "generated_at": "2025-10-19T04:14:22.687Z",
     "date_range": {
       "from": "2025-08-20",
-      "to": "2025-10-18"
+      "to": "2025-10-19"
     },
-    "total_days": 58
+    "total_days": 59
   },
   "data": [
     {
@@ -409,10 +409,17 @@
     },
     {
       "date": "2025-10-18",
+      "new_users": 1,
+      "active_users": 7,
+      "returning_users": 6,
+      "total_cumulative_users": 76
+    },
+    {
+      "date": "2025-10-19",
       "new_users": 0,
-      "active_users": 3,
-      "returning_users": 3,
-      "total_cumulative_users": 75
+      "active_users": 2,
+      "returning_users": 2,
+      "total_cumulative_users": 76
     }
   ]
 }

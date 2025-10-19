@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2025-10-18T16:14:46.736Z",
+    "generated_at": "2025-10-19T04:14:22.687Z",
     "date_range": {
       "from": "2025-08-20",
-      "to": "2025-10-18"
+      "to": "2025-10-19"
     },
-    "total_days": 58
+    "total_days": 59
   },
   "data": [
     {
@@ -529,6 +529,15 @@
       "active_oracles": 1,
       "cumulative_oracles": 5,
       "avg_resolution_time_hours": 24.879886388888888
+    },
+    {
+      "date": "2025-10-19",
+      "requests_made": 0,
+      "requests_resolved": 1,
+      "total_rewards_sui": 0.387455127,
+      "active_oracles": 0,
+      "cumulative_oracles": 5,
+      "avg_resolution_time_hours": 27.451239722222223
     }
   ]
 }

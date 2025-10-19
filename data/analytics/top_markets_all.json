@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-10-18T16:14:46.762Z",
+    "generated_at": "2025-10-19T04:14:22.719Z",
     "total_markets": 77
   },
   "data": [
@@ -18,8 +18,8 @@
       "question": "Ethereum $5,200 between 7–19 Oct 2025?",
       "category": "crypto",
       "bet_amount_yes": 13.160400000000001,
-      "bet_amount_no": 557.5030221730002,
-      "total_bet": 570.6634221730003,
+      "bet_amount_no": 587.7330164580003,
+      "total_bet": 600.8934164580004,
       "is_resolved": false
     },
     {
@@ -38,7 +38,7 @@
       "bet_amount_yes": 6.396621408,
       "bet_amount_no": 345.9413531,
       "total_bet": 352.337974508,
-      "is_resolved": false
+      "is_resolved": true
     },
     {
       "market_id": "0xc720ab51d83bbcc56dd0e181b6ba4ef5c594da67e54d5278764168afaace2083",
@@ -153,8 +153,8 @@
       "question": "Fed cuts rates 50bps in October 2025?",
       "category": "economics",
       "bet_amount_yes": 8.973,
-      "bet_amount_no": 66.491825712,
-      "total_bet": 75.46482571199999,
+      "bet_amount_no": 67.090025712,
+      "total_bet": 76.063025712,
       "is_resolved": false
     },
     {
@@ -183,6 +183,15 @@
       "bet_amount_no": 29.012699999999995,
       "total_bet": 66.99839999999999,
       "is_resolved": true
+    },
+    {
+      "market_id": "0x022e414fe640ccf65e59279c453520c608e15b47245d886efed79186aca43114",
+      "question": "Gold >$4,500/oz this month?",
+      "category": "economics",
+      "bet_amount_yes": 12.5622,
+      "bet_amount_no": 51.82821135700001,
+      "total_bet": 64.39041135699999,
+      "is_resolved": false
     },
     {
       "market_id": "0xd5df433df7aaaa6f63fdd0e0d3952497b2c4eeb842c505e63e3c87694d4f88c6",
@@ -233,9 +242,9 @@
       "market_id": "0x4bce5e5581cbd9c8749ec7e15b9226f43d1706e91b1fd126fdb0f0d208a9cfb2",
       "question": "Trump–Xi meeting happens in 2025?",
       "category": "politics",
-      "bet_amount_yes": 38.484199999999994,
-      "bet_amount_no": -0.43755138999999976,
-      "total_bet": 38.04664860999999,
+      "bet_amount_yes": 38.7833,
+      "bet_amount_no": -0.23815139000000263,
+      "total_bet": 38.54514860999999,
       "is_resolved": false
     },
     {
@@ -252,8 +261,8 @@
       "question": "100% tariff on China in effect by 1 Nov 2025?",
       "category": "economics",
       "bet_amount_yes": 3.9827159,
-      "bet_amount_no": 32.87258549999999,
-      "total_bet": 36.855301399999995,
+      "bet_amount_no": 33.47078549999999,
+      "total_bet": 37.45350139999999,
       "is_resolved": false
     },
     {
@@ -311,6 +320,15 @@
       "is_resolved": true
     },
     {
+      "market_id": "0x40771473f2d49401421a49a0176d7c500a04ac1b943fd6c3a7475b70832daec3",
+      "question": "SEC approves a Solana ETF in October 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 0,
+      "bet_amount_no": 24.426499999999997,
+      "total_bet": 24.426499999999997,
+      "is_resolved": false
+    },
+    {
       "market_id": "0xd33ed9f396bfdd2c45cb39c277be0813c9ddaac76d9ee32cc988bd8b2f497748",
       "question": "SUI TVL flips $ARB TVL before October 2025?",
       "category": "crypto",
@@ -318,15 +336,6 @@
       "bet_amount_no": 3.2402499999999996,
       "total_bet": 24.376649999999984,
       "is_resolved": true
-    },
-    {
-      "market_id": "0x40771473f2d49401421a49a0176d7c500a04ac1b943fd6c3a7475b70832daec3",
-      "question": "SEC approves a Solana ETF in October 2025?",
-      "category": "crypto",
-      "bet_amount_yes": 0,
-      "bet_amount_no": 23.8283,
-      "total_bet": 23.8283,
-      "is_resolved": false
     },
     {
       "market_id": "0xdf1a92de15c6bba926117f469c6188382576281a5586b0166533a756cffa6b24",
@@ -351,8 +360,8 @@
       "question": "Palestine will become a state in 2025?",
       "category": "politics",
       "bet_amount_yes": -0.980928198,
-      "bet_amount_no": 21.734599999999993,
-      "total_bet": 20.753671801999992,
+      "bet_amount_no": 21.834299999999992,
+      "total_bet": 20.85337180199999,
       "is_resolved": false
     },
     {
@@ -392,15 +401,6 @@
       "is_resolved": true
     },
     {
-      "market_id": "0x022e414fe640ccf65e59279c453520c608e15b47245d886efed79186aca43114",
-      "question": "Gold >$4,500/oz this month?",
-      "category": "economics",
-      "bet_amount_yes": 12.4625,
-      "bet_amount_no": 1.8785113569999998,
-      "total_bet": 14.341011357,
-      "is_resolved": false
-    },
-    {
       "market_id": "0x3e8650d708ccb1911caf59e75314e335a747a8096262d1e496a7c848093e887d",
       "question": "Metaplanet >40K BTC in October 2025?",
       "category": "crypto",
@@ -432,26 +432,26 @@
       "question": "SEC releases new crypto framework in October 2025?",
       "category": "crypto",
       "bet_amount_yes": 0.0997,
-      "bet_amount_no": 8.873300000000002,
-      "total_bet": 8.973000000000003,
+      "bet_amount_no": 8.973000000000003,
+      "total_bet": 9.072700000000003,
       "is_resolved": false
     },
     {
       "market_id": "0x6672e2b16cec2da0be10fd611908512eca1faac72f1b82bd8e06cebcc0457e98",
       "question": "$AAPL beats quarterly revenue?",
       "category": "technology",
-      "bet_amount_yes": 8.285070000000001,
+      "bet_amount_yes": 8.384770000000001,
       "bet_amount_no": 0,
-      "total_bet": 8.285070000000001,
+      "total_bet": 8.384770000000001,
       "is_resolved": false
     },
     {
       "market_id": "0x7802527e47a9f21cd6ea1cec02777dfa30315d449a9dc848ba33cda66e901136",
       "question": "USDT market cap > $200B by 31 Dec 2025?",
       "category": "crypto",
-      "bet_amount_yes": 1.5952,
+      "bet_amount_yes": 1.6948999999999999,
       "bet_amount_no": 6.385721574999991,
-      "total_bet": 7.980921574999989,
+      "total_bet": 8.080621574999988,
       "is_resolved": false
     }
   ]
