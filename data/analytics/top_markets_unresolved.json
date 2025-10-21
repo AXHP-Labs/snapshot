@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-10-21T02:10:24.171Z",
+    "generated_at": "2025-10-21T03:40:19.997Z",
     "total_unresolved_markets": 34
   },
   "data": [
@@ -8,9 +8,9 @@
       "market_id": "0x022e414fe640ccf65e59279c453520c608e15b47245d886efed79186aca43114",
       "question": "Gold >$4,500/oz this month?",
       "category": "economics",
-      "bet_amount_yes": 11.763192813,
+      "bet_amount_yes": 13.757192813,
       "bet_amount_no": 117.829611357,
-      "total_bet": 129.59280417
+      "total_bet": 131.58680417
     },
     {
       "market_id": "0x65707bade9e2e8ac9797c566605e5375bd6e3ace7e82f579ae44c11f7bcb1720",

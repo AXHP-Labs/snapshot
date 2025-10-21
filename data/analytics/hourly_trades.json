@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-10-21T02:10:24.173Z",
+    "generated_at": "2025-10-21T03:40:19.999Z",
     "description": "Trading activity aggregated by hour of day (UTC)"
   },
   "data": [
@@ -27,10 +27,10 @@
     },
     {
       "hour": 3,
-      "trades": 127,
-      "volume_sui": 315.450800000001,
+      "trades": 128,
+      "volume_sui": 317.444800000001,
       "whale_trades": 4,
-      "retail_trades": 123
+      "retail_trades": 124
     },
     {
       "hour": 4,

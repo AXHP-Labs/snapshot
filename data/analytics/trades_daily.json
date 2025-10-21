@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-10-21T02:10:24.145Z",
+    "generated_at": "2025-10-21T03:40:19.966Z",
     "date_range": {
       "from": "2025-08-20",
       "to": "2025-10-21"
@@ -610,10 +610,10 @@
     },
     {
       "date": "2025-10-21",
-      "total_trades": 7,
-      "yes_trades": 0,
+      "total_trades": 8,
+      "yes_trades": 1,
       "no_trades": 7,
-      "yes_volume_sui": 0,
+      "yes_volume_sui": 1.994,
       "no_volume_sui": 44.865,
       "largest_trade_sui": 19.94,
       "whale_trades": 1
