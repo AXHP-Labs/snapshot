@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2025-10-20T00:07:42.586Z",
+    "generated_at": "2025-10-21T02:10:24.145Z",
     "date_range": {
       "from": "2025-08-20",
-      "to": "2025-10-19"
+      "to": "2025-10-21"
     },
-    "total_days": 59
+    "total_days": 61
   },
   "data": [
     {
@@ -538,6 +538,24 @@
       "active_oracles": 0,
       "cumulative_oracles": 5,
       "avg_resolution_time_hours": 27.451239722222223
+    },
+    {
+      "date": "2025-10-20",
+      "requests_made": 1,
+      "requests_resolved": 0,
+      "total_rewards_sui": 0,
+      "active_oracles": 1,
+      "cumulative_oracles": 5,
+      "avg_resolution_time_hours": 0
+    },
+    {
+      "date": "2025-10-21",
+      "requests_made": 0,
+      "requests_resolved": 1,
+      "total_rewards_sui": 0.6344536,
+      "active_oracles": 0,
+      "cumulative_oracles": 5,
+      "avg_resolution_time_hours": 25.174502222222223
     }
   ]
 }
