@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-10-21T03:40:19.997Z",
+    "generated_at": "2025-10-21T07:26:32.538Z",
     "total_unresolved_markets": 34
   },
   "data": [
@@ -125,12 +125,28 @@
       "total_bet": 8.484470000000002
     },
     {
+      "market_id": "0xfee537f3da692e03c1dc6eb067150847587ce28d62a118ea6c89e74c9b902a4c",
+      "question": "$TSLA beats quarterly revenue?",
+      "category": "technology",
+      "bet_amount_yes": 3.9979699999999996,
+      "bet_amount_no": 3.997969999999999,
+      "total_bet": 7.995940000000003
+    },
+    {
       "market_id": "0xd0258eeea8e21988beb2ccad32b2570fd9cd7db8ccd9d1597eec3ec8583c2614",
       "question": "U.S. national Bitcoin reserve in 2025?",
       "category": "crypto",
       "bet_amount_yes": 1.2961,
       "bet_amount_no": 6.580200000000002,
       "total_bet": 7.876300000000002
+    },
+    {
+      "market_id": "0x68ade1ac9d432630cd944214b9fa197f91b0ddd094c5f8d9d2d25699808935d9",
+      "question": "$TSLA beats quarterly EPS?",
+      "category": "crypto",
+      "bet_amount_yes": 2.5922,
+      "bet_amount_no": 4.496470000000001,
+      "total_bet": 7.088670000000001
     },
     {
       "market_id": "0x20e97f369aa58318611b219b8c66c2250695d1452f0cef95a559bb13f833b768",
@@ -157,28 +173,12 @@
       "total_bet": 6.091670000000001
     },
     {
-      "market_id": "0xfee537f3da692e03c1dc6eb067150847587ce28d62a118ea6c89e74c9b902a4c",
-      "question": "$TSLA beats quarterly revenue?",
-      "category": "technology",
-      "bet_amount_yes": 2.00397,
-      "bet_amount_no": 3.997969999999999,
-      "total_bet": 6.001940000000003
-    },
-    {
       "market_id": "0xed2758d2f2d3a06b28c9b123129b9d282341c8b7a67f46fb720462b2e0975cc2",
       "question": "$META beats quarterly revenue?",
       "category": "technology",
       "bet_amount_yes": 5.493470000000001,
       "bet_amount_no": 0,
       "total_bet": 5.493470000000001
-    },
-    {
-      "market_id": "0x68ade1ac9d432630cd944214b9fa197f91b0ddd094c5f8d9d2d25699808935d9",
-      "question": "$TSLA beats quarterly EPS?",
-      "category": "crypto",
-      "bet_amount_yes": 0.5982,
-      "bet_amount_no": 4.496470000000001,
-      "total_bet": 5.094670000000002
     },
     {
       "market_id": "0x6371741f72ce22943d3711b46230f604997a215bbd9162ae77749a5b1bd37bbd",
