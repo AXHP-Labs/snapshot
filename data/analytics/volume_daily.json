@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2025-10-21T07:26:32.510Z",
+    "generated_at": "2025-10-23T06:02:25.008Z",
     "date_range": {
       "from": "2025-08-20",
-      "to": "2025-10-21"
+      "to": "2025-10-23"
     },
-    "total_days": 61
+    "total_days": 63
   },
   "data": [
     {
@@ -1690,24 +1690,72 @@
     },
     {
       "date": "2025-10-21",
-      "total_volume_sui": 50.847,
-      "total_trades": 10,
-      "unique_traders": 4,
+      "total_volume_sui": 563.4047000000002,
+      "total_trades": 29,
+      "unique_traders": 10,
       "v2_volume_sui": 0,
-      "v3_volume_sui": 50.847,
-      "avg_trade_size_sui": 5.0847,
-      "tvl_sui": 2279.018702374004,
+      "v3_volume_sui": 563.4047000000002,
+      "avg_trade_size_sui": 19.427748275862076,
+      "tvl_sui": 2459.764888835004,
       "categories": {
         "crypto": {
-          "volume_sui": 12.961,
-          "trades": 3
+          "volume_sui": 313.1577,
+          "trades": 10
         },
         "economics": {
-          "volume_sui": 35.892,
-          "trades": 6
+          "volume_sui": 245.26200000000003,
+          "trades": 17
         },
         "technology": {
-          "volume_sui": 1.994,
+          "volume_sui": 4.985,
+          "trades": 2
+        }
+      }
+    },
+    {
+      "date": "2025-10-22",
+      "total_volume_sui": 679.0567,
+      "total_trades": 21,
+      "unique_traders": 4,
+      "v2_volume_sui": 0,
+      "v3_volume_sui": 679.0567,
+      "avg_trade_size_sui": 32.33603333333333,
+      "tvl_sui": 3138.821588835004,
+      "categories": {
+        "politics": {
+          "volume_sui": 127.7157,
+          "trades": 6
+        },
+        "crypto": {
+          "volume_sui": 325.02200000000005,
+          "trades": 5
+        },
+        "economics": {
+          "volume_sui": 194.41500000000002,
+          "trades": 4
+        },
+        "technology": {
+          "volume_sui": 31.904000000000003,
+          "trades": 6
+        }
+      }
+    },
+    {
+      "date": "2025-10-23",
+      "total_volume_sui": 83.748,
+      "total_trades": 8,
+      "unique_traders": 4,
+      "v2_volume_sui": 0,
+      "v3_volume_sui": 83.748,
+      "avg_trade_size_sui": 10.4685,
+      "tvl_sui": 2928.2195945120043,
+      "categories": {
+        "crypto": {
+          "volume_sui": 78.763,
+          "trades": 7
+        },
+        "politics": {
+          "volume_sui": 4.985,
           "trades": 1
         }
       }
