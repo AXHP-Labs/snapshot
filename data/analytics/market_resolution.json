@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-10-23T06:02:25.043Z",
+    "generated_at": "2025-10-24T03:01:38.038Z",
     "description": "Market creation and resolution time tracking"
   },
   "data": [
@@ -197,7 +197,7 @@
       "date": "2025-10-14",
       "markets_created": 0,
       "markets_resolved": 1,
-      "avg_resolution_time_hours": 48.26514972222222,
+      "avg_resolution_time_hours": 48.26515055555556,
       "success_rate_percentage": 0
     },
     {
@@ -211,28 +211,42 @@
       "date": "2025-10-16",
       "markets_created": 13,
       "markets_resolved": 1,
-      "avg_resolution_time_hours": 82.03842555555556,
+      "avg_resolution_time_hours": 82.03837,
       "success_rate_percentage": 7.6923076923076925
     },
     {
       "date": "2025-10-18",
       "markets_created": 2,
       "markets_resolved": 1,
-      "avg_resolution_time_hours": 272.0428638888889,
+      "avg_resolution_time_hours": 272.0428616666667,
       "success_rate_percentage": 50
     },
     {
       "date": "2025-10-19",
       "markets_created": 0,
       "markets_resolved": 1,
-      "avg_resolution_time_hours": 297.04837694444444,
+      "avg_resolution_time_hours": 297.05027916666666,
       "success_rate_percentage": 0
     },
     {
       "date": "2025-10-21",
       "markets_created": 0,
       "markets_resolved": 1,
-      "avg_resolution_time_hours": 342.5751769444444,
+      "avg_resolution_time_hours": 342.57520222222223,
+      "success_rate_percentage": 0
+    },
+    {
+      "date": "2025-10-23",
+      "markets_created": 4,
+      "markets_resolved": 0,
+      "avg_resolution_time_hours": 0,
+      "success_rate_percentage": 0
+    },
+    {
+      "date": "2025-10-24",
+      "markets_created": 0,
+      "markets_resolved": 2,
+      "avg_resolution_time_hours": 192.91161986111112,
       "success_rate_percentage": 0
     }
   ]

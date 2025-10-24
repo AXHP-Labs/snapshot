@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-10-23T06:02:25.008Z",
+    "generated_at": "2025-10-24T03:01:37.974Z",
     "date_range": {
       "from": "2025-08-20",
       "to": "2025-10-23"
@@ -258,7 +258,7 @@
       "total_rewards_sui": 2.6514356,
       "active_oracles": 0,
       "cumulative_oracles": 4,
-      "avg_resolution_time_hours": 24.02789486111111
+      "avg_resolution_time_hours": 24.02789333333333
     },
     {
       "date": "2025-09-19",
@@ -285,7 +285,7 @@
       "total_rewards_sui": 1.2650074,
       "active_oracles": 1,
       "cumulative_oracles": 4,
-      "avg_resolution_time_hours": 35.33268208333334
+      "avg_resolution_time_hours": 35.33268124999999
     },
     {
       "date": "2025-09-22",
@@ -303,7 +303,7 @@
       "total_rewards_sui": 3.847899,
       "active_oracles": 0,
       "cumulative_oracles": 4,
-      "avg_resolution_time_hours": 28.555285555555557
+      "avg_resolution_time_hours": 28.555284583333332
     },
     {
       "date": "2025-09-24",
@@ -384,7 +384,7 @@
       "total_rewards_sui": 8.198561853,
       "active_oracles": 0,
       "cumulative_oracles": 5,
-      "avg_resolution_time_hours": 24.308845793650796
+      "avg_resolution_time_hours": 24.30884714285714
     },
     {
       "date": "2025-10-03",
@@ -438,7 +438,7 @@
       "total_rewards_sui": 5.945316876,
       "active_oracles": 1,
       "cumulative_oracles": 5,
-      "avg_resolution_time_hours": 27.20689902777778
+      "avg_resolution_time_hours": 27.2069
     },
     {
       "date": "2025-10-09",
@@ -456,7 +456,7 @@
       "total_rewards_sui": 3.6135658999999998,
       "active_oracles": 0,
       "cumulative_oracles": 5,
-      "avg_resolution_time_hours": 28.1340678968254
+      "avg_resolution_time_hours": 28.13406892857143
     },
     {
       "date": "2025-10-11",
@@ -492,7 +492,7 @@
       "total_rewards_sui": 0.373388,
       "active_oracles": 0,
       "cumulative_oracles": 5,
-      "avg_resolution_time_hours": 25.492943611111112
+      "avg_resolution_time_hours": 25.492976666666667
     },
     {
       "date": "2025-10-15",
@@ -510,7 +510,7 @@
       "total_rewards_sui": 0.24111068,
       "active_oracles": 0,
       "cumulative_oracles": 5,
-      "avg_resolution_time_hours": 24.02194666666667
+      "avg_resolution_time_hours": 24.021944166666668
     },
     {
       "date": "2025-10-17",
@@ -528,7 +528,7 @@
       "total_rewards_sui": 0.408008705,
       "active_oracles": 1,
       "cumulative_oracles": 5,
-      "avg_resolution_time_hours": 24.879884166666667
+      "avg_resolution_time_hours": 24.879895277777777
     },
     {
       "date": "2025-10-19",
@@ -537,7 +537,7 @@
       "total_rewards_sui": 0.387455127,
       "active_oracles": 0,
       "cumulative_oracles": 5,
-      "avg_resolution_time_hours": 27.453141944444443
+      "avg_resolution_time_hours": 27.453084166666667
     },
     {
       "date": "2025-10-20",
@@ -555,7 +555,7 @@
       "total_rewards_sui": 0.6344536,
       "active_oracles": 0,
       "cumulative_oracles": 5,
-      "avg_resolution_time_hours": 25.1745275
+      "avg_resolution_time_hours": 25.174514722222224
     },
     {
       "date": "2025-10-22",

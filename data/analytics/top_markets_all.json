@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2025-10-23T06:02:25.035Z",
-    "total_markets": 77
+    "generated_at": "2025-10-24T03:01:38.020Z",
+    "total_markets": 81
   },
   "data": [
     {
@@ -17,9 +17,9 @@
       "market_id": "0x32b40e39bc982ebb3ba53541cf7bb0d37208edc5545d74d32e1d38d6fe317ed3",
       "question": "Bitcoin breakdown <$100K this month?",
       "category": "crypto",
-      "bet_amount_yes": 153.0395,
-      "bet_amount_no": 580.3537000000002,
-      "total_bet": 733.3932000000001,
+      "bet_amount_yes": 156.13020000000003,
+      "bet_amount_no": 661.1107000000003,
+      "total_bet": 817.2409000000001,
       "is_resolved": false
     },
     {
@@ -35,9 +35,9 @@
       "market_id": "0x022e414fe640ccf65e59279c453520c608e15b47245d886efed79186aca43114",
       "question": "Gold >$4,500/oz this month?",
       "category": "economics",
-      "bet_amount_yes": 23.727192813000002,
-      "bet_amount_no": 416.92961135700006,
-      "total_bet": 440.6568041700001,
+      "bet_amount_yes": 23.826892813,
+      "bet_amount_no": 456.80961135700005,
+      "total_bet": 480.6365041700001,
       "is_resolved": false
     },
     {
@@ -81,8 +81,8 @@
       "question": "Fed cuts rates 50bps in October 2025?",
       "category": "economics",
       "bet_amount_yes": 8.973,
-      "bet_amount_no": 210.95712571200005,
-      "total_bet": 219.930125712,
+      "bet_amount_no": 212.05382571200008,
+      "total_bet": 221.02682571200003,
       "is_resolved": false
     },
     {
@@ -156,6 +156,15 @@
       "bet_amount_no": 30.408500000000004,
       "total_bet": 98.90239999999999,
       "is_resolved": true
+    },
+    {
+      "market_id": "0xfcf7c5f0245c16f45fa19f3dc7b003c1b8b22509bbe355e1a8ac66a618cd1084",
+      "question": "SEC releases new crypto framework in October 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 0.0997,
+      "bet_amount_no": 90.9264,
+      "total_bet": 91.0261,
+      "is_resolved": false
     },
     {
       "market_id": "0x769f047a5f38643db8d01c66a13d5b77ebcc0867aafd2bd154a6c603c29487aa",
@@ -239,6 +248,15 @@
       "is_resolved": true
     },
     {
+      "market_id": "0x641f655cf8f749a7895c95199036efbf4c8945b1f444f2fb5f289246369d80ab",
+      "question": "100% tariff on China in effect by 1 Nov 2025?",
+      "category": "economics",
+      "bet_amount_yes": 3.983035937,
+      "bet_amount_no": 48.625185499999986,
+      "total_bet": 52.60822143699999,
+      "is_resolved": false
+    },
+    {
       "market_id": "0x930bf43601b1c4f23fdfcfad88a14139b1194e9b3451b67efaaa0e46d36d2da6",
       "question": "US debt > $38T in 2025?",
       "category": "economics",
@@ -257,12 +275,12 @@
       "is_resolved": true
     },
     {
-      "market_id": "0x641f655cf8f749a7895c95199036efbf4c8945b1f444f2fb5f289246369d80ab",
-      "question": "100% tariff on China in effect by 1 Nov 2025?",
-      "category": "economics",
-      "bet_amount_yes": 3.9827159,
-      "bet_amount_no": 38.65518549999999,
-      "total_bet": 42.63790139999999,
+      "market_id": "0x4ffcd28e44de596de6cf5f2cfa15502812cc9070cc8f0100a1e42022e2b5d891",
+      "question": "U.S. shutdown ends this month?",
+      "category": "politics",
+      "bet_amount_yes": 1.8045699999999993,
+      "bet_amount_no": 37.08840000000001,
+      "total_bet": 38.892970000000005,
       "is_resolved": false
     },
     {
@@ -273,15 +291,6 @@
       "bet_amount_no": 16.400650000000006,
       "total_bet": 37.786299999999926,
       "is_resolved": true
-    },
-    {
-      "market_id": "0x4ffcd28e44de596de6cf5f2cfa15502812cc9070cc8f0100a1e42022e2b5d891",
-      "question": "U.S. shutdown ends this month?",
-      "category": "politics",
-      "bet_amount_yes": 1.8045699999999993,
-      "bet_amount_no": 35.09440000000001,
-      "total_bet": 36.898970000000006,
-      "is_resolved": false
     },
     {
       "market_id": "0x5d39806d787f42fe908add850975587bc0c63897c75838fd9529d27c7a17e3ca",
@@ -347,15 +356,6 @@
       "is_resolved": true
     },
     {
-      "market_id": "0xfcf7c5f0245c16f45fa19f3dc7b003c1b8b22509bbe355e1a8ac66a618cd1084",
-      "question": "SEC releases new crypto framework in October 2025?",
-      "category": "crypto",
-      "bet_amount_yes": 0.0997,
-      "bet_amount_no": 26.121399999999998,
-      "total_bet": 26.2211,
-      "is_resolved": false
-    },
-    {
       "market_id": "0xe9490e4ea3e29d8a169dd835e2f2d0c2f124181f315abc96472dad10ae3aa5f4",
       "question": "$NVDA beats quarterly revenue?",
       "category": "technology",
@@ -381,6 +381,15 @@
       "bet_amount_no": 3.2402499999999996,
       "total_bet": 24.376649999999984,
       "is_resolved": true
+    },
+    {
+      "market_id": "0x7802527e47a9f21cd6ea1cec02777dfa30315d449a9dc848ba33cda66e901136",
+      "question": "USDT market cap > $200B by 31 Dec 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 1.6948999999999999,
+      "bet_amount_no": 21.540121574999993,
+      "total_bet": 23.235021574999983,
+      "is_resolved": false
     },
     {
       "market_id": "0x44051a50d7b2d36874391065da6eb05c8997f96aeb01c287cfb0387729cdf877",
@@ -426,15 +435,6 @@
       "bet_amount_no": 7.0786999999999995,
       "total_bet": 18.7436,
       "is_resolved": true
-    },
-    {
-      "market_id": "0x7802527e47a9f21cd6ea1cec02777dfa30315d449a9dc848ba33cda66e901136",
-      "question": "USDT market cap > $200B by 31 Dec 2025?",
-      "category": "crypto",
-      "bet_amount_yes": 1.6948999999999999,
-      "bet_amount_no": 16.555121574999994,
-      "total_bet": 18.250021574999984,
-      "is_resolved": false
     },
     {
       "market_id": "0x91f3adee72d1fca50c6c6b460c999bab3784b769f0e0ce31b6b06ecc822ccd27",

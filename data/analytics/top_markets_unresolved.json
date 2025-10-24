@@ -1,32 +1,32 @@
 {
   "metadata": {
-    "generated_at": "2025-10-23T06:02:25.037Z",
-    "total_unresolved_markets": 34
+    "generated_at": "2025-10-24T03:01:38.026Z",
+    "total_unresolved_markets": 36
   },
   "data": [
     {
       "market_id": "0x32b40e39bc982ebb3ba53541cf7bb0d37208edc5545d74d32e1d38d6fe317ed3",
       "question": "Bitcoin breakdown <$100K this month?",
       "category": "crypto",
-      "bet_amount_yes": 153.0395,
-      "bet_amount_no": 580.3537000000002,
-      "total_bet": 733.3932000000001
+      "bet_amount_yes": 156.13020000000003,
+      "bet_amount_no": 661.1107000000003,
+      "total_bet": 817.2409000000001
     },
     {
       "market_id": "0x022e414fe640ccf65e59279c453520c608e15b47245d886efed79186aca43114",
       "question": "Gold >$4,500/oz this month?",
       "category": "economics",
-      "bet_amount_yes": 23.727192813000002,
-      "bet_amount_no": 416.92961135700006,
-      "total_bet": 440.6568041700001
+      "bet_amount_yes": 23.826892813,
+      "bet_amount_no": 456.80961135700005,
+      "total_bet": 480.6365041700001
     },
     {
       "market_id": "0x65707bade9e2e8ac9797c566605e5375bd6e3ace7e82f579ae44c11f7bcb1720",
       "question": "Fed cuts rates 50bps in October 2025?",
       "category": "economics",
       "bet_amount_yes": 8.973,
-      "bet_amount_no": 210.95712571200005,
-      "total_bet": 219.930125712
+      "bet_amount_no": 212.05382571200008,
+      "total_bet": 221.02682571200003
     },
     {
       "market_id": "0x4bce5e5581cbd9c8749ec7e15b9226f43d1706e91b1fd126fdb0f0d208a9cfb2",
@@ -37,20 +37,28 @@
       "total_bet": 156.39054861
     },
     {
+      "market_id": "0xfcf7c5f0245c16f45fa19f3dc7b003c1b8b22509bbe355e1a8ac66a618cd1084",
+      "question": "SEC releases new crypto framework in October 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 0.0997,
+      "bet_amount_no": 90.9264,
+      "total_bet": 91.0261
+    },
+    {
       "market_id": "0x641f655cf8f749a7895c95199036efbf4c8945b1f444f2fb5f289246369d80ab",
       "question": "100% tariff on China in effect by 1 Nov 2025?",
       "category": "economics",
-      "bet_amount_yes": 3.9827159,
-      "bet_amount_no": 38.65518549999999,
-      "total_bet": 42.63790139999999
+      "bet_amount_yes": 3.983035937,
+      "bet_amount_no": 48.625185499999986,
+      "total_bet": 52.60822143699999
     },
     {
       "market_id": "0x4ffcd28e44de596de6cf5f2cfa15502812cc9070cc8f0100a1e42022e2b5d891",
       "question": "U.S. shutdown ends this month?",
       "category": "politics",
       "bet_amount_yes": 1.8045699999999993,
-      "bet_amount_no": 35.09440000000001,
-      "total_bet": 36.898970000000006
+      "bet_amount_no": 37.08840000000001,
+      "total_bet": 38.892970000000005
     },
     {
       "market_id": "0x9b28861a20256005707e3543d05e46cdc37aed04a670b8e3e9be48431f9b1344",
@@ -77,20 +85,20 @@
       "total_bet": 30.607899999999997
     },
     {
-      "market_id": "0xfcf7c5f0245c16f45fa19f3dc7b003c1b8b22509bbe355e1a8ac66a618cd1084",
-      "question": "SEC releases new crypto framework in October 2025?",
-      "category": "crypto",
-      "bet_amount_yes": 0.0997,
-      "bet_amount_no": 26.121399999999998,
-      "total_bet": 26.2211
-    },
-    {
       "market_id": "0xe9490e4ea3e29d8a169dd835e2f2d0c2f124181f315abc96472dad10ae3aa5f4",
       "question": "$NVDA beats quarterly revenue?",
       "category": "technology",
       "bet_amount_yes": 26.031670000000002,
       "bet_amount_no": 0,
       "total_bet": 26.031670000000002
+    },
+    {
+      "market_id": "0x7802527e47a9f21cd6ea1cec02777dfa30315d449a9dc848ba33cda66e901136",
+      "question": "USDT market cap > $200B by 31 Dec 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 1.6948999999999999,
+      "bet_amount_no": 21.540121574999993,
+      "total_bet": 23.235021574999983
     },
     {
       "market_id": "0x44051a50d7b2d36874391065da6eb05c8997f96aeb01c287cfb0387729cdf877",
@@ -107,14 +115,6 @@
       "bet_amount_yes": -4.642497192999999,
       "bet_amount_no": 25.11650536499999,
       "total_bet": 20.474008171999994
-    },
-    {
-      "market_id": "0x7802527e47a9f21cd6ea1cec02777dfa30315d449a9dc848ba33cda66e901136",
-      "question": "USDT market cap > $200B by 31 Dec 2025?",
-      "category": "crypto",
-      "bet_amount_yes": 1.6948999999999999,
-      "bet_amount_no": 16.555121574999994,
-      "total_bet": 18.250021574999984
     },
     {
       "market_id": "0x3e8650d708ccb1911caf59e75314e335a747a8096262d1e496a7c848093e887d",
@@ -141,20 +141,12 @@
       "total_bet": 13.469470000000001
     },
     {
-      "market_id": "0xfee537f3da692e03c1dc6eb067150847587ce28d62a118ea6c89e74c9b902a4c",
-      "question": "$TSLA beats quarterly revenue?",
-      "category": "technology",
-      "bet_amount_yes": 6.98897,
-      "bet_amount_no": 3.997969999999999,
-      "total_bet": 10.986940000000002
-    },
-    {
-      "market_id": "0x68ade1ac9d432630cd944214b9fa197f91b0ddd094c5f8d9d2d25699808935d9",
-      "question": "$TSLA beats quarterly EPS?",
+      "market_id": "0x2cc3b7334b126e1997e6702f74781c1bf013a23e40e439364047d85b4e0b5959",
+      "question": "BTC hits $100K before $130K?",
       "category": "crypto",
-      "bet_amount_yes": 5.5832,
-      "bet_amount_no": 4.496470000000001,
-      "total_bet": 10.079670000000002
+      "bet_amount_yes": 8.973,
+      "bet_amount_no": 2.991,
+      "total_bet": 11.964
     },
     {
       "market_id": "0x5771b02bfe48cc7c7868b0ae437cf6da26b323734dc41c1603f355034681d64b",
@@ -211,6 +203,14 @@
       "bet_amount_yes": 5.0847000000000016,
       "bet_amount_no": 0,
       "total_bet": 5.0847000000000016
+    },
+    {
+      "market_id": "0xa6b6e2cd989dff593b38bb716dbc9c704bd4df057e38b238516f4e182fbf2e93",
+      "question": "MetaMask launches token in 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 4.985,
+      "bet_amount_no": 0,
+      "total_bet": 4.985
     },
     {
       "market_id": "0xfebcaded55ae6aa7a872147d279581293b3f5cc739e579d8b7b124e9fe7214e9",
@@ -275,6 +275,22 @@
       "bet_amount_yes": 0.1994,
       "bet_amount_no": 0.44865,
       "total_bet": 0.64805
+    },
+    {
+      "market_id": "0x221fa0fb8d50036de7f83a75120632b1be72668e8f0b6dc5d253505ddba85dfd",
+      "question": "DOGE hits previous ATH in 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 0,
+      "bet_amount_no": 0.0997,
+      "total_bet": 0.0997
+    },
+    {
+      "market_id": "0xb565bc34ac1e005a9a209842e284b9bd8ec41e80353b5e1c2eeeae61ab37fb65",
+      "question": "SUI hits previous ATH in 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 0,
+      "bet_amount_no": 0,
+      "total_bet": 0
     }
   ]
 }
