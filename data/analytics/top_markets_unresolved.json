@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-10-24T03:01:38.026Z",
+    "generated_at": "2025-10-24T09:57:17.842Z",
     "total_unresolved_markets": 36
   },
   "data": [
@@ -181,6 +181,14 @@
       "total_bet": 6.580200000000001
     },
     {
+      "market_id": "0x7da4605eb8d7971bf6339c01565a1c9df583c54cdb10e2158a02d670a25acbda",
+      "question": "$MSFT beats quarterly revenue?",
+      "category": "technology",
+      "bet_amount_yes": 6.39077,
+      "bet_amount_no": 0,
+      "total_bet": 6.39077
+    },
+    {
       "market_id": "0xc3d97e4b5307d90e2e3cd15229df2f69ce1e1a37446103961936412f7fb08730",
       "question": "$GOOG beats quarterly EPS?",
       "category": "technology",
@@ -227,14 +235,6 @@
       "bet_amount_yes": 1.994,
       "bet_amount_no": 2.4027699999999994,
       "total_bet": 4.396770000000001
-    },
-    {
-      "market_id": "0x7da4605eb8d7971bf6339c01565a1c9df583c54cdb10e2158a02d670a25acbda",
-      "question": "$MSFT beats quarterly revenue?",
-      "category": "technology",
-      "bet_amount_yes": 4.39677,
-      "bet_amount_no": 0,
-      "total_bet": 4.39677
     },
     {
       "market_id": "0xf7fe785b8f440a35c777dfe1e1ae8525fb51a4e739fbbf4eddcb5b4722aa55f5",

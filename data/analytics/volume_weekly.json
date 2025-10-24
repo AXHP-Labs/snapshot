@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2025-10-24T03:01:37.997Z",
+    "generated_at": "2025-10-24T09:57:17.829Z",
     "date_range": {
       "from": "2025-08-20",
-      "to": "2025-10-23"
+      "to": "2025-10-24"
     },
     "total_weeks": 10
   },
@@ -292,8 +292,8 @@
     {
       "week_start": "2025-10-20",
       "week_end": "2025-10-26",
-      "total_volume_sui": 1764.9894200370004,
-      "total_trades": 121,
+      "total_volume_sui": 1766.9834200370003,
+      "total_trades": 122,
       "unique_traders": 18,
       "categories": {
         "economics": {
@@ -309,8 +309,8 @@
           "trades": 20
         },
         "technology": {
-          "volume_sui": 36.889,
-          "trades": 8
+          "volume_sui": 38.883,
+          "trades": 9
         }
       }
     }
