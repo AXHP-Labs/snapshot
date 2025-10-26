@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-10-26T03:19:24.312Z",
+    "generated_at": "2025-10-26T10:32:23.458Z",
     "total_users": 78
   },
   "data": [
@@ -454,10 +454,10 @@
     },
     {
       "user": "0x2388f9ab197a5423a8da397c8020992d56a0212e7cdb5c8b3ae715b637fca85c",
-      "total_buy": 0.761964229,
+      "total_buy": 0.762173599,
       "total_sell": 0,
       "total_redeem": 0,
-      "balance": 0.761964229
+      "balance": 0.762173599
     },
     {
       "user": "0x0a38e869e3be1e3ba92441f55ea8a0614a7e4321dae389a62b85d995b382cb23",

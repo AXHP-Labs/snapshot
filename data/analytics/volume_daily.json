@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2025-10-26T03:19:24.286Z",
+    "generated_at": "2025-10-26T10:32:23.428Z",
     "date_range": {
       "from": "2025-08-20",
-      "to": "2025-10-25"
+      "to": "2025-10-26"
     },
-    "total_days": 65
+    "total_days": 66
   },
   "data": [
     {
@@ -1813,6 +1813,22 @@
         "technology": {
           "volume_sui": 4.985,
           "trades": 2
+        }
+      }
+    },
+    {
+      "date": "2025-10-26",
+      "total_volume_sui": 0.00020937,
+      "total_trades": 1,
+      "unique_traders": 1,
+      "v2_volume_sui": 0,
+      "v3_volume_sui": 0.00020937,
+      "avg_trade_size_sui": 0.00020937,
+      "tvl_sui": 4898.474041785004,
+      "categories": {
+        "crypto": {
+          "volume_sui": 0.00020937,
+          "trades": 1
         }
       }
     }
