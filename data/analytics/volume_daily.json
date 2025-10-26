@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-10-25T01:51:11.604Z",
+    "generated_at": "2025-10-26T03:19:24.286Z",
     "date_range": {
       "from": "2025-08-20",
       "to": "2025-10-25"
@@ -1790,17 +1790,29 @@
     },
     {
       "date": "2025-10-25",
-      "total_volume_sui": 20.937,
-      "total_trades": 1,
-      "unique_traders": 1,
+      "total_volume_sui": 277.2657000000001,
+      "total_trades": 23,
+      "unique_traders": 10,
       "v2_volume_sui": 0,
-      "v3_volume_sui": 20.937,
-      "avg_trade_size_sui": 20.937,
-      "tvl_sui": 4642.145132415004,
+      "v3_volume_sui": 277.2657000000001,
+      "avg_trade_size_sui": 12.055030434782612,
+      "tvl_sui": 4898.473832415004,
       "categories": {
         "crypto": {
-          "volume_sui": 20.937,
-          "trades": 1
+          "volume_sui": 111.7637,
+          "trades": 10
+        },
+        "sports": {
+          "volume_sui": 100.69700000000002,
+          "trades": 5
+        },
+        "economics": {
+          "volume_sui": 59.82000000000001,
+          "trades": 6
+        },
+        "technology": {
+          "volume_sui": 4.985,
+          "trades": 2
         }
       }
     }

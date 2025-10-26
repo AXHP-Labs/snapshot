@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-10-25T01:51:11.618Z",
+    "generated_at": "2025-10-26T03:19:24.300Z",
     "date_range": {
       "from": "2025-08-20",
       "to": "2025-10-25"
@@ -292,25 +292,29 @@
     {
       "week_start": "2025-10-20",
       "week_end": "2025-10-26",
-      "total_volume_sui": 3270.9579200370003,
-      "total_trades": 153,
-      "unique_traders": 19,
+      "total_volume_sui": 3527.2866200370004,
+      "total_trades": 175,
+      "unique_traders": 22,
       "categories": {
         "economics": {
-          "volume_sui": 626.714520037,
-          "trades": 41
+          "volume_sui": 686.5345200370001,
+          "trades": 47
         },
         "crypto": {
-          "volume_sui": 2422.5106,
-          "trades": 75
+          "volume_sui": 2513.3373,
+          "trades": 84
         },
         "politics": {
           "volume_sui": 150.94580000000002,
           "trades": 20
         },
         "technology": {
-          "volume_sui": 70.787,
-          "trades": 17
+          "volume_sui": 75.772,
+          "trades": 19
+        },
+        "sports": {
+          "volume_sui": 100.69700000000002,
+          "trades": 5
         }
       }
     }

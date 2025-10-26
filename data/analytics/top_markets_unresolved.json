@@ -1,32 +1,32 @@
 {
   "metadata": {
-    "generated_at": "2025-10-25T01:51:11.630Z",
-    "total_unresolved_markets": 36
+    "generated_at": "2025-10-26T03:19:24.310Z",
+    "total_unresolved_markets": 37
   },
   "data": [
     {
       "market_id": "0xa6b6e2cd989dff593b38bb716dbc9c704bd4df057e38b238516f4e182fbf2e93",
       "question": "MetaMask launches token in 2025?",
       "category": "crypto",
-      "bet_amount_yes": 1003.0817,
-      "bet_amount_no": 170.5867,
-      "total_bet": 1173.6683999999998
+      "bet_amount_yes": 994.8805018369999,
+      "bet_amount_no": 236.38870000000003,
+      "total_bet": 1231.2692018369999
     },
     {
       "market_id": "0x32b40e39bc982ebb3ba53541cf7bb0d37208edc5545d74d32e1d38d6fe317ed3",
       "question": "Bitcoin breakdown <$100K this month?",
       "category": "crypto",
       "bet_amount_yes": 156.13020000000003,
-      "bet_amount_no": 681.1504000000003,
-      "total_bet": 837.2806000000002
+      "bet_amount_no": 696.1054000000004,
+      "total_bet": 852.2356000000002
     },
     {
       "market_id": "0x022e414fe640ccf65e59279c453520c608e15b47245d886efed79186aca43114",
       "question": "Gold >$4,500/oz this month?",
       "category": "economics",
-      "bet_amount_yes": 23.826892813,
-      "bet_amount_no": 507.65661135700003,
-      "total_bet": 531.4835041700001
+      "bet_amount_yes": 37.784892813,
+      "bet_amount_no": 553.5186113570002,
+      "total_bet": 591.3035041700001
     },
     {
       "market_id": "0x65707bade9e2e8ac9797c566605e5375bd6e3ace7e82f579ae44c11f7bcb1720",
@@ -43,6 +43,14 @@
       "bet_amount_yes": 155.63170000000002,
       "bet_amount_no": 0.7588486099999974,
       "total_bet": 156.39054861
+    },
+    {
+      "market_id": "0xcbd5e8aeb4ceee745678325e52bfeb4772947877fc1fa4561ee03152d1af3bc5",
+      "question": "Real Madrid wins vs Barcelona?",
+      "category": "sports",
+      "bet_amount_yes": 60.81700000000001,
+      "bet_amount_no": 39.88,
+      "total_bet": 100.69700000000002
     },
     {
       "market_id": "0x221fa0fb8d50036de7f83a75120632b1be72668e8f0b6dc5d253505ddba85dfd",
@@ -149,12 +157,12 @@
       "total_bet": 23.146471801999986
     },
     {
-      "market_id": "0x6672e2b16cec2da0be10fd611908512eca1faac72f1b82bd8e06cebcc0457e98",
-      "question": "$AAPL beats quarterly revenue?",
-      "category": "technology",
-      "bet_amount_yes": 13.469470000000001,
-      "bet_amount_no": 3.988,
-      "total_bet": 17.45747
+      "market_id": "0x20e97f369aa58318611b219b8c66c2250695d1452f0cef95a559bb13f833b768",
+      "question": "Marathon Digital >60,000 BTC by 31 Oct 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 0.6979,
+      "bet_amount_no": 16.151400000000002,
+      "total_bet": 16.8493
     },
     {
       "market_id": "0x3e8650d708ccb1911caf59e75314e335a747a8096262d1e496a7c848093e887d",
@@ -173,6 +181,22 @@
       "total_bet": 13.858300000000002
     },
     {
+      "market_id": "0x6672e2b16cec2da0be10fd611908512eca1faac72f1b82bd8e06cebcc0457e98",
+      "question": "$AAPL beats quarterly revenue?",
+      "category": "technology",
+      "bet_amount_yes": 8.877512816000001,
+      "bet_amount_no": 3.988,
+      "total_bet": 12.865512816
+    },
+    {
+      "market_id": "0xc3d97e4b5307d90e2e3cd15229df2f69ce1e1a37446103961936412f7fb08730",
+      "question": "$GOOG beats quarterly EPS?",
+      "category": "technology",
+      "bet_amount_yes": 6.769505594999998,
+      "bet_amount_no": 5.09467,
+      "total_bet": 11.864175594999997
+    },
+    {
       "market_id": "0x7da4605eb8d7971bf6339c01565a1c9df583c54cdb10e2158a02d670a25acbda",
       "question": "$MSFT beats quarterly revenue?",
       "category": "technology",
@@ -189,14 +213,6 @@
       "total_bet": 9.870300000000002
     },
     {
-      "market_id": "0xc3d97e4b5307d90e2e3cd15229df2f69ce1e1a37446103961936412f7fb08730",
-      "question": "$GOOG beats quarterly EPS?",
-      "category": "technology",
-      "bet_amount_yes": 4.4864999999999995,
-      "bet_amount_no": 5.09467,
-      "total_bet": 9.581169999999998
-    },
-    {
       "market_id": "0xed2758d2f2d3a06b28c9b123129b9d282341c8b7a67f46fb720462b2e0975cc2",
       "question": "$META beats quarterly revenue?",
       "category": "technology",
@@ -211,14 +227,6 @@
       "bet_amount_yes": 3.4894999999999996,
       "bet_amount_no": 4.813343605,
       "total_bet": 8.302843605000003
-    },
-    {
-      "market_id": "0x20e97f369aa58318611b219b8c66c2250695d1452f0cef95a559bb13f833b768",
-      "question": "Marathon Digital >60,000 BTC by 31 Oct 2025?",
-      "category": "crypto",
-      "bet_amount_yes": 0.6979,
-      "bet_amount_no": 6.181400000000001,
-      "total_bet": 6.879300000000001
     },
     {
       "market_id": "0x06c51935c247e6c5eaba3e051efac56abdf53695aec7e3becf8254b9d23bb518",
