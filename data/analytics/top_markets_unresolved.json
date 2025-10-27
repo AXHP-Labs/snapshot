@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-10-26T10:32:23.457Z",
+    "generated_at": "2025-10-27T01:56:51.295Z",
     "total_unresolved_markets": 37
   },
   "data": [
@@ -8,9 +8,9 @@
       "market_id": "0xa6b6e2cd989dff593b38bb716dbc9c704bd4df057e38b238516f4e182fbf2e93",
       "question": "MetaMask launches token in 2025?",
       "category": "crypto",
-      "bet_amount_yes": 994.8807112069999,
+      "bet_amount_yes": 1016.9144112069998,
       "bet_amount_no": 236.38870000000003,
-      "total_bet": 1231.2694112069998
+      "total_bet": 1253.3031112069998
     },
     {
       "market_id": "0x32b40e39bc982ebb3ba53541cf7bb0d37208edc5545d74d32e1d38d6fe317ed3",
@@ -25,16 +25,24 @@
       "question": "Gold >$4,500/oz this month?",
       "category": "economics",
       "bet_amount_yes": 37.784892813,
-      "bet_amount_no": 553.5186113570002,
-      "total_bet": 591.3035041700001
+      "bet_amount_no": 571.4646113570002,
+      "total_bet": 609.2495041700001
     },
     {
       "market_id": "0x65707bade9e2e8ac9797c566605e5375bd6e3ace7e82f579ae44c11f7bcb1720",
       "question": "Fed cuts rates 50bps in October 2025?",
       "category": "economics",
       "bet_amount_yes": 8.973,
-      "bet_amount_no": 212.1535257120001,
-      "total_bet": 221.12652571200005
+      "bet_amount_no": 231.0965257120001,
+      "total_bet": 240.06952571200006
+    },
+    {
+      "market_id": "0xcbd5e8aeb4ceee745678325e52bfeb4772947877fc1fa4561ee03152d1af3bc5",
+      "question": "Real Madrid wins vs Barcelona?",
+      "category": "sports",
+      "bet_amount_yes": 160.517,
+      "bet_amount_no": 39.88,
+      "total_bet": 200.39700000000002
     },
     {
       "market_id": "0x4bce5e5581cbd9c8749ec7e15b9226f43d1706e91b1fd126fdb0f0d208a9cfb2",
@@ -43,14 +51,6 @@
       "bet_amount_yes": 155.63170000000002,
       "bet_amount_no": 0.7588486099999974,
       "total_bet": 156.39054861
-    },
-    {
-      "market_id": "0xcbd5e8aeb4ceee745678325e52bfeb4772947877fc1fa4561ee03152d1af3bc5",
-      "question": "Real Madrid wins vs Barcelona?",
-      "category": "sports",
-      "bet_amount_yes": 60.81700000000001,
-      "bet_amount_no": 39.88,
-      "total_bet": 100.69700000000002
     },
     {
       "market_id": "0x221fa0fb8d50036de7f83a75120632b1be72668e8f0b6dc5d253505ddba85dfd",
@@ -113,16 +113,16 @@
       "question": "Solana >$300 by 22 Nov?",
       "category": "crypto",
       "bet_amount_yes": 0,
-      "bet_amount_no": 32.80129999999999,
-      "total_bet": 32.80129999999999
+      "bet_amount_no": 32.44341688999999,
+      "total_bet": 32.44341688999999
     },
     {
       "market_id": "0x368deaf5b225cb32ba65b8b811d688d638e313f5cc3b44957ec834ceb909c640",
       "question": "U.S. national Ethereum reserve in 2025?",
       "category": "crypto",
       "bet_amount_yes": 1.2961,
-      "bet_amount_no": 30.308799999999998,
-      "total_bet": 31.604899999999997
+      "bet_amount_no": 30.1075055,
+      "total_bet": 31.403605499999998
     },
     {
       "market_id": "0xe9490e4ea3e29d8a169dd835e2f2d0c2f124181f315abc96472dad10ae3aa5f4",
@@ -205,6 +205,14 @@
       "total_bet": 10.37877
     },
     {
+      "market_id": "0x5771b02bfe48cc7c7868b0ae437cf6da26b323734dc41c1603f355034681d64b",
+      "question": "SUI >$3.5 by 20 Nov?",
+      "category": "crypto",
+      "bet_amount_yes": 5.483499999999999,
+      "bet_amount_no": 4.813343605,
+      "total_bet": 10.296843605000003
+    },
+    {
       "market_id": "0xd0258eeea8e21988beb2ccad32b2570fd9cd7db8ccd9d1597eec3ec8583c2614",
       "question": "U.S. national Bitcoin reserve in 2025?",
       "category": "crypto",
@@ -221,14 +229,6 @@
       "total_bet": 9.481470000000002
     },
     {
-      "market_id": "0x5771b02bfe48cc7c7868b0ae437cf6da26b323734dc41c1603f355034681d64b",
-      "question": "SUI >$3.5 by 20 Nov?",
-      "category": "crypto",
-      "bet_amount_yes": 3.4894999999999996,
-      "bet_amount_no": 4.813343605,
-      "total_bet": 8.302843605000003
-    },
-    {
       "market_id": "0x06c51935c247e6c5eaba3e051efac56abdf53695aec7e3becf8254b9d23bb518",
       "question": "U.S. government sells Bitcoin by 31 Dec 2025?",
       "category": "crypto",
@@ -237,20 +237,20 @@
       "total_bet": 6.580200000000001
     },
     {
-      "market_id": "0xf7fe785b8f440a35c777dfe1e1ae8525fb51a4e739fbbf4eddcb5b4722aa55f5",
-      "question": "$GOOG beats quarterly revenue?",
-      "category": "technology",
-      "bet_amount_yes": 2.5024699999999993,
-      "bet_amount_no": 3.988,
-      "total_bet": 6.490469999999999
-    },
-    {
       "market_id": "0xc95f1cef05ca02fa326bccc5abd1de40762a67edd9e9cbe3158022d051dbd7e2",
       "question": "$AAPL beats quarterly EPS?",
       "category": "technology",
       "bet_amount_yes": 3.988,
       "bet_amount_no": 2.5024699999999993,
       "total_bet": 6.490469999999999
+    },
+    {
+      "market_id": "0xf7fe785b8f440a35c777dfe1e1ae8525fb51a4e739fbbf4eddcb5b4722aa55f5",
+      "question": "$GOOG beats quarterly revenue?",
+      "category": "technology",
+      "bet_amount_yes": 2.425261447999999,
+      "bet_amount_no": 3.988,
+      "total_bet": 6.413261447999999
     },
     {
       "market_id": "0x1d6c1c71af2b636f2077456944bbcb0d9be01ba8a1a2ec1789b750d031d4b6b7",
