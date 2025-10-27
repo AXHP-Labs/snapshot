@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2025-10-27T01:56:51.266Z",
+    "generated_at": "2025-10-27T16:08:47.288Z",
     "date_range": {
       "from": "2025-08-20",
-      "to": "2025-10-26"
+      "to": "2025-10-27"
     },
-    "total_days": 66
+    "total_days": 67
   },
   "data": [
     {
@@ -811,6 +811,19 @@
       "resolved_markets": 0,
       "active_markets": 37,
       "categories": {}
+    },
+    {
+      "date": "2025-10-27",
+      "new_markets": 3,
+      "total_cumulative_markets": 85,
+      "resolved_markets": 0,
+      "active_markets": 40,
+      "categories": {
+        "crypto": {
+          "new": 3,
+          "resolved": 0
+        }
+      }
     }
   ]
 }

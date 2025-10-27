@@ -1,16 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2025-10-27T01:56:51.292Z",
-    "total_markets": 82
+    "generated_at": "2025-10-27T16:08:47.311Z",
+    "total_markets": 85
   },
   "data": [
     {
       "market_id": "0xa6b6e2cd989dff593b38bb716dbc9c704bd4df057e38b238516f4e182fbf2e93",
       "question": "MetaMask launches token in 2025?",
       "category": "crypto",
-      "bet_amount_yes": 1016.9144112069998,
+      "bet_amount_yes": 1016.9373422069998,
       "bet_amount_no": 236.38870000000003,
-      "total_bet": 1253.3031112069998,
+      "total_bet": 1253.3260422069998,
       "is_resolved": false
     },
     {

@@ -1,16 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2025-10-27T01:56:51.295Z",
-    "total_unresolved_markets": 37
+    "generated_at": "2025-10-27T16:08:47.312Z",
+    "total_unresolved_markets": 40
   },
   "data": [
     {
       "market_id": "0xa6b6e2cd989dff593b38bb716dbc9c704bd4df057e38b238516f4e182fbf2e93",
       "question": "MetaMask launches token in 2025?",
       "category": "crypto",
-      "bet_amount_yes": 1016.9144112069998,
+      "bet_amount_yes": 1016.9373422069998,
       "bet_amount_no": 236.38870000000003,
-      "total_bet": 1253.3031112069998
+      "total_bet": 1253.3260422069998
     },
     {
       "market_id": "0x32b40e39bc982ebb3ba53541cf7bb0d37208edc5545d74d32e1d38d6fe317ed3",
@@ -189,20 +189,20 @@
       "total_bet": 12.865512816
     },
     {
+      "market_id": "0x7da4605eb8d7971bf6339c01565a1c9df583c54cdb10e2158a02d670a25acbda",
+      "question": "$MSFT beats quarterly revenue?",
+      "category": "technology",
+      "bet_amount_yes": 8.38477,
+      "bet_amount_no": 3.988,
+      "total_bet": 12.37277
+    },
+    {
       "market_id": "0xc3d97e4b5307d90e2e3cd15229df2f69ce1e1a37446103961936412f7fb08730",
       "question": "$GOOG beats quarterly EPS?",
       "category": "technology",
       "bet_amount_yes": 6.769505594999998,
       "bet_amount_no": 5.09467,
       "total_bet": 11.864175594999997
-    },
-    {
-      "market_id": "0x7da4605eb8d7971bf6339c01565a1c9df583c54cdb10e2158a02d670a25acbda",
-      "question": "$MSFT beats quarterly revenue?",
-      "category": "technology",
-      "bet_amount_yes": 6.39077,
-      "bet_amount_no": 3.988,
-      "total_bet": 10.37877
     },
     {
       "market_id": "0x5771b02bfe48cc7c7868b0ae437cf6da26b323734dc41c1603f355034681d64b",
@@ -293,12 +293,36 @@
       "total_bet": 4.396770000000001
     },
     {
+      "market_id": "0x2cf122471422e0d616a66347fd68aca5a85cab9cdc231f937e841341045d1978",
+      "question": "Bitcoin closes >$113.4K by 29 Oct 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 0.997,
+      "bet_amount_no": 0,
+      "total_bet": 0.997
+    },
+    {
       "market_id": "0x34aa3bcceba9bade93e3bc5d07ff29a46c3d5f803c656f4e1c87c93ede161c16",
       "question": "Michael Saylor’s 'Strategy' buys more Bitcoin in September?",
       "category": "crypto",
       "bet_amount_yes": 0.1994,
       "bet_amount_no": 0.44865,
       "total_bet": 0.64805
+    },
+    {
+      "market_id": "0x5f0dd6c5ac5a00aa2c06c69aec808faaf340b60e2921ae46978df9e5b4109e05",
+      "question": "Ethereum closes >$4,044 by 29 Oct 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 0,
+      "bet_amount_no": 0,
+      "total_bet": 0
+    },
+    {
+      "market_id": "0x2bcc305b9ff527c0d60e33eb68c2eb32b3a9537723c310b12a49ee3202bc5626",
+      "question": "SUI closes >$2.55 by 29 Oct 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 0,
+      "bet_amount_no": 0,
+      "total_bet": 0
     }
   ]
 }

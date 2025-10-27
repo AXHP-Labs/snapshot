@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2025-10-27T01:56:51.281Z",
+    "generated_at": "2025-10-27T16:08:47.303Z",
     "date_range": {
       "from": "2025-08-20",
-      "to": "2025-10-26"
+      "to": "2025-10-27"
     },
-    "total_weeks": 10
+    "total_weeks": 11
   },
   "data": [
     {
@@ -315,6 +315,23 @@
         "sports": {
           "volume_sui": 200.39700000000002,
           "trades": 6
+        }
+      }
+    },
+    {
+      "week_start": "2025-10-27",
+      "week_end": "2025-11-02",
+      "total_volume_sui": 3.013931,
+      "total_trades": 3,
+      "unique_traders": 3,
+      "categories": {
+        "technology": {
+          "volume_sui": 1.994,
+          "trades": 1
+        },
+        "crypto": {
+          "volume_sui": 1.019931,
+          "trades": 2
         }
       }
     }
