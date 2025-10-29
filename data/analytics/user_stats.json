@@ -1,22 +1,22 @@
 {
   "metadata": {
-    "generated_at": "2025-10-27T16:08:47.313Z",
+    "generated_at": "2025-10-29T04:30:15.291Z",
     "total_users": 78
   },
   "data": [
     {
       "user": "0x26c25d11ac38064e727272797e5955c3e5f08dcc928f5d6bbb2491658eca3896",
-      "total_buy": 1966.52268,
+      "total_buy": 2265.6226799999995,
       "total_sell": 0,
       "total_redeem": 0,
-      "balance": 1966.52268
+      "balance": 2265.6226799999995
     },
     {
       "user": "0x17b91262eb977602d7f7959a645bf4e52827b94b40888ae326602804d8f03f5f",
-      "total_buy": 1392.9585499999994,
-      "total_sell": 182.638573552,
+      "total_buy": 1512.5985499999979,
+      "total_sell": 254.902388436,
       "total_redeem": 594.252162146,
-      "balance": 616.0678143019993
+      "balance": 663.4439994179979
     },
     {
       "user": "0xe69b40dd9938354e6b0db6119be13045a3b4d53cd575f1a135e3f7ce560fa998",
@@ -27,38 +27,38 @@
     },
     {
       "user": "0xbc9af842a51a91edc56fa494877eeeb9d067622441d97b09a851bd0eeda95d3d",
-      "total_buy": 823.3225999999985,
+      "total_buy": 926.0135999999986,
       "total_sell": 0,
       "total_redeem": 313.79178248499994,
-      "balance": 509.53081751499855
+      "balance": 612.2218175149987
     },
     {
       "user": "0xf662b0fa6746d08c6236f2c13033762630d6c09269a1c64ab2a0979063fd51de",
       "total_buy": 713.9517000000005,
       "total_sell": 0,
-      "total_redeem": 1217.906729514,
-      "balance": -503.95502951399953
+      "total_redeem": 1242.634373194,
+      "balance": -528.6826731939996
     },
     {
       "user": "0x2b97d4ebfdaf33665f8f5f6edab1df759f198ee1093e33f144e11fbac8c7ccfa",
-      "total_buy": 576.5152500000006,
+      "total_buy": 615.3982500000006,
       "total_sell": 0,
       "total_redeem": 152.024437035,
-      "balance": 424.4908129650006
+      "balance": 463.37381296500064
     },
     {
       "user": "0x1ed6af09b46823c217124bbf170eb405118708f2cbd24de957f3158b49980ba9",
       "total_buy": 559.3170000000001,
       "total_sell": 0,
-      "total_redeem": 12.114511317,
-      "balance": 547.2024886830001
+      "total_redeem": 65.39761901,
+      "balance": 493.91938099000015
     },
     {
       "user": "0x543b17dd33e241f47274db85fa7a8b9a52f8766b0b382825c27f3218cf95ca02",
-      "total_buy": 439.5773000000003,
+      "total_buy": 478.4603000000003,
       "total_sell": 0,
       "total_redeem": 197.080859205,
-      "balance": 242.49644079500032
+      "balance": 281.3794407950003
     },
     {
       "user": "0xe777856a926579e998b0c9642e76d754fca15a4c6f83643547c21c1ae6da9c46",
@@ -103,6 +103,13 @@
       "balance": 69.112358083
     },
     {
+      "user": "0xfd5cf18d1fa2520defa06006f1d9c12645aa5b0219b43d1c5819a4bebf3a1bfa",
+      "total_buy": 88.2345,
+      "total_sell": 49.047478425,
+      "total_redeem": 0,
+      "balance": 39.187021574999996
+    },
+    {
       "user": "0x874e29b26ccce743bb8b322d29ecbf6c337642aaaf56aeed860e76cdf7dd3c10",
       "total_buy": 88.1348,
       "total_sell": 0,
@@ -111,17 +118,17 @@
     },
     {
       "user": "0x7afd2906726498dd5395dc26ec563ce22aa502200c0fa3a69aa2d30f2b382027",
-      "total_buy": 79.07467217,
+      "total_buy": 81.06867217,
       "total_sell": 0,
       "total_redeem": 0,
-      "balance": 79.07467217
+      "balance": 81.06867217
     },
     {
-      "user": "0xfd5cf18d1fa2520defa06006f1d9c12645aa5b0219b43d1c5819a4bebf3a1bfa",
-      "total_buy": 76.2705,
-      "total_sell": 49.047478425,
-      "total_redeem": 0,
-      "balance": 27.223021574999997
+      "user": "0xbd945bee8b1c801b229456c42c70cb1729aae28827986384fb787e1b6e792392",
+      "total_buy": 73.200694285,
+      "total_sell": 0,
+      "total_redeem": 11.239958199,
+      "balance": 61.960736086
     },
     {
       "user": "0x14d7acd9c27fa4922897242b985122d4cae26aac33e6dffd4761a1ee91fbbe78",
@@ -136,13 +143,6 @@
       "total_sell": 0,
       "total_redeem": 83.73515762299999,
       "balance": -33.586057622999995
-    },
-    {
-      "user": "0xbd945bee8b1c801b229456c42c70cb1729aae28827986384fb787e1b6e792392",
-      "total_buy": 48.275694285,
-      "total_sell": 0,
-      "total_redeem": 11.239958199,
-      "balance": 37.035736086
     },
     {
       "user": "0x7f97dc4b3d82abf55067f7339f71e84f4f81055e2c9ac3482b6ca518f5e2594a",
@@ -454,10 +454,10 @@
     },
     {
       "user": "0x2388f9ab197a5423a8da397c8020992d56a0212e7cdb5c8b3ae715b637fca85c",
-      "total_buy": 0.7851045990000001,
+      "total_buy": 0.8389425990000001,
       "total_sell": 0,
       "total_redeem": 0,
-      "balance": 0.7851045990000001
+      "balance": 0.8389425990000001
     },
     {
       "user": "0x0a38e869e3be1e3ba92441f55ea8a0614a7e4321dae389a62b85d995b382cb23",
