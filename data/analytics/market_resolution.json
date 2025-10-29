@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-10-29T04:30:15.301Z",
+    "generated_at": "2025-10-29T15:54:54.003Z",
     "description": "Market creation and resolution time tracking"
   },
   "data": [
@@ -197,7 +197,7 @@
       "date": "2025-10-14",
       "markets_created": 0,
       "markets_resolved": 1,
-      "avg_resolution_time_hours": 48.2651575,
+      "avg_resolution_time_hours": 48.26515833333333,
       "success_rate_percentage": 0
     },
     {
@@ -211,28 +211,28 @@
       "date": "2025-10-16",
       "markets_created": 13,
       "markets_resolved": 1,
-      "avg_resolution_time_hours": 82.03842833333333,
+      "avg_resolution_time_hours": 82.03837277777778,
       "success_rate_percentage": 7.6923076923076925
     },
     {
       "date": "2025-10-18",
       "markets_created": 2,
       "markets_resolved": 1,
-      "avg_resolution_time_hours": 272.04286138888887,
+      "avg_resolution_time_hours": 272.0428591666667,
       "success_rate_percentage": 50
     },
     {
       "date": "2025-10-19",
       "markets_created": 0,
       "markets_resolved": 1,
-      "avg_resolution_time_hours": 297.0483752777778,
+      "avg_resolution_time_hours": 297.0502775,
       "success_rate_percentage": 0
     },
     {
       "date": "2025-10-21",
       "markets_created": 0,
       "markets_resolved": 1,
-      "avg_resolution_time_hours": 342.5751755555556,
+      "avg_resolution_time_hours": 342.5752008333333,
       "success_rate_percentage": 0
     },
     {
@@ -246,7 +246,7 @@
       "date": "2025-10-24",
       "markets_created": 0,
       "markets_resolved": 2,
-      "avg_resolution_time_hours": 192.91161347222223,
+      "avg_resolution_time_hours": 192.91162041666666,
       "success_rate_percentage": 0
     },
     {
@@ -260,7 +260,7 @@
       "date": "2025-10-27",
       "markets_created": 3,
       "markets_resolved": 1,
-      "avg_resolution_time_hours": 59.661321111111114,
+      "avg_resolution_time_hours": 59.66175722222222,
       "success_rate_percentage": 33.33333333333333
     }
   ]

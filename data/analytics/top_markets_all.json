@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-10-29T04:30:15.286Z",
+    "generated_at": "2025-10-29T15:54:53.996Z",
     "total_markets": 85
   },
   "data": [
@@ -9,8 +9,8 @@
       "question": "MetaMask launches token in 2025?",
       "category": "crypto",
       "bet_amount_yes": 1016.9373422069998,
-      "bet_amount_no": 317.14570000000003,
-      "total_bet": 1334.0830422069996,
+      "bet_amount_no": 382.94770000000017,
+      "total_bet": 1399.8850422069993,
       "is_resolved": false
     },
     {
@@ -18,8 +18,8 @@
       "question": "Bitcoin breakdown <$100K this month?",
       "category": "crypto",
       "bet_amount_yes": 156.13020000000003,
-      "bet_amount_no": 737.9794000000005,
-      "total_bet": 894.1096000000003,
+      "bet_amount_no": 746.9524000000005,
+      "total_bet": 903.0826000000003,
       "is_resolved": false
     },
     {
@@ -80,9 +80,9 @@
       "market_id": "0x65707bade9e2e8ac9797c566605e5375bd6e3ace7e82f579ae44c11f7bcb1720",
       "question": "Fed cuts rates 50bps in October 2025?",
       "category": "economics",
-      "bet_amount_yes": 8.973,
-      "bet_amount_no": 227.4511787040001,
-      "total_bet": 236.42417870400007,
+      "bet_amount_yes": 12.961,
+      "bet_amount_no": 229.04637870400012,
+      "total_bet": 242.00737870400008,
       "is_resolved": false
     },
     {
@@ -170,9 +170,9 @@
       "market_id": "0x2bcc305b9ff527c0d60e33eb68c2eb32b3a9537723c310b12a49ee3202bc5626",
       "question": "SUI closes >$2.55 by 29 Oct 2025?",
       "category": "crypto",
-      "bet_amount_yes": 1.5687490130000015,
+      "bet_amount_yes": 4.559749013000001,
       "bet_amount_no": 114.655,
-      "total_bet": 116.223749013,
+      "total_bet": 119.214749013,
       "is_resolved": false
     },
     {
@@ -188,9 +188,18 @@
       "market_id": "0x2cf122471422e0d616a66347fd68aca5a85cab9cdc231f937e841341045d1978",
       "question": "Bitcoin closes >$113.4K by 29 Oct 2025?",
       "category": "crypto",
-      "bet_amount_yes": 0.997,
+      "bet_amount_yes": 3.988,
       "bet_amount_no": 99.7,
-      "total_bet": 100.697,
+      "total_bet": 103.688,
+      "is_resolved": false
+    },
+    {
+      "market_id": "0x5f0dd6c5ac5a00aa2c06c69aec808faaf340b60e2921ae46978df9e5b4109e05",
+      "question": "Ethereum closes >$4,044 by 29 Oct 2025?",
+      "category": "crypto",
+      "bet_amount_yes": -0.6280266520000026,
+      "bet_amount_no": 101.694,
+      "total_bet": 101.065973348,
       "is_resolved": false
     },
     {
@@ -210,15 +219,6 @@
       "bet_amount_no": 30.408500000000004,
       "total_bet": 98.90239999999999,
       "is_resolved": true
-    },
-    {
-      "market_id": "0x5f0dd6c5ac5a00aa2c06c69aec808faaf340b60e2921ae46978df9e5b4109e05",
-      "question": "Ethereum closes >$4,044 by 29 Oct 2025?",
-      "category": "crypto",
-      "bet_amount_yes": -3.6222270220000006,
-      "bet_amount_no": 101.694,
-      "total_bet": 98.071772978,
-      "is_resolved": false
     },
     {
       "market_id": "0x769f047a5f38643db8d01c66a13d5b77ebcc0867aafd2bd154a6c603c29487aa",
