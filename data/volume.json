@@ -1,13 +1,13 @@
 {
-  "total_volume": 10080804131524,
-  "total_volume_sui": "10080.8041",
-  "total_volume_usd": "25101.20",
+  "total_volume": 10205528831524,
+  "total_volume_sui": "10205.5288",
+  "total_volume_usd": "25615.88",
   "total_winnings": 2495610654900,
   "total_winnings_sui": "2495.6107",
-  "total_winnings_usd": "6214.07",
+  "total_winnings_usd": "6263.98",
   "unique_traders": 101,
   "unique_winners": 23,
-  "sui_price_usd": "2.4900",
-  "last_updated": 1761753175808,
-  "last_updated_date": "2025-10-29T15:52:55.808Z"
+  "sui_price_usd": "2.5100",
+  "last_updated": 1761783789254,
+  "last_updated_date": "2025-10-30T00:23:09.254Z"
 }
