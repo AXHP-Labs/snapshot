@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-10-30T00:23:48.879Z",
+    "generated_at": "2025-10-31T13:34:14.612Z",
     "description": "Market creation and resolution time tracking"
   },
   "data": [
@@ -106,28 +106,28 @@
       "date": "2025-09-10",
       "markets_created": 0,
       "markets_resolved": 3,
-      "avg_resolution_time_hours": 328.7620848148148,
+      "avg_resolution_time_hours": 326.74255324074073,
       "success_rate_percentage": 0
     },
     {
       "date": "2025-09-18",
       "markets_created": 0,
       "markets_resolved": 2,
-      "avg_resolution_time_hours": 419.11781916666666,
+      "avg_resolution_time_hours": 419.1178180555556,
       "success_rate_percentage": 0
     },
     {
       "date": "2025-09-21",
       "markets_created": 0,
       "markets_resolved": 2,
-      "avg_resolution_time_hours": 388.6241230555556,
+      "avg_resolution_time_hours": 388.6241243055556,
       "success_rate_percentage": 0
     },
     {
       "date": "2025-09-23",
       "markets_created": 0,
       "markets_resolved": 2,
-      "avg_resolution_time_hours": 534.9241873611111,
+      "avg_resolution_time_hours": 534.9241870833333,
       "success_rate_percentage": 0
     },
     {
@@ -141,7 +141,7 @@
       "date": "2025-10-02",
       "markets_created": 0,
       "markets_resolved": 7,
-      "avg_resolution_time_hours": 817.929365873016,
+      "avg_resolution_time_hours": 817.9293651190476,
       "success_rate_percentage": 0
     },
     {
@@ -162,14 +162,14 @@
       "date": "2025-10-08",
       "markets_created": 0,
       "markets_resolved": 6,
-      "avg_resolution_time_hours": 1029.3412491666666,
+      "avg_resolution_time_hours": 1029.34125,
       "success_rate_percentage": 0
     },
     {
       "date": "2025-10-10",
       "markets_created": 0,
       "markets_resolved": 7,
-      "avg_resolution_time_hours": 1010.1930273809525,
+      "avg_resolution_time_hours": 1010.1930335714286,
       "success_rate_percentage": 0
     },
     {
@@ -197,7 +197,7 @@
       "date": "2025-10-14",
       "markets_created": 0,
       "markets_resolved": 1,
-      "avg_resolution_time_hours": 48.26514972222222,
+      "avg_resolution_time_hours": 48.26515055555556,
       "success_rate_percentage": 0
     },
     {
@@ -211,28 +211,28 @@
       "date": "2025-10-16",
       "markets_created": 13,
       "markets_resolved": 1,
-      "avg_resolution_time_hours": 82.03842555555556,
+      "avg_resolution_time_hours": 82.03837,
       "success_rate_percentage": 7.6923076923076925
     },
     {
       "date": "2025-10-18",
       "markets_created": 2,
       "markets_resolved": 1,
-      "avg_resolution_time_hours": 272.0428638888889,
+      "avg_resolution_time_hours": 272.0428616666667,
       "success_rate_percentage": 50
     },
     {
       "date": "2025-10-19",
       "markets_created": 0,
       "markets_resolved": 1,
-      "avg_resolution_time_hours": 297.04837694444444,
+      "avg_resolution_time_hours": 297.05027916666666,
       "success_rate_percentage": 0
     },
     {
       "date": "2025-10-21",
       "markets_created": 0,
       "markets_resolved": 1,
-      "avg_resolution_time_hours": 342.5751769444444,
+      "avg_resolution_time_hours": 342.57520222222223,
       "success_rate_percentage": 0
     },
     {
@@ -246,7 +246,7 @@
       "date": "2025-10-24",
       "markets_created": 0,
       "markets_resolved": 2,
-      "avg_resolution_time_hours": 192.91161291666668,
+      "avg_resolution_time_hours": 192.91161986111112,
       "success_rate_percentage": 0
     },
     {
@@ -260,8 +260,22 @@
       "date": "2025-10-27",
       "markets_created": 3,
       "markets_resolved": 1,
-      "avg_resolution_time_hours": 59.66130638888889,
+      "avg_resolution_time_hours": 59.6617425,
       "success_rate_percentage": 33.33333333333333
+    },
+    {
+      "date": "2025-10-30",
+      "markets_created": 3,
+      "markets_resolved": 4,
+      "avg_resolution_time_hours": 412.6282880555556,
+      "success_rate_percentage": 133.33333333333331
+    },
+    {
+      "date": "2025-10-31",
+      "markets_created": 0,
+      "markets_resolved": 9,
+      "avg_resolution_time_hours": 303.918102808642,
+      "success_rate_percentage": 0
     }
   ]
 }

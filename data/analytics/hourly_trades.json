@@ -1,29 +1,29 @@
 {
   "metadata": {
-    "generated_at": "2025-10-30T00:23:48.873Z",
+    "generated_at": "2025-10-31T13:34:14.608Z",
     "description": "Trading activity aggregated by hour of day (UTC)"
   },
   "data": [
     {
       "hour": 0,
-      "trades": 31,
-      "volume_sui": 128.9121,
-      "whale_trades": 3,
-      "retail_trades": 28
+      "trades": 43,
+      "volume_sui": 502.3883000000001,
+      "whale_trades": 10,
+      "retail_trades": 33
     },
     {
       "hour": 1,
-      "trades": 85,
-      "volume_sui": 390.6246000000002,
-      "whale_trades": 10,
-      "retail_trades": 75
+      "trades": 95,
+      "volume_sui": 526.2166000000003,
+      "whale_trades": 11,
+      "retail_trades": 84
     },
     {
       "hour": 2,
-      "trades": 92,
-      "volume_sui": 371.68160000000034,
+      "trades": 93,
+      "volume_sui": 374.67260000000033,
       "whale_trades": 5,
-      "retail_trades": 87
+      "retail_trades": 88
     },
     {
       "hour": 3,
@@ -34,17 +34,17 @@
     },
     {
       "hour": 4,
-      "trades": 70,
-      "volume_sui": 710.3126500000002,
+      "trades": 73,
+      "volume_sui": 710.5220200000001,
       "whale_trades": 10,
-      "retail_trades": 60
+      "retail_trades": 63
     },
     {
       "hour": 5,
-      "trades": 95,
-      "volume_sui": 549.3002407000006,
-      "whale_trades": 12,
-      "retail_trades": 83
+      "trades": 101,
+      "volume_sui": 631.0542407000006,
+      "whale_trades": 15,
+      "retail_trades": 86
     },
     {
       "hour": 6,
@@ -62,9 +62,9 @@
     },
     {
       "hour": 8,
-      "trades": 39,
-      "volume_sui": 95.41289999999996,
-      "whale_trades": 0,
+      "trades": 54,
+      "volume_sui": 1590.9129000000003,
+      "whale_trades": 15,
       "retail_trades": 39
     },
     {
@@ -97,10 +97,10 @@
     },
     {
       "hour": 13,
-      "trades": 168,
-      "volume_sui": 593.5150331920005,
+      "trades": 170,
+      "volume_sui": 605.4790331920005,
       "whale_trades": 6,
-      "retail_trades": 162
+      "retail_trades": 164
     },
     {
       "hour": 14,
@@ -118,24 +118,24 @@
     },
     {
       "hour": 16,
-      "trades": 172,
-      "volume_sui": 461.2122000000005,
-      "whale_trades": 9,
+      "trades": 173,
+      "volume_sui": 476.1672000000005,
+      "whale_trades": 10,
       "retail_trades": 163
     },
     {
       "hour": 17,
-      "trades": 185,
-      "volume_sui": 613.7242442850004,
+      "trades": 187,
+      "volume_sui": 614.8209442850003,
       "whale_trades": 10,
-      "retail_trades": 175
+      "retail_trades": 177
     },
     {
       "hour": 18,
-      "trades": 64,
-      "volume_sui": 341.0400014000004,
+      "trades": 65,
+      "volume_sui": 342.0370014000004,
       "whale_trades": 6,
-      "retail_trades": 58
+      "retail_trades": 59
     },
     {
       "hour": 19,
@@ -146,31 +146,31 @@
     },
     {
       "hour": 20,
-      "trades": 102,
-      "volume_sui": 455.5293000000003,
-      "whale_trades": 9,
-      "retail_trades": 93
+      "trades": 105,
+      "volume_sui": 515.3493000000003,
+      "whale_trades": 10,
+      "retail_trades": 95
     },
     {
       "hour": 21,
-      "trades": 234,
-      "volume_sui": 162.61069999999984,
+      "trades": 238,
+      "volume_sui": 181.6533999999999,
       "whale_trades": 3,
-      "retail_trades": 231
+      "retail_trades": 235
     },
     {
       "hour": 22,
-      "trades": 24,
-      "volume_sui": 453.23620000000005,
-      "whale_trades": 8,
-      "retail_trades": 16
+      "trades": 28,
+      "volume_sui": 547.9512000000001,
+      "whale_trades": 10,
+      "retail_trades": 18
     },
     {
       "hour": 23,
-      "trades": 37,
-      "volume_sui": 591.7194999999999,
-      "whale_trades": 7,
-      "retail_trades": 30
+      "trades": 43,
+      "volume_sui": 1006.1724,
+      "whale_trades": 10,
+      "retail_trades": 33
     }
   ]
 }
