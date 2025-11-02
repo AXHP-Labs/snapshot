@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-11-02T03:27:16.863Z",
+    "generated_at": "2025-11-02T11:58:55.759Z",
     "description": "Trading activity aggregated by hour of day (UTC)"
   },
   "data": [
@@ -27,10 +27,10 @@
     },
     {
       "hour": 3,
-      "trades": 128,
-      "volume_sui": 317.444800000001,
-      "whale_trades": 4,
-      "retail_trades": 124
+      "trades": 133,
+      "volume_sui": 736.184800000001,
+      "whale_trades": 8,
+      "retail_trades": 125
     },
     {
       "hour": 4,
@@ -48,9 +48,9 @@
     },
     {
       "hour": 6,
-      "trades": 114,
-      "volume_sui": 180.08810999999992,
-      "whale_trades": 2,
+      "trades": 117,
+      "volume_sui": 500.12510999999995,
+      "whale_trades": 5,
       "retail_trades": 112
     },
     {
@@ -76,17 +76,17 @@
     },
     {
       "hour": 10,
-      "trades": 54,
-      "volume_sui": 223.02890000000033,
-      "whale_trades": 2,
+      "trades": 62,
+      "volume_sui": 1020.6289000000006,
+      "whale_trades": 10,
       "retail_trades": 52
     },
     {
       "hour": 11,
-      "trades": 65,
-      "volume_sui": 106.68896999999996,
+      "trades": 66,
+      "volume_sui": 106.78866999999995,
       "whale_trades": 0,
-      "retail_trades": 65
+      "retail_trades": 66
     },
     {
       "hour": 12,
@@ -139,17 +139,17 @@
     },
     {
       "hour": 19,
-      "trades": 131,
-      "volume_sui": 218.45527216999994,
+      "trades": 124,
+      "volume_sui": 211.97477216999994,
       "whale_trades": 6,
-      "retail_trades": 125
+      "retail_trades": 118
     },
     {
       "hour": 20,
-      "trades": 100,
-      "volume_sui": 513.9535000000003,
+      "trades": 94,
+      "volume_sui": 508.4700000000004,
       "whale_trades": 10,
-      "retail_trades": 90
+      "retail_trades": 84
     },
     {
       "hour": 21,
@@ -160,10 +160,10 @@
     },
     {
       "hour": 22,
-      "trades": 27,
-      "volume_sui": 543.8635,
+      "trades": 40,
+      "volume_sui": 555.8275000000001,
       "whale_trades": 10,
-      "retail_trades": 17
+      "retail_trades": 30
     },
     {
       "hour": 23,

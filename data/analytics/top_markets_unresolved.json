@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-11-02T03:27:16.860Z",
+    "generated_at": "2025-11-02T11:58:55.749Z",
     "total_unresolved_markets": 31
   },
   "data": [
@@ -13,6 +13,14 @@
       "total_bet": 1230.7755914239992
     },
     {
+      "market_id": "0x9b28861a20256005707e3543d05e46cdc37aed04a670b8e3e9be48431f9b1344",
+      "question": "Bitcoin reach >$133K in 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 128.91210000000004,
+      "bet_amount_no": 244.36470000000003,
+      "total_bet": 373.27680000000004
+    },
+    {
       "market_id": "0x641f655cf8f749a7895c95199036efbf4c8945b1f444f2fb5f289246369d80ab",
       "question": "100% tariff on China in effect by 1 Nov 2025?",
       "category": "economics",
@@ -21,12 +29,44 @@
       "total_bet": 233.36432143700003
     },
     {
-      "market_id": "0x9b28861a20256005707e3543d05e46cdc37aed04a670b8e3e9be48431f9b1344",
-      "question": "Bitcoin reach >$133K in 2025?",
+      "market_id": "0x5771b02bfe48cc7c7868b0ae437cf6da26b323734dc41c1603f355034681d64b",
+      "question": "SUI >$3.5 by 20 Nov?",
       "category": "crypto",
-      "bet_amount_yes": 128.91210000000004,
-      "bet_amount_no": 30.009700000000002,
-      "total_bet": 158.92180000000005
+      "bet_amount_yes": 105.3829,
+      "bet_amount_no": 126.447343605,
+      "total_bet": 231.83024360500002
+    },
+    {
+      "market_id": "0xb565bc34ac1e005a9a209842e284b9bd8ec41e80353b5e1c2eeeae61ab37fb65",
+      "question": "SUI hits previous ATH in 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 49.903838,
+      "bet_amount_no": 170.48700000000002,
+      "total_bet": 220.390838
+    },
+    {
+      "market_id": "0xd2810b675fe96e067f8d3551d1ad4e2af7fa6d9be6d3ff07cb6287b0942a40b0",
+      "question": "$NVDA beats quarterly EPS?",
+      "category": "other",
+      "bet_amount_yes": 2.0937,
+      "bet_amount_no": 205.89047,
+      "total_bet": 207.98417
+    },
+    {
+      "market_id": "0x221fa0fb8d50036de7f83a75120632b1be72668e8f0b6dc5d253505ddba85dfd",
+      "question": "DOGE hits previous ATH in 2025?",
+      "category": "crypto",
+      "bet_amount_yes": 0,
+      "bet_amount_no": 204.4847,
+      "total_bet": 204.4847
+    },
+    {
+      "market_id": "0x544a876333f947b324377894116abfc0a9ac075f5ac4f7bed600462bb675321e",
+      "question": "SpaceX moves any Bitcoin in November?",
+      "category": "crypto",
+      "bet_amount_yes": 99.7,
+      "bet_amount_no": 100.697,
+      "total_bet": 200.397
     },
     {
       "market_id": "0xc79557b2d3789a07fd005a3cd5ecaf36236cc9303dbbf83e3c4356b88c9673c7",
@@ -43,22 +83,6 @@
       "bet_amount_yes": 100.9961,
       "bet_amount_no": 30.1075055,
       "total_bet": 131.10360550000001
-    },
-    {
-      "market_id": "0x5771b02bfe48cc7c7868b0ae437cf6da26b323734dc41c1603f355034681d64b",
-      "question": "SUI >$3.5 by 20 Nov?",
-      "category": "crypto",
-      "bet_amount_yes": 105.3829,
-      "bet_amount_no": 16.777343605,
-      "total_bet": 122.16024360499999
-    },
-    {
-      "market_id": "0xb565bc34ac1e005a9a209842e284b9bd8ec41e80353b5e1c2eeeae61ab37fb65",
-      "question": "SUI hits previous ATH in 2025?",
-      "category": "crypto",
-      "bet_amount_yes": 49.903838,
-      "bet_amount_no": 65.802,
-      "total_bet": 115.705838
     },
     {
       "market_id": "0xd0258eeea8e21988beb2ccad32b2570fd9cd7db8ccd9d1597eec3ec8583c2614",
@@ -101,20 +125,60 @@
       "total_bet": 104.4856
     },
     {
-      "market_id": "0xd2810b675fe96e067f8d3551d1ad4e2af7fa6d9be6d3ff07cb6287b0942a40b0",
-      "question": "$NVDA beats quarterly EPS?",
-      "category": "other",
-      "bet_amount_yes": 2.0937,
-      "bet_amount_no": 102.20247,
-      "total_bet": 104.29617
+      "market_id": "0x575a00e127b43808cd710d84b62ba0ba2a045a2d037ffb6321d7bb67900127f6",
+      "question": "SUI outperforms HYPE in 3D candle gains (31 Oct–2 Nov)?",
+      "category": "crypto",
+      "bet_amount_yes": 101.8934,
+      "bet_amount_no": 1.994,
+      "total_bet": 103.8874
     },
     {
-      "market_id": "0x221fa0fb8d50036de7f83a75120632b1be72668e8f0b6dc5d253505ddba85dfd",
-      "question": "DOGE hits previous ATH in 2025?",
+      "market_id": "0x99e839d30ef388666d215243d7d3a771f50d37940a6a10eb8bc2da33e03f55f9",
+      "question": "SUI outperforms BTC in 3D candle gains (31 Oct–2 Nov)?",
+      "category": "crypto",
+      "bet_amount_yes": 99.7,
+      "bet_amount_no": 0,
+      "total_bet": 99.7
+    },
+    {
+      "market_id": "0x9ba5bc25c75846aaad64f46d9a794ffe88745e5ade760c3ded4f3151c87b7a56",
+      "question": "SUI outperforms DOGE in 3D candle gains (31 Oct–2 Nov)?",
+      "category": "crypto",
+      "bet_amount_yes": 99.7,
+      "bet_amount_no": 0,
+      "total_bet": 99.7
+    },
+    {
+      "market_id": "0x291c22017300b0c176d75b7891274d77f398cd68724af4431ef496dea282cb98",
+      "question": "$DEEP gains ≥15% in a single candle this November?",
+      "category": "crypto",
+      "bet_amount_yes": 99.7,
+      "bet_amount_no": 0,
+      "total_bet": 99.7
+    },
+    {
+      "market_id": "0x1ba1018c9d688347240054edbc021297f39760080e11e15537e083e2faca1ad2",
+      "question": "$WAL gains ≥15% in a single candle this November?",
+      "category": "crypto",
+      "bet_amount_yes": 99.7,
+      "bet_amount_no": 0,
+      "total_bet": 99.7
+    },
+    {
+      "market_id": "0x5ebe487b84eae2b9bdd4544901950b1dbcac14e4620c2e8530635af57f65276b",
+      "question": "Bitcoin breaks $117K in November?",
       "category": "crypto",
       "bet_amount_yes": 0,
-      "bet_amount_no": 99.7997,
-      "total_bet": 99.7997
+      "bet_amount_no": 99.7,
+      "total_bet": 99.7
+    },
+    {
+      "market_id": "0x756b5060a414e5319342c11683ca16fae605c22ad96c86828301372fdd99f61a",
+      "question": "Strategy holds >660K BTC in November?",
+      "category": "crypto",
+      "bet_amount_yes": 99.7,
+      "bet_amount_no": 0,
+      "total_bet": 99.7
     },
     {
       "market_id": "0x2cc3b7334b126e1997e6702f74781c1bf013a23e40e439364047d85b4e0b5959",
@@ -128,9 +192,9 @@
       "market_id": "0xe9490e4ea3e29d8a169dd835e2f2d0c2f124181f315abc96472dad10ae3aa5f4",
       "question": "$NVDA beats quarterly revenue?",
       "category": "technology",
-      "bet_amount_yes": 26.031670000000002,
+      "bet_amount_yes": 27.02867,
       "bet_amount_no": 0,
-      "total_bet": 26.031670000000002
+      "total_bet": 27.02867
     },
     {
       "market_id": "0x7802527e47a9f21cd6ea1cec02777dfa30315d449a9dc848ba33cda66e901136",
@@ -139,14 +203,6 @@
       "bet_amount_yes": 1.6948999999999999,
       "bet_amount_no": 10.878736684,
       "total_bet": 12.57363668399999
-    },
-    {
-      "market_id": "0x575a00e127b43808cd710d84b62ba0ba2a045a2d037ffb6321d7bb67900127f6",
-      "question": "SUI outperforms HYPE in 3D candle gains (31 Oct–2 Nov)?",
-      "category": "crypto",
-      "bet_amount_yes": 2.0937,
-      "bet_amount_no": 1.994,
-      "total_bet": 4.0877
     },
     {
       "market_id": "0x34aa3bcceba9bade93e3bc5d07ff29a46c3d5f803c656f4e1c87c93ede161c16",
@@ -173,64 +229,8 @@
       "total_bet": 0.0997
     },
     {
-      "market_id": "0x99e839d30ef388666d215243d7d3a771f50d37940a6a10eb8bc2da33e03f55f9",
-      "question": "SUI outperforms BTC in 3D candle gains (31 Oct–2 Nov)?",
-      "category": "crypto",
-      "bet_amount_yes": 0,
-      "bet_amount_no": 0,
-      "total_bet": 0
-    },
-    {
-      "market_id": "0x9ba5bc25c75846aaad64f46d9a794ffe88745e5ade760c3ded4f3151c87b7a56",
-      "question": "SUI outperforms DOGE in 3D candle gains (31 Oct–2 Nov)?",
-      "category": "crypto",
-      "bet_amount_yes": 0,
-      "bet_amount_no": 0,
-      "total_bet": 0
-    },
-    {
       "market_id": "0x01109764c4800ce42c6bb44e0719a039049bfdd41cc71d532d16cd076b0de497",
       "question": "$DEEP gains ≥15% in a single candle this November?",
-      "category": "crypto",
-      "bet_amount_yes": 0,
-      "bet_amount_no": 0,
-      "total_bet": 0
-    },
-    {
-      "market_id": "0x291c22017300b0c176d75b7891274d77f398cd68724af4431ef496dea282cb98",
-      "question": "$DEEP gains ≥15% in a single candle this November?",
-      "category": "crypto",
-      "bet_amount_yes": 0,
-      "bet_amount_no": 0,
-      "total_bet": 0
-    },
-    {
-      "market_id": "0x1ba1018c9d688347240054edbc021297f39760080e11e15537e083e2faca1ad2",
-      "question": "$WAL gains ≥15% in a single candle this November?",
-      "category": "crypto",
-      "bet_amount_yes": 0,
-      "bet_amount_no": 0,
-      "total_bet": 0
-    },
-    {
-      "market_id": "0x5ebe487b84eae2b9bdd4544901950b1dbcac14e4620c2e8530635af57f65276b",
-      "question": "Bitcoin breaks $117K in November?",
-      "category": "crypto",
-      "bet_amount_yes": 0,
-      "bet_amount_no": 0,
-      "total_bet": 0
-    },
-    {
-      "market_id": "0x544a876333f947b324377894116abfc0a9ac075f5ac4f7bed600462bb675321e",
-      "question": "SpaceX moves any Bitcoin in November?",
-      "category": "crypto",
-      "bet_amount_yes": 0,
-      "bet_amount_no": 0,
-      "total_bet": 0
-    },
-    {
-      "market_id": "0x756b5060a414e5319342c11683ca16fae605c22ad96c86828301372fdd99f61a",
-      "question": "Strategy holds >660K BTC in November?",
       "category": "crypto",
       "bet_amount_yes": 0,
       "bet_amount_no": 0,
