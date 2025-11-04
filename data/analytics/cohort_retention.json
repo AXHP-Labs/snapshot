@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-11-02T11:58:55.764Z",
+    "generated_at": "2025-11-04T04:34:51.467Z",
     "description": "User cohort retention analysis by week"
   },
   "data": [
@@ -65,14 +65,14 @@
       "week_1_active": 2,
       "week_2_active": 1,
       "week_3_active": 1,
-      "week_4_active": 0
+      "week_4_active": 1
     },
     {
       "cohort_week": "2025-10-13",
       "cohort_size": 8,
       "week_0_active": 8,
       "week_1_active": 4,
-      "week_2_active": 5,
+      "week_2_active": 6,
       "week_3_active": 0,
       "week_4_active": 0
     },
@@ -87,8 +87,17 @@
     },
     {
       "cohort_week": "2025-10-27",
-      "cohort_size": 5,
-      "week_0_active": 5,
+      "cohort_size": 11,
+      "week_0_active": 11,
+      "week_1_active": 1,
+      "week_2_active": 0,
+      "week_3_active": 0,
+      "week_4_active": 0
+    },
+    {
+      "cohort_week": "2025-11-03",
+      "cohort_size": 3,
+      "week_0_active": 3,
       "week_1_active": 0,
       "week_2_active": 0,
       "week_3_active": 0,
