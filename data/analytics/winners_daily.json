@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2025-11-04T04:34:51.433Z",
+    "generated_at": "2025-11-06T16:20:48.680Z",
     "date_range": {
       "from": "2025-08-20",
-      "to": "2025-11-04"
+      "to": "2025-11-06"
     },
-    "total_days": 75
+    "total_days": 77
   },
   "data": [
     {
@@ -430,11 +430,23 @@
     },
     {
       "date": "2025-11-04",
-      "total_winners": 2,
-      "total_winnings_sui": 73.391893208,
-      "badges_created": 2,
+      "total_winners": 3,
+      "total_winnings_sui": 90.345967713,
+      "badges_created": 3,
       "rarity_distribution": {
         "common": 1,
+        "rare": 1,
+        "epic": 1,
+        "legendary": 0
+      }
+    },
+    {
+      "date": "2025-11-06",
+      "total_winners": 1,
+      "total_winnings_sui": 79.231827483,
+      "badges_created": 1,
+      "rarity_distribution": {
+        "common": 0,
         "rare": 0,
         "epic": 1,
         "legendary": 0
