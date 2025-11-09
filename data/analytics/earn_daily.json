@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2025-11-06T16:20:48.680Z",
+    "generated_at": "2025-11-09T16:33:39.398Z",
     "date_range": {
       "from": "2025-08-20",
-      "to": "2025-11-06"
+      "to": "2025-11-09"
     },
-    "total_days": 77
+    "total_days": 80
   },
   "data": [
     {
@@ -542,8 +542,29 @@
     },
     {
       "date": "2025-11-06",
-      "platform_fees_sui": 0.5620686720000001,
-      "lp_fees_sui": 0.15549304500000008,
+      "platform_fees_sui": 0.8547081119999989,
+      "lp_fees_sui": 0.22865290499999977,
+      "oracle_rewards_sui": 0,
+      "dao_rewards_sui": 0
+    },
+    {
+      "date": "2025-11-07",
+      "platform_fees_sui": 1.2879766055998774,
+      "lp_fees_sui": 0.32349483839996934,
+      "oracle_rewards_sui": 0,
+      "dao_rewards_sui": 0
+    },
+    {
+      "date": "2025-11-08",
+      "platform_fees_sui": 2.349425998399999,
+      "lp_fees_sui": 1.0261006625999998,
+      "oracle_rewards_sui": 0,
+      "dao_rewards_sui": 0
+    },
+    {
+      "date": "2025-11-09",
+      "platform_fees_sui": 0.0049075583999999995,
+      "lp_fees_sui": 0.0013793375999999998,
       "oracle_rewards_sui": 0,
       "dao_rewards_sui": 0
     }

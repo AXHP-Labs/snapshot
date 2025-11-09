@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-11-06T16:20:48.717Z",
+    "generated_at": "2025-11-09T16:33:39.429Z",
     "description": "User cohort retention analysis by week"
   },
   "data": [
@@ -96,8 +96,8 @@
     },
     {
       "cohort_week": "2025-11-03",
-      "cohort_size": 208,
-      "week_0_active": 208,
+      "cohort_size": 213,
+      "week_0_active": 213,
       "week_1_active": 0,
       "week_2_active": 0,
       "week_3_active": 0,

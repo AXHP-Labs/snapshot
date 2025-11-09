@@ -1639,10 +1639,10 @@
       "winningAmount": 408082618,
       "timestamp": 1756848122366,
       "rarity": "common",
-      "username": null,
-      "display_name": null,
-      "avatar_url": null,
-      "profile_exists": false
+      "username": "myria",
+      "display_name": "myria",
+      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Garfield",
+      "profile_exists": true
     },
     {
       "badgeId": "0x922b0d454b9fb2e2bed64171e0334e900082dacfeb90fe23d0b656b0164a6e1b",
@@ -1651,10 +1651,10 @@
       "winningAmount": 33735287008,
       "timestamp": 1756848122366,
       "rarity": "rare",
-      "username": null,
-      "display_name": null,
-      "avatar_url": null,
-      "profile_exists": false
+      "username": "nakamura",
+      "display_name": "ren",
+      "avatar_url": "https://github.com/AXHP-Labs/suisight/blob/main/img/PP/Nakamura.jpg?raw=true",
+      "profile_exists": true
     },
     {
       "badgeId": "0xbacb30d6d75c7b1d6d908d69d0c7ebeb0ccb510b2ab220070a74270ec67e43d0",
@@ -1663,10 +1663,10 @@
       "winningAmount": 104021419990,
       "timestamp": 1756848122366,
       "rarity": "legendary",
-      "username": null,
-      "display_name": null,
-      "avatar_url": null,
-      "profile_exists": false
+      "username": "luffy",
+      "display_name": "Monkey D. Luffy",
+      "avatar_url": "https://github.com/AXHP-Labs/suisight/blob/main/img/PP/Luffy.jpg?raw=true",
+      "profile_exists": true
     },
     {
       "badgeId": "0xd2827dcdb033045f47ae5c155660f017c245c515915a7c786786aa312593cce5",
@@ -1675,10 +1675,10 @@
       "winningAmount": 57146340344,
       "timestamp": 1756848122366,
       "rarity": "epic",
-      "username": null,
-      "display_name": null,
-      "avatar_url": null,
-      "profile_exists": false
+      "username": "jonas",
+      "display_name": "Jonas Klein",
+      "avatar_url": "https://raw.githubusercontent.com/AXHP-Labs/suisight/refs/heads/main/img/CloneX%20%2315565.png",
+      "profile_exists": true
     },
     {
       "badgeId": "0x6f7a8182b1d7fe0357624208f3465033a6d476b39cf62b4001c7e4cf9f926296",
@@ -1687,10 +1687,10 @@
       "winningAmount": 3301936516,
       "timestamp": 1756761721778,
       "rarity": "common",
-      "username": null,
-      "display_name": null,
-      "avatar_url": null,
-      "profile_exists": false
+      "username": "0xford",
+      "display_name": "0xford",
+      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rocky",
+      "profile_exists": true
     },
     {
       "badgeId": "0x7d491ce57517ba25e4d38d98a8d87e8542bf96ab3c8857be5febad66a90cd1e0",
@@ -1699,10 +1699,10 @@
       "winningAmount": 3471344862,
       "timestamp": 1756761721778,
       "rarity": "common",
-      "username": null,
-      "display_name": null,
-      "avatar_url": null,
-      "profile_exists": false
+      "username": "0xford",
+      "display_name": "0xford",
+      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rocky",
+      "profile_exists": true
     },
     {
       "badgeId": "0xdae4909b11fde52d98b1fb6831dbd75eb420347fa2ba126cc8ec91010c790d81",
@@ -1711,10 +1711,10 @@
       "winningAmount": 238002118,
       "timestamp": 1756761721778,
       "rarity": "common",
-      "username": null,
-      "display_name": null,
-      "avatar_url": null,
-      "profile_exists": false
+      "username": "myria",
+      "display_name": "myria",
+      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Garfield",
+      "profile_exists": true
     },
     {
       "badgeId": "0xadf77daf9db64e1640da2846504d650b121859a2414efc64e4a7d9aa182b4a2b",
@@ -1723,10 +1723,10 @@
       "winningAmount": 1079805809,
       "timestamp": 1756761721778,
       "rarity": "common",
-      "username": null,
-      "display_name": null,
-      "avatar_url": null,
-      "profile_exists": false
+      "username": "myria",
+      "display_name": "myria",
+      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Garfield",
+      "profile_exists": true
     },
     {
       "badgeId": "0x6d4ebb1374aa3abca269de1a336a251bab5188076feac23078dc894eb9a35244",
@@ -1735,10 +1735,10 @@
       "winningAmount": 817242668,
       "timestamp": 1756761721778,
       "rarity": "common",
-      "username": null,
-      "display_name": null,
-      "avatar_url": null,
-      "profile_exists": false
+      "username": "0xhantos",
+      "display_name": "0xhantos",
+      "avatar_url": "https://api.dicebear.com/7.x/avataaars/svg?seed=Max",
+      "profile_exists": true
     },
     {
       "badgeId": "0xd119d61336b7a162629796adc82b8c140280700c0894f6bf9d258f4e811b5240",
@@ -2029,5 +2029,5 @@
       "profile_exists": true
     }
   ],
-  "timestamp": 1762230869248
+  "timestamp": 1762705970224
 }

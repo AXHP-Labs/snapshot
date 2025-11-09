@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2025-11-06T16:20:48.680Z",
+    "generated_at": "2025-11-09T16:33:39.398Z",
     "date_range": {
       "from": "2025-08-20",
-      "to": "2025-11-06"
+      "to": "2025-11-09"
     },
-    "total_days": 77
+    "total_days": 80
   },
   "data": [
     {
@@ -543,9 +543,30 @@
     {
       "date": "2025-11-06",
       "new_users": 24,
-      "active_users": 51,
-      "returning_users": 27,
+      "active_users": 56,
+      "returning_users": 32,
       "total_cumulative_users": 297
+    },
+    {
+      "date": "2025-11-07",
+      "new_users": 2,
+      "active_users": 31,
+      "returning_users": 29,
+      "total_cumulative_users": 299
+    },
+    {
+      "date": "2025-11-08",
+      "new_users": 2,
+      "active_users": 26,
+      "returning_users": 24,
+      "total_cumulative_users": 301
+    },
+    {
+      "date": "2025-11-09",
+      "new_users": 1,
+      "active_users": 7,
+      "returning_users": 6,
+      "total_cumulative_users": 302
     }
   ]
 }

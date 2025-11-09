@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2025-11-06T16:20:48.680Z",
+    "generated_at": "2025-11-09T16:33:39.398Z",
     "date_range": {
       "from": "2025-08-20",
-      "to": "2025-11-06"
+      "to": "2025-11-09"
     },
-    "total_days": 77
+    "total_days": 80
   },
   "data": [
     {
@@ -965,6 +965,35 @@
         "crypto": {
           "new": 0,
           "resolved": 1
+        }
+      }
+    },
+    {
+      "date": "2025-11-07",
+      "new_markets": 0,
+      "total_cumulative_markets": 99,
+      "resolved_markets": 0,
+      "active_markets": 27,
+      "categories": {}
+    },
+    {
+      "date": "2025-11-08",
+      "new_markets": 0,
+      "total_cumulative_markets": 99,
+      "resolved_markets": 0,
+      "active_markets": 27,
+      "categories": {}
+    },
+    {
+      "date": "2025-11-09",
+      "new_markets": 1,
+      "total_cumulative_markets": 100,
+      "resolved_markets": 0,
+      "active_markets": 28,
+      "categories": {
+        "crypto": {
+          "new": 1,
+          "resolved": 0
         }
       }
     }
